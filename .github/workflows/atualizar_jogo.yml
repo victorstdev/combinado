@@ -1,0 +1,45 @@
+name: Gerador Diário do Jogo
+
+on:
+  schedule:
+    # Roda todo dia à meia-noite (Horário UTC)
+    # Cron syntax: minuto hora dia mês dia-da-semana
+    - cron: '0 0 * * *'
+  
+  # Permite que você clique num botão "Run" para testar manualmente quando quiser
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Baixar o código do repositório
+      uses: actions/checkout@v3
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Instalar bibliotecas
+      run: |
+        pip install openai
+
+    - name: Rodar o gerador de IA
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      run: |
+        python gerar_jogo.py
+
+    - name: Salvar e subir o novo arquivo JSON
+      run: |
+        git config --global user.name 'Robô do Jogo'
+        git config --global user.email 'robo@seu-jogo.com'
+        git add puzzle.json
+        # O comando abaixo só faz commit se houver mudanças, evitando erro se rodar 2x
+        git commit -m "Atualização diária do jogo: $(date +'%Y-%m-%d')" || exit 0
+        git push
