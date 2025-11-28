@@ -1,0 +1,41 @@
+{
+  "grupos": [
+    {
+      "tema": "Atores e Atrizes Brasileiros (Nome Artístico)",
+      "palavras": [
+        "Fernanda",
+        "Tarcísio",
+        "Lima",
+        "Glória"
+      ]
+    },
+    {
+      "tema": "Componentes de uma Árvore",
+      "palavras": [
+        "Tronco",
+        "Raiz",
+        "Galho",
+        "Folha"
+      ]
+    },
+    {
+      "tema": "Gêneros Musicais Brasileiros",
+      "palavras": [
+        "Samba",
+        "Frevo",
+        "Forró",
+        "Carimbó"
+      ]
+    },
+    {
+      "tema": "Sinônimos de 'Rápido'",
+      "palavras": [
+        "Veloz",
+        "Ágil",
+        "Presto",
+        "Célere"
+      ]
+    }
+  ],
+  "data": "2025-11-28"
+}
