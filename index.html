@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combinado do Dia</title>
+    <style>
+        :root {
+            --cor-fundo: #fefefe;
+            --cor-botao: #efefe6;
+            --cor-selecionado: #5a5a5a;
+            --cor-texto-selecionado: #fff;
+            --cor-acerto: #a6d1a6; /* Verde suave */
+        }
+        body { font-family: sans-serif; text-align: center; background: var(--cor-fundo); padding: 20px; }
+        h1 { margin-bottom: 10px; }
+        #data-jogo { color: #666; margin-bottom: 20px; font-size: 0.9em; }
+        
+        /* Grid do Jogo */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        
+        .card {
+            background: var(--cor-botao);
+            border: none;
+            padding: 20px 5px;
+            border-radius: 8px;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 0.8em;
+            cursor: pointer;
+            transition: transform 0.1s;
+            min-height: 80px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            word-break: break-word;
+        }
+        
+        .card.selecionado {
+            background: var(--cor-selecionado);
+            color: var(--cor-texto-selecionado);
+        }
+        
+        .card.resolvido {
+            cursor: default;
+            animation: pop 0.3s ease;
+        }
+
+        /* Área de Mensagens */
+        #mensagem { margin-top: 20px; height: 30px; font-weight: bold; color: #333; }
+        
+        /* Botão de Enviar */
+        #btn-verificar {
+            margin-top: 20px;
+            padding: 12px 24px;
+            border-radius: 20px;
+            border: 1px solid #333;
+            background: white;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        #btn-verificar:disabled { opacity: 0.5; cursor: not-allowed; }
+
+        /* Estilo dos Grupos Resolvidos (Barra colorida) */
+        .grupo-resolvido {
+            grid-column: span 4;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: black;
+            text-align: center;
+        }
+        .grupo-resolvido span { display: block; font-weight: normal; font-size: 0.9em; margin-top: 4px; }
+
+        @keyframes pop { 0% { transform: scale(0.9); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } }
+    </style>
+</head>
+<body>
+
+    <h1>Combinado AI</h1>
+    <div id="data-jogo">Carregando...</div>
+
+    <div id="tabuleiro" class="grid">
