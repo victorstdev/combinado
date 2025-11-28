@@ -27,7 +27,8 @@ jobs:
 
     - name: Instalar bibliotecas
       run: |
-        pip install google-generativeai
+        python -m pip install --upgrade pip
+        pip install -U google-generativeai
 
     - name: Rodar o gerador de IA
       env:

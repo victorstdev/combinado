@@ -4,7 +4,7 @@ import sys
 from datetime import datetime
 import google.generativeai as genai
 
-# Configuração da API do Google
+# Configuração da API
 chave = os.environ.get("GEMINI_API_KEY")
 if not chave:
     print("❌ Erro: Chave GEMINI_API_KEY não encontrada.")
@@ -13,12 +13,20 @@ if not chave:
 genai.configure(api_key=chave)
 
 def gerar_puzzle():
-    print("🤖 Consultando o Gemini para criar o desafio...")
+    print("🤖 Consultando o Gemini...")
 
-    # Configuração do modelo para forçar resposta JSON
-    model = genai.GenerativeModel('gemini-1.5-flash',
-        generation_config={"response_mime_type": "application/json"}
-    )
+    # TENTATIVA 1: Usar o modelo Flash específico (mais rápido e barato)
+    modelo_nome = 'gemini-1.5-flash-001'
+    
+    try:
+        model = genai.GenerativeModel(
+            modelo_nome,
+            generation_config={"response_mime_type": "application/json"}
+        )
+    except:
+        # Fallback para o modelo Pro se o Flash falhar na inicialização
+        print(f"⚠️ Modelo {modelo_nome} falhou, tentando gemini-1.5-pro-latest...")
+        model = genai.GenerativeModel('gemini-1.5-pro-latest')
 
     prompt = """
     Crie um jogo estilo 'Connections' (NYT) em Português do Brasil.
@@ -27,13 +35,15 @@ def gerar_puzzle():
     Regras:
     1. Temas variados (Cultura BR, Objetos, Gramática, etc).
     2. Use "pegadinhas" (palavras que parecem de outro grupo).
-    3. Responda APENAS o JSON, sem markdown.
+    3. Responda APENAS o JSON.
 
-    O formato deve ser EXATAMENTE este:
+    Formato EXATO:
     {
       "grupos": [
-        { "tema": "NOME DO TEMA", "palavras": ["P1", "P2", "P3", "P4"] },
-        ... (total de 4 grupos)
+        { "tema": "TEMA 1", "palavras": ["A", "B", "C", "D"] },
+        { "tema": "TEMA 2", "palavras": ["E", "F", "G", "H"] },
+        { "tema": "TEMA 3", "palavras": ["I", "J", "K", "L"] },
+        { "tema": "TEMA 4", "palavras": ["M", "N", "O", "P"] }
       ]
     }
     """
@@ -41,30 +51,28 @@ def gerar_puzzle():
     try:
         response = model.generate_content(prompt)
         
-        # O Gemini já deve retornar JSON puro devido à configuração, 
-        # mas garantimos limpando espaços extras
-        texto_limpo = response.text.strip()
-        
-        dados_jogo = json.loads(texto_limpo)
-        return dados_jogo
+        # Limpeza e conversão do JSON
+        texto = response.text.replace("```json", "").replace("```", "").strip()
+        return json.loads(texto)
 
     except Exception as e:
-        print(f"Erro na geração ou conversão do JSON: {e}")
-        print("Resposta recebida:", response.text if 'response' in locals() else "Nada")
+        print(f"❌ Erro ao gerar conteúdo: {e}")
+        # Se der erro, vamos listar os modelos disponíveis para ajudar no debug
+        print("Modelos disponíveis na sua conta:")
+        for m in genai.list_models():
+            if 'generateContent' in m.supported_generation_methods:
+                print(f"- {m.name}")
         raise e
 
 if __name__ == "__main__":
     try:
         novo_jogo = gerar_puzzle()
-        
-        # Adiciona a data
         novo_jogo["data"] = datetime.now().strftime("%Y-%m-%d")
         
-        # Salva o arquivo
         with open("puzzle.json", "w", encoding="utf-8") as f:
             json.dump(novo_jogo, f, ensure_ascii=False, indent=2)
             
-        print("✅ Sucesso! Arquivo 'puzzle.json' gerado com Gemini.")
+        print("✅ Sucesso! Arquivo gerado.")
         
     except Exception as e:
         print(f"❌ ERRO FATAL: {e}")
