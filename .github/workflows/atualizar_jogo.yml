@@ -1,4 +1,29 @@
-# ... (início igual) ...
+name: Gerador Diário do Jogo
+
+on:
+  schedule:
+    # Roda todo dia à meia-noite (Horário UTC)
+    # Cron syntax: minuto hora dia mês dia-da-semana
+    - cron: '0 0 * * *'
+  
+  # Permite que você clique num botão "Run" para testar manualmente quando quiser
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Baixar o código do repositório
+      uses: actions/checkout@v3
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
 
     - name: Instalar bibliotecas
       run: |
