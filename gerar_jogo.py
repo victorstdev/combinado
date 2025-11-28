@@ -13,37 +13,37 @@ if not chave:
 genai.configure(api_key=chave)
 
 def gerar_puzzle():
-    print("🤖 Consultando o Gemini...")
+    print("🤖 Consultando o Gemini 2.5 Flash...")
 
-    # TENTATIVA 1: Usar o modelo Flash específico (mais rápido e barato)
-    modelo_nome = 'gemini-1.5-flash-001'
+    # ATUALIZAÇÃO: Usando o modelo disponível na sua lista
+    modelo_nome = 'models/gemini-2.5-flash'
     
     try:
+        # Configuração para garantir resposta em JSON
         model = genai.GenerativeModel(
             modelo_nome,
             generation_config={"response_mime_type": "application/json"}
         )
-    except:
-        # Fallback para o modelo Pro se o Flash falhar na inicialização
-        print(f"⚠️ Modelo {modelo_nome} falhou, tentando gemini-1.5-pro-latest...")
-        model = genai.GenerativeModel('gemini-1.5-pro-latest')
+    except Exception as e:
+        print(f"Erro ao configurar o modelo {modelo_nome}: {e}")
+        sys.exit(1)
 
     prompt = """
     Crie um jogo estilo 'Connections' (NYT) em Português do Brasil.
     Gere um JSON com 4 grupos de 4 palavras.
     
     Regras:
-    1. Temas variados (Cultura BR, Objetos, Gramática, etc).
-    2. Use "pegadinhas" (palavras que parecem de outro grupo).
-    3. Responda APENAS o JSON.
+    1. Temas variados (Cultura BR, Objetos, Gramática, Lugares, etc).
+    2. Importante: Crie "red herrings" (palavras que parecem pertencer a um grupo mas são de outro).
+    3. Responda APENAS o JSON válido.
 
-    Formato EXATO:
+    O formato de saída deve ser EXATAMENTE este:
     {
       "grupos": [
-        { "tema": "TEMA 1", "palavras": ["A", "B", "C", "D"] },
-        { "tema": "TEMA 2", "palavras": ["E", "F", "G", "H"] },
-        { "tema": "TEMA 3", "palavras": ["I", "J", "K", "L"] },
-        { "tema": "TEMA 4", "palavras": ["M", "N", "O", "P"] }
+        { "tema": "TEMA 1", "palavras": ["Palavra1", "Palavra2", "Palavra3", "Palavra4"] },
+        { "tema": "TEMA 2", "palavras": ["Palavra1", "Palavra2", "Palavra3", "Palavra4"] },
+        { "tema": "TEMA 3", "palavras": ["Palavra1", "Palavra2", "Palavra3", "Palavra4"] },
+        { "tema": "TEMA 4", "palavras": ["Palavra1", "Palavra2", "Palavra3", "Palavra4"] }
       ]
     }
     """
@@ -51,17 +51,17 @@ def gerar_puzzle():
     try:
         response = model.generate_content(prompt)
         
-        # Limpeza e conversão do JSON
+        # Limpeza de segurança (caso o modelo coloque crases de markdown)
         texto = response.text.replace("```json", "").replace("```", "").strip()
-        return json.loads(texto)
+        
+        dados_jogo = json.loads(texto)
+        return dados_jogo
 
     except Exception as e:
-        print(f"❌ Erro ao gerar conteúdo: {e}")
-        # Se der erro, vamos listar os modelos disponíveis para ajudar no debug
-        print("Modelos disponíveis na sua conta:")
-        for m in genai.list_models():
-            if 'generateContent' in m.supported_generation_methods:
-                print(f"- {m.name}")
+        print(f"❌ Erro ao gerar ou converter o JSON: {e}")
+        # Se der erro, mostra o texto cru para entendermos o que houve
+        if 'response' in locals():
+            print(f"Resposta crua recebida: {response.text}")
         raise e
 
 if __name__ == "__main__":
@@ -72,7 +72,7 @@ if __name__ == "__main__":
         with open("puzzle.json", "w", encoding="utf-8") as f:
             json.dump(novo_jogo, f, ensure_ascii=False, indent=2)
             
-        print("✅ Sucesso! Arquivo gerado.")
+        print("✅ Sucesso! Arquivo 'puzzle.json' gerado com Gemini 2.5.")
         
     except Exception as e:
         print(f"❌ ERRO FATAL: {e}")
