@@ -1,39 +1,39 @@
 {
   "grupos": [
     {
-      "tema": "INSTRUMENTOS MUSICAIS DE SOPRO",
+      "tema": "PEÇAS DO JOGO DE XADREZ",
       "palavras": [
-        "Flauta",
-        "Trombone",
-        "Saxofone",
-        "Clarinete"
+        "Rei",
+        "Rainha",
+        "Torre",
+        "Bispo"
       ]
     },
     {
-      "tema": "TEMPEROS E CONDIMENTOS",
+      "tema": "CONSISTÊNCIAS E PREPARAÇÕES CULINÁRIAS",
       "palavras": [
-        "Pimenta",
-        "Alecrim",
-        "Cominho",
-        "Orégano"
+        "Glacê",
+        "Calda",
+        "Emulsão",
+        "Mousse"
       ]
     },
     {
-      "tema": "TERMOS DE REDE SOCIAL",
+      "tema": "CORPOS CELESTES (NÃO PLANETAS OU ESTRELAS)",
       "palavras": [
-        "Perfil",
-        "Postagem",
-        "Feed",
-        "Hashtag"
+        "Cometa",
+        "Asteroide",
+        "Satélite",
+        "Nebulosa"
       ]
     },
     {
-      "tema": "PARTES DO CORPO (MEMBROS E ARTICULAÇÕES)",
+      "tema": "TERMOS QUE INDICAM PEQUENA QUANTIDADE",
       "palavras": [
-        "Cotovelo",
-        "Joelho",
-        "Pescoço",
-        "Canela"
+        "Migalha",
+        "Pinga",
+        "Gota",
+        "Fio"
       ]
     }
   ],
