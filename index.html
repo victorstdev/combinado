@@ -1,21 +1,37 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Combinado do Dia</title>
+    <title>Combinado do Victor</title>
     <style>
         :root {
             --cor-fundo: #fefefe;
             --cor-botao: #efefe6;
             --cor-selecionado: #5a5a5a;
             --cor-texto-selecionado: #fff;
-            --cor-acerto: #a6d1a6; /* Verde suave */
+            --cor-acerto: #a6d1a6;
+            /* Verde suave */
         }
-        body { font-family: sans-serif; text-align: center; background: var(--cor-fundo); padding: 20px; }
-        h1 { margin-bottom: 10px; }
-        #data-jogo { color: #666; margin-bottom: 20px; font-size: 0.9em; }
-        
+
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            background: var(--cor-fundo);
+            padding: 20px;
+        }
+
+        h1 {
+            margin-bottom: 10px;
+        }
+
+        #data-jogo {
+            color: #666;
+            margin-bottom: 20px;
+            font-size: 0.9em;
+        }
+
         /* Grid do Jogo */
         .grid {
             display: grid;
@@ -24,7 +40,7 @@
             max-width: 600px;
             margin: 0 auto;
         }
-        
+
         .card {
             background: var(--cor-botao);
             border: none;
@@ -41,20 +57,25 @@
             justify-content: center;
             word-break: break-word;
         }
-        
+
         .card.selecionado {
             background: var(--cor-selecionado);
             color: var(--cor-texto-selecionado);
         }
-        
+
         .card.resolvido {
             cursor: default;
             animation: pop 0.3s ease;
         }
 
         /* Área de Mensagens */
-        #mensagem { margin-top: 20px; height: 30px; font-weight: bold; color: #333; }
-        
+        #mensagem {
+            margin-top: 20px;
+            height: 30px;
+            font-weight: bold;
+            color: #333;
+        }
+
         /* Botão de Enviar */
         #btn-verificar {
             margin-top: 20px;
@@ -65,7 +86,11 @@
             cursor: pointer;
             font-weight: bold;
         }
-        #btn-verificar:disabled { opacity: 0.5; cursor: not-allowed; }
+
+        #btn-verificar:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
 
         /* Estilo dos Grupos Resolvidos (Barra colorida) */
         .grupo-resolvido {
@@ -74,24 +99,43 @@
             border-radius: 8px;
             margin-bottom: 5px;
             font-weight: bold;
-            color: black;
+            color: white;
             text-align: center;
         }
-        .grupo-resolvido span { display: block; font-weight: normal; font-size: 0.9em; margin-top: 4px; }
 
-        @keyframes pop { 0% { transform: scale(0.9); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } }
+        .grupo-resolvido span {
+            display: block;
+            font-weight: normal;
+            font-size: 0.9em;
+            margin-top: 4px;
+        }
+
+        @keyframes pop {
+            0% {
+                transform: scale(0.9);
+            }
+
+            50% {
+                transform: scale(1.05);
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
     </style>
 </head>
+
 <body>
 
-    <h1>Combinado AI</h1>
+    <h1>Combinado do Victor</h1>
     <div id="data-jogo">Carregando...</div>
 
     <div id="tabuleiro" class="grid">
-        </div>
+    </div>
 
     <div id="mensagem"></div>
-    
+
     <button id="btn-verificar" onclick="verificarGrupo()" disabled>Enviar Tentativa</button>
 
     <script>
@@ -99,7 +143,7 @@
         let selecionados = [];
         let gruposResolvidos = [];
         // Cores para os grupos resolvidos (Amarelo, Verde, Azul, Roxo)
-        const cores = ["#f9df6d", "#a0c35a", "#b0c4ef", "#ba81c5"]; 
+        const cores = ["#ffb703", "#226f54", "#00509d", "#f72585"];
 
         // 1. Carregar o JSON
         // O parametro '?v=' evita que o navegador use cache velho
@@ -153,19 +197,29 @@
             if (elemento.classList.contains('resolvido')) return;
 
             const id = elemento.dataset.id;
-            
+
             // Se já selecionado, desmarca
             if (selecionados.includes(elemento)) {
                 elemento.classList.remove('selecionado');
                 selecionados = selecionados.filter(el => el !== elemento);
             } else {
-                // Se não, marca (limite de 4)
-                if (selecionados.length < 4) {
-                    elemento.classList.add('selecionado');
-                    selecionados.push(elemento);
+                // Se não, marca
+                elemento.classList.add('selecionado');
+                selecionados.push(elemento);
+
+                // Se atingiu 4, armazena e limpa para o próximo grupo
+                if (selecionados.length === 4) {
+                    // Armazena uma cópia da seleção
+                    const tentativa = [...selecionados];
+
+                    // Limpa visualmente
+                    selecionados.forEach(el => el.classList.remove('selecionado'));
+
+                    // Verifica automaticamente
+                    verificarGrupo();
                 }
             }
-            
+
             // Habilita botão apenas se tiver 4
             document.getElementById('btn-verificar').disabled = selecionados.length !== 4;
         }
@@ -175,7 +229,7 @@
 
             // Pega o índice do grupo da primeira carta
             const grupoAlvo = selecionados[0].dataset.grupo;
-            
+
             // Verifica se TODAS as 4 cartas tem o mesmo índice
             const acertou = selecionados.every(el => el.dataset.grupo === grupoAlvo);
 
@@ -192,7 +246,7 @@
                 divResolvido.className = 'grupo-resolvido';
                 divResolvido.style.backgroundColor = corGrupo;
                 divResolvido.innerHTML = `<strong>${infoGrupo.tema}</strong><br><span>${infoGrupo.palavras.join(', ')}</span>`;
-                
+
                 // Insere antes do primeiro card
                 const tabuleiro = document.getElementById('tabuleiro');
                 tabuleiro.insertBefore(divResolvido, tabuleiro.firstChild);
@@ -210,7 +264,7 @@
             } else {
                 // ERRO
                 document.getElementById('mensagem').innerText = "Não é um grupo...";
-                
+
                 // Animaçãozinha simples (piscar)
                 selecionados.forEach(el => {
                     el.classList.add('erro');
@@ -224,4 +278,5 @@
         }
     </script>
 </body>
+
 </html>
