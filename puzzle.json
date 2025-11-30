@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PEÇAS DO JOGO DE XADREZ",
+      "tema": "Componentes Estruturais",
       "palavras": [
-        "Rei",
-        "Rainha",
-        "Torre",
-        "Bispo"
+        "Viga",
+        "Alicerce",
+        "Pilar",
+        "Arcada"
       ]
     },
     {
-      "tema": "CONSISTÊNCIAS E PREPARAÇÕES CULINÁRIAS",
+      "tema": "Animais em Expressões Idiomáticas",
       "palavras": [
-        "Glacê",
-        "Calda",
-        "Emulsão",
-        "Mousse"
+        "Pato",
+        "Bode",
+        "Mosca",
+        "Leão"
       ]
     },
     {
-      "tema": "CORPOS CELESTES (NÃO PLANETAS OU ESTRELAS)",
+      "tema": "Termos de Jogos de Cartas",
       "palavras": [
-        "Cometa",
-        "Asteroide",
-        "Satélite",
-        "Nebulosa"
+        "Naipe",
+        "Trunfo",
+        "Blefe",
+        "Curinga"
       ]
     },
     {
-      "tema": "TERMOS QUE INDICAM PEQUENA QUANTIDADE",
+      "tema": "Tipos de Barcos e Embarcações",
       "palavras": [
-        "Migalha",
-        "Pinga",
-        "Gota",
-        "Fio"
+        "Canoa",
+        "Jangada",
+        "Escuna",
+        "Bote"
       ]
     }
   ],
-  "data": "2025-11-29"
+  "data": "2025-11-30"
 }
