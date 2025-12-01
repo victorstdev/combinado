@@ -1,39 +1,39 @@
 {
   "grupos": [
     {
-      "tema": "Verbos de Movimento Aéreo",
+      "tema": "Gírias ou termos informais com nomes de aves",
       "palavras": [
-        "Decolar",
-        "Pousar",
-        "Planar",
-        "Pairar"
+        "CORUJA",
+        "PARDAL",
+        "PATO",
+        "FRANGO"
       ]
     },
     {
-      "tema": "Fenômenos Atmosféricos",
+      "tema": "No estado inicial ou não desenvolvido",
       "palavras": [
-        "Nuvem",
-        "Trovoada",
-        "Ventania",
-        "Relâmpago"
+        "CRUDO",
+        "INCIPIENTE",
+        "EM BRUTO",
+        "GERME"
       ]
     },
     {
-      "tema": "Órgãos Vitais (e seus outros significados)",
+      "tema": "Componentes da oração",
       "palavras": [
-        "Língua",
-        "Coração",
-        "Pulmão",
-        "Cérebro"
+        "SUJEITO",
+        "PREDICADO",
+        "CONJUNÇÃO",
+        "ARTIGO"
       ]
     },
     {
-      "tema": "Meios de Transmissão de Mensagens",
+      "tema": "Termos que indicam um estado ou condição (com uso da preposição 'em')",
       "palavras": [
-        "Telefone",
-        "Rádio",
-        "Carta",
-        "Email"
+        "JEJUM",
+        "VÃO",
+        "PÉ",
+        "ASCENSÃO"
       ]
     }
   ],
