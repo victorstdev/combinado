@@ -35,8 +35,8 @@ def gerar_puzzle():
     Regras:
     1. Temas variados (Cultura BR, Objetos, Gramática, Lugares, etc).
     2. Importante: Crie "red herrings" (palavras que parecem pertencer a um grupo mas são de outro).
-    3. Importante: deixe o jogo mais complicado, evitando temas óbvios ou muito simples.
-    4. Use palavras comuns, mas evite palavras muito fáceis ou muito difíceis.
+    3. Importante: deixe o jogo muito difícil, evitando temas óbvios ou muito simples.
+    4. Use palavras comuns, mas evite palavras muito fáceis.
     5. Responda APENAS o JSON válido.
 
     O formato de saída deve ser EXATAMENTE este:
