@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes Estruturais",
+      "tema": "Verbos de Movimento Aéreo",
       "palavras": [
-        "Viga",
-        "Alicerce",
-        "Pilar",
-        "Arcada"
+        "Decolar",
+        "Pousar",
+        "Planar",
+        "Pairar"
       ]
     },
     {
-      "tema": "Animais em Expressões Idiomáticas",
+      "tema": "Fenômenos Atmosféricos",
       "palavras": [
-        "Pato",
-        "Bode",
-        "Mosca",
-        "Leão"
+        "Nuvem",
+        "Trovoada",
+        "Ventania",
+        "Relâmpago"
       ]
     },
     {
-      "tema": "Termos de Jogos de Cartas",
+      "tema": "Órgãos Vitais (e seus outros significados)",
       "palavras": [
-        "Naipe",
-        "Trunfo",
-        "Blefe",
-        "Curinga"
+        "Língua",
+        "Coração",
+        "Pulmão",
+        "Cérebro"
       ]
     },
     {
-      "tema": "Tipos de Barcos e Embarcações",
+      "tema": "Meios de Transmissão de Mensagens",
       "palavras": [
-        "Canoa",
-        "Jangada",
-        "Escuna",
-        "Bote"
+        "Telefone",
+        "Rádio",
+        "Carta",
+        "Email"
       ]
     }
   ],
-  "data": "2025-11-30"
+  "data": "2025-12-01"
 }
