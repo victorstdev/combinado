@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Gírias ou termos informais com nomes de aves",
+      "tema": "Conceitos ou Termos Relacionados ao Som",
       "palavras": [
-        "CORUJA",
-        "PARDAL",
-        "PATO",
-        "FRANGO"
+        "Eco",
+        "Ressoar",
+        "Diapasão",
+        "Harmonia"
       ]
     },
     {
-      "tema": "No estado inicial ou não desenvolvido",
+      "tema": "Coisas Que Produzem Estalo",
       "palavras": [
-        "CRUDO",
-        "INCIPIENTE",
-        "EM BRUTO",
-        "GERME"
+        "Chicote",
+        "Dedo",
+        "Pipoca",
+        "Raios"
       ]
     },
     {
-      "tema": "Componentes da oração",
+      "tema": "Termos Jornalísticos com Outros Sentidos",
       "palavras": [
-        "SUJEITO",
-        "PREDICADO",
-        "CONJUNÇÃO",
-        "ARTIGO"
+        "Manchete",
+        "Tiragem",
+        "Reportagem",
+        "Coluna"
       ]
     },
     {
-      "tema": "Termos que indicam um estado ou condição (com uso da preposição 'em')",
+      "tema": "Flores Que Também São Nomes Femininos",
       "palavras": [
-        "JEJUM",
-        "VÃO",
-        "PÉ",
-        "ASCENSÃO"
+        "Camélia",
+        "Dália",
+        "Hortênsia",
+        "Margarida"
       ]
     }
   ],
-  "data": "2025-12-01"
+  "data": "2025-12-02"
 }
