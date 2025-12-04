@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Ações Associadas a 'Cortar' (Literal ou Figurativo)",
+      "tema": "Termos Relacionados ao Café",
       "palavras": [
-        "Ramo",
-        "Fita",
-        "Laço",
-        "Gás"
+        "BORRA",
+        "COADOR",
+        "PÓ",
+        "GRÃO"
       ]
     },
     {
-      "tema": "Termos Culinários em Expressões Idiomáticas",
+      "tema": "Verbos de Ação Culinária",
       "palavras": [
-        "Pimenta",
-        "Sal",
-        "Açúcar",
-        "Tempero"
+        "BATER",
+        "REFOGAR",
+        "TEMPERAR",
+        "DESOSSAR"
       ]
     },
     {
-      "tema": "Expressões Populares Iniciadas com 'Pé'",
+      "tema": "Partes de Embarcações",
       "palavras": [
-        "Pé-direito",
-        "Pé-de-moleque",
-        "Pé-de-cabra",
-        "Pé-de-galinha"
+        "MASTRO",
+        "QUILHA",
+        "LEME",
+        "PROA"
       ]
     },
     {
-      "tema": "Alvo de Ações com o Verbo 'Bater'",
+      "tema": "Siglas de Tributos Brasileiros",
       "palavras": [
-        "Ponto",
-        "Porta",
-        "Carne",
-        "Papo"
+        "IPVA",
+        "IPTU",
+        "ICMS",
+        "IR"
       ]
     }
   ],
-  "data": "2025-12-03"
+  "data": "2025-12-04"
 }
