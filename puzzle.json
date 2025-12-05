@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos Relacionados ao Café",
+      "tema": "Ferramentas e Conceitos de Medição",
       "palavras": [
-        "BORRA",
-        "COADOR",
-        "PÓ",
-        "GRÃO"
+        "Balança",
+        "Nível",
+        "Prumo",
+        "Escala"
       ]
     },
     {
-      "tema": "Verbos de Ação Culinária",
+      "tema": "Algo Que Se Quebra Ou Interrompe",
       "palavras": [
-        "BATER",
-        "REFOGAR",
-        "TEMPERAR",
-        "DESOSSAR"
+        "Silêncio",
+        "Jeum",
+        "Regra",
+        "Galho"
       ]
     },
     {
-      "tema": "Partes de Embarcações",
+      "tema": "Termos de Jogos de Baralho",
       "palavras": [
-        "MASTRO",
-        "QUILHA",
-        "LEME",
-        "PROA"
+        "Naipe",
+        "Rodada",
+        "Mão",
+        "Curinga"
       ]
     },
     {
-      "tema": "Siglas de Tributos Brasileiros",
+      "tema": "Conceitos Associados a \"Cabeça\"",
       "palavras": [
-        "IPVA",
-        "IPTU",
-        "ICMS",
-        "IR"
+        "Líder",
+        "Mente",
+        "Cérebro",
+        "Capitão"
       ]
     }
   ],
-  "data": "2025-12-04"
+  "data": "2025-12-05"
 }
