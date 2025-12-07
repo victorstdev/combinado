@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Palavras que antecedem 'de gato' em expressões ou nomes",
+      "tema": "Ícones da Música Infantil Brasileira",
       "palavras": [
-        "Olho",
-        "Pulo",
+        "Xuxa",
+        "Balão",
+        "Eliana",
+        "Palavra"
+      ]
+    },
+    {
+      "tema": "Conceitos Abstratos que Podem Ser \"Cegos\"",
+      "palavras": [
+        "Raiva",
+        "Paixão",
+        "Fé",
+        "Sorte"
+      ]
+    },
+    {
+      "tema": "Elementos Comuns em Nomes de Praças no Brasil",
+      "palavras": [
+        "Matriz",
         "Sete",
-        "Boca"
+        "Bandeira",
+        "Liberdade"
       ]
     },
     {
-      "tema": "Componentes de instrumentos de corda",
+      "tema": "Entidades ou Objetos que Recebem um \"Batismo\" (Nome)",
       "palavras": [
-        "Cavalete",
-        "Traste",
-        "Cravelha",
-        "Braço"
-      ]
-    },
-    {
-      "tema": "Verbos sinônimos de enganar, confundir ou ludibriar",
-      "palavras": [
-        "Mistificar",
-        "Lograr",
-        "Obnubilar",
-        "Tapear"
-      ]
-    },
-    {
-      "tema": "Elementos ou atributos associados a seres do folclore brasileiro",
-      "palavras": [
-        "Redemoinho",
-        "Fogo",
-        "Pés",
-        "Mato"
+        "Navio",
+        "Bloco",
+        "Escola",
+        "Time"
       ]
     }
   ],
-  "data": "2025-12-06"
+  "data": "2025-12-07"
 }
