@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Ícones da Música Infantil Brasileira",
+      "tema": "Verbos que indicam falha ou interrupção",
       "palavras": [
-        "Xuxa",
-        "Balão",
-        "Eliana",
-        "Palavra"
+        "Vazar",
+        "Travar",
+        "Quebrar",
+        "Escorregar"
       ]
     },
     {
-      "tema": "Conceitos Abstratos que Podem Ser \"Cegos\"",
+      "tema": "Componentes de instrumentos musicais",
       "palavras": [
-        "Raiva",
-        "Paixão",
-        "Fé",
-        "Sorte"
+        "Braço",
+        "Corpo",
+        "Boquilha",
+        "Campana"
       ]
     },
     {
-      "tema": "Elementos Comuns em Nomes de Praças no Brasil",
+      "tema": "Unidades de medida históricas ou específicas",
       "palavras": [
-        "Matriz",
-        "Sete",
-        "Bandeira",
-        "Liberdade"
+        "Braça",
+        "Légua",
+        "Alqueire",
+        "Quilate"
       ]
     },
     {
-      "tema": "Entidades ou Objetos que Recebem um \"Batismo\" (Nome)",
+      "tema": "Locais de abrigo para criação de animais",
       "palavras": [
-        "Navio",
-        "Bloco",
-        "Escola",
-        "Time"
+        "Cocheira",
+        "Pocilga",
+        "Aprisco",
+        "Colmeia"
       ]
     }
   ],
-  "data": "2025-12-07"
+  "data": "2025-12-08"
 }
