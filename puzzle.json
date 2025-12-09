@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Verbos que indicam falha ou interrupção",
+      "tema": "Expressões com 'Passar'",
       "palavras": [
-        "Vazar",
-        "Travar",
-        "Quebrar",
-        "Escorregar"
+        "Tempo",
+        "Moda",
+        "Vergonha",
+        "Pano"
       ]
     },
     {
-      "tema": "Componentes de instrumentos musicais",
+      "tema": "Partes do Corpo (Metonímia)",
       "palavras": [
-        "Braço",
-        "Corpo",
-        "Boquilha",
-        "Campana"
+        "Pescoço",
+        "Pé",
+        "Mão",
+        "Cabeça"
       ]
     },
     {
-      "tema": "Unidades de medida históricas ou específicas",
+      "tema": "Conceitos Gramaticais (ou Sinônimos)",
       "palavras": [
-        "Braça",
-        "Légua",
-        "Alqueire",
-        "Quilate"
+        "Artigo",
+        "Verbo",
+        "Pronome",
+        "Conjunção"
       ]
     },
     {
-      "tema": "Locais de abrigo para criação de animais",
+      "tema": "Vocabulário de Jogos e Estratégias",
       "palavras": [
-        "Cocheira",
-        "Pocilga",
-        "Aprisco",
-        "Colmeia"
+        "Aposta",
+        "Lance",
+        "Blefe",
+        "Truque"
       ]
     }
   ],
-  "data": "2025-12-08"
+  "data": "2025-12-09"
 }
