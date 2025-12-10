@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Expressões com 'Passar'",
+      "tema": "Algo que se 'bate' (em diferentes sentidos)",
       "palavras": [
-        "Tempo",
-        "Moda",
-        "Vergonha",
-        "Pano"
+        "Ponto",
+        "Meta",
+        "Recorde",
+        "Tambor"
       ]
     },
     {
-      "tema": "Partes do Corpo (Metonímia)",
+      "tema": "Objetos que flutuam ou ascendem",
       "palavras": [
-        "Pescoço",
+        "Cometa",
+        "Balão",
+        "Bóia",
+        "Dirigível"
+      ]
+    },
+    {
+      "tema": "Partes do corpo com múltiplos significados",
+      "palavras": [
+        "Palma",
         "Pé",
-        "Mão",
-        "Cabeça"
+        "Polegada",
+        "Braço"
       ]
     },
     {
-      "tema": "Conceitos Gramaticais (ou Sinônimos)",
+      "tema": "Substantivos que podem ser antecedidos por 'Folha de...'",
       "palavras": [
-        "Artigo",
-        "Verbo",
-        "Pronome",
-        "Conjunção"
-      ]
-    },
-    {
-      "tema": "Vocabulário de Jogos e Estratégias",
-      "palavras": [
-        "Aposta",
-        "Lance",
-        "Blefe",
-        "Truque"
+        "Rosto",
+        "Flandres",
+        "Serra",
+        "Videira"
       ]
     }
   ],
-  "data": "2025-12-09"
+  "data": "2025-12-10"
 }
