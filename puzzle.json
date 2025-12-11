@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Algo que se 'bate' (em diferentes sentidos)",
+      "tema": "INSTRUMENTOS DE PERCUSSÃO BRASILEIROS",
       "palavras": [
-        "Ponto",
-        "Meta",
-        "Recorde",
-        "Tambor"
+        "Pandeiro",
+        "Berimbau",
+        "Agogô",
+        "Cuíca"
       ]
     },
     {
-      "tema": "Objetos que flutuam ou ascendem",
+      "tema": "EXPRESSÕES COM O VERBO 'CORRER'",
       "palavras": [
-        "Cometa",
-        "Balão",
-        "Bóia",
-        "Dirigível"
+        "Risco",
+        "Sorte",
+        "Solto",
+        "Atrás"
       ]
     },
     {
-      "tema": "Partes do corpo com múltiplos significados",
+      "tema": "UTENSÍLIOS DE COZINHA (ESPECÍFICOS)",
       "palavras": [
-        "Palma",
-        "Pé",
-        "Polegada",
-        "Braço"
+        "Pilão",
+        "Cuscuzeira",
+        "Ralador",
+        "Peneira"
       ]
     },
     {
-      "tema": "Substantivos que podem ser antecedidos por 'Folha de...'",
+      "tema": "TERMOS RELACIONADOS À EDUCAÇÃO FORMAL",
       "palavras": [
-        "Rosto",
-        "Flandres",
-        "Serra",
-        "Videira"
+        "Grade",
+        "Matrícula",
+        "Boletim",
+        "Reitoria"
       ]
     }
   ],
-  "data": "2025-12-10"
+  "data": "2025-12-11"
 }
