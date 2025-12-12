@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "INSTRUMENTOS DE PERCUSSÃO BRASILEIROS",
+      "tema": "Partes de uma peça de roupa",
       "palavras": [
-        "Pandeiro",
-        "Berimbau",
-        "Agogô",
-        "Cuíca"
+        "Pala",
+        "Barra",
+        "Carcela",
+        "Punho"
       ]
     },
     {
-      "tema": "EXPRESSÕES COM O VERBO 'CORRER'",
+      "tema": "Elementos da teoria musical",
       "palavras": [
-        "Risco",
-        "Sorte",
-        "Solto",
-        "Atrás"
+        "Compasso",
+        "Clave",
+        "Pauta",
+        "Andamento"
       ]
     },
     {
-      "tema": "UTENSÍLIOS DE COZINHA (ESPECÍFICOS)",
+      "tema": "Verbos que significam 'dar início a'",
       "palavras": [
-        "Pilão",
-        "Cuscuzeira",
-        "Ralador",
-        "Peneira"
+        "Engatilhar",
+        "Deflagrar",
+        "Entabular",
+        "Encetar"
       ]
     },
     {
-      "tema": "TERMOS RELACIONADOS À EDUCAÇÃO FORMAL",
+      "tema": "Momentos de pico ou intensidade",
       "palavras": [
-        "Grade",
-        "Matrícula",
-        "Boletim",
-        "Reitoria"
+        "Pico",
+        "Ápice",
+        "Apogeu",
+        "Clímax"
       ]
     }
   ],
-  "data": "2025-12-11"
+  "data": "2025-12-12"
 }
