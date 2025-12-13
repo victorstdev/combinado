@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de uma peça de roupa",
+      "tema": "Curvas e Figuras Geométricas Menos Comuns",
       "palavras": [
-        "Pala",
-        "Barra",
-        "Carcela",
-        "Punho"
+        "Lúnula",
+        "Catenária",
+        "Lemniscata",
+        "Cissoide"
       ]
     },
     {
-      "tema": "Elementos da teoria musical",
+      "tema": "Ferramentas para Gravar ou Escrever (Antigas/Especializadas)",
       "palavras": [
-        "Compasso",
-        "Clave",
-        "Pauta",
-        "Andamento"
+        "Pena",
+        "Estilete",
+        "Cálamo",
+        "Buril"
       ]
     },
     {
-      "tema": "Verbos que significam 'dar início a'",
+      "tema": "Conceitos de Fluxo e Movimento",
       "palavras": [
-        "Engatilhar",
-        "Deflagrar",
-        "Entabular",
-        "Encetar"
+        "Vazão",
+        "Afluente",
+        "Vertente",
+        "Corrente"
       ]
     },
     {
-      "tema": "Momentos de pico ou intensidade",
+      "tema": "Gêneros Dramáticos e Literários",
       "palavras": [
-        "Pico",
-        "Ápice",
-        "Apogeu",
-        "Clímax"
+        "Farsa",
+        "Écloga",
+        "Mistério",
+        "Sátira"
       ]
     }
   ],
-  "data": "2025-12-12"
+  "data": "2025-12-13"
 }
