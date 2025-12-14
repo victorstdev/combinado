@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Curvas e Figuras Geométricas Menos Comuns",
+      "tema": "Elementos Estruturais da Construção",
       "palavras": [
-        "Lúnula",
-        "Catenária",
-        "Lemniscata",
-        "Cissoide"
+        "Caibro",
+        "Verga",
+        "Baldrame",
+        "Frechal"
       ]
     },
     {
-      "tema": "Ferramentas para Gravar ou Escrever (Antigas/Especializadas)",
+      "tema": "Bases da Culinária Clássica",
       "palavras": [
-        "Pena",
-        "Estilete",
-        "Cálamo",
-        "Buril"
+        "Roux",
+        "Mirepoix",
+        "Fumet",
+        "Court-bouillon"
       ]
     },
     {
-      "tema": "Conceitos de Fluxo e Movimento",
+      "tema": "Expressões Idiomáticas com \"Mão\"",
       "palavras": [
-        "Vazão",
-        "Afluente",
-        "Vertente",
-        "Corrente"
+        "Mão-boba",
+        "Mão-franca",
+        "Mão-única",
+        "Mão de obra"
       ]
     },
     {
-      "tema": "Gêneros Dramáticos e Literários",
+      "tema": "Termos de Orientação Naval",
       "palavras": [
-        "Farsa",
-        "Écloga",
-        "Mistério",
-        "Sátira"
+        "Proa",
+        "Popa",
+        "Boreste",
+        "Bombordo"
       ]
     }
   ],
-  "data": "2025-12-13"
+  "data": "2025-12-14"
 }
