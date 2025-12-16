@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Cores que são também substantivos",
+      "tema": "Termos de Edição Gráfica/Tipografia",
       "palavras": [
-        "Rosa",
-        "Violeta",
-        "Laranja",
-        "Anil"
+        "Fonte",
+        "Corte",
+        "Sombra",
+        "Margem"
       ]
     },
     {
-      "tema": "Partes ou aspectos de um rio",
+      "tema": "Cortes e Miúdos Comestíveis",
       "palavras": [
-        "Leito",
-        "Foz",
-        "Margem",
-        "Nascente"
+        "Língua",
+        "Pé",
+        "Rabo",
+        "Costela"
       ]
     },
     {
-      "tema": "Verbos de cozimento específicos",
+      "tema": "Extremidades e Pontos Agudos",
       "palavras": [
-        "Dourar",
-        "Reduzir",
-        "Brasear",
-        "Emulsificar"
+        "Bico",
+        "Pico",
+        "Ponteiro",
+        "Ponta"
       ]
     },
     {
-      "tema": "Palavras que completam 'cheio de...'",
+      "tema": "Gírias e Lances Incomuns do Futebol",
       "palavras": [
-        "Graça",
-        "Dedos",
-        "Marra",
-        "Nove Horas"
+        "Caneta",
+        "Chapéu",
+        "Gaveta",
+        "Bicicleta"
       ]
     }
   ],
-  "data": "2025-12-15"
+  "data": "2025-12-16"
 }
