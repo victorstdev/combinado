@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Edição Gráfica/Tipografia",
+      "tema": "Palavras que formam expressões com 'PÉ'",
       "palavras": [
-        "Fonte",
-        "Corte",
-        "Sombra",
-        "Margem"
+        "Direito",
+        "Moleque",
+        "Água",
+        "Grande"
       ]
     },
     {
-      "tema": "Cortes e Miúdos Comestíveis",
+      "tema": "Termos que precedem 'MASSA'",
       "palavras": [
+        "Muscular",
+        "Falida",
+        "Manobra",
+        "Atômica"
+      ]
+    },
+    {
+      "tema": "Substantivos em expressões com o verbo 'DAR'",
+      "palavras": [
+        "Corda",
         "Língua",
-        "Pé",
-        "Rabo",
-        "Costela"
+        "Luz",
+        "Bolo"
       ]
     },
     {
-      "tema": "Extremidades e Pontos Agudos",
+      "tema": "Termos de orientação náutica",
       "palavras": [
-        "Bico",
-        "Pico",
-        "Ponteiro",
-        "Ponta"
-      ]
-    },
-    {
-      "tema": "Gírias e Lances Incomuns do Futebol",
-      "palavras": [
-        "Caneta",
-        "Chapéu",
-        "Gaveta",
-        "Bicicleta"
+        "Boreste",
+        "Sotavento",
+        "Popa",
+        "Proa"
       ]
     }
   ],
-  "data": "2025-12-16"
+  "data": "2025-12-17"
 }
