@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Palavras que formam expressões com 'PÉ'",
+      "tema": "Elementos com Nomes de Corpos Celestes",
       "palavras": [
-        "Direito",
-        "Moleque",
-        "Água",
-        "Grande"
+        "Netúnio",
+        "Urânio",
+        "Telúrio",
+        "Mercúrio"
       ]
     },
     {
-      "tema": "Termos que precedem 'MASSA'",
+      "tema": "Diferentes Conceitos de Massa",
       "palavras": [
-        "Muscular",
-        "Falida",
-        "Manobra",
-        "Atômica"
+        "Lasanha",
+        "Argila",
+        "Biscuit",
+        "Muffin"
       ]
     },
     {
-      "tema": "Substantivos em expressões com o verbo 'DAR'",
+      "tema": "Intervalos de Tempo Pouco Comuns",
       "palavras": [
-        "Corda",
+        "Lustro",
+        "Biênio",
+        "Quinquênio",
+        "Centúria"
+      ]
+    },
+    {
+      "tema": "Palavras que São Parte do Corpo e Outra Coisa",
+      "palavras": [
+        "Manga",
+        "Coroa",
         "Língua",
-        "Luz",
-        "Bolo"
-      ]
-    },
-    {
-      "tema": "Termos de orientação náutica",
-      "palavras": [
-        "Boreste",
-        "Sotavento",
-        "Popa",
-        "Proa"
+        "Braço"
       ]
     }
   ],
-  "data": "2025-12-17"
+  "data": "2025-12-18"
 }
