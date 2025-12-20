@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Ações ou processos na costura",
+      "tema": "Sinais e Marcas Gráficas",
       "palavras": [
-        "Bordar",
-        "Cerzir",
-        "Pregar",
-        "Remendar"
+        "PONTO",
+        "VÍRGULA",
+        "ACENTO",
+        "TREMA"
       ]
     },
     {
-      "tema": "Termos da língua portuguesa",
+      "tema": "Nomes de Cores que Designam Outras Coisas",
       "palavras": [
-        "Locução",
-        "Perífrase",
-        "Elipse",
-        "Pleonasmo"
+        "CÁQUI",
+        "BORDÔ",
+        "SAFIRA",
+        "MARFIM"
       ]
     },
     {
-      "tema": "Partes de um livro",
+      "tema": "Componentes Arquitetônicos Clássicos",
       "palavras": [
-        "Sumário",
-        "Prefácio",
-        "Capa",
-        "Orelha"
+        "ARCADA",
+        "COLUNATA",
+        "ABÓBADA",
+        "PÓRTICO"
       ]
     },
     {
-      "tema": "Tipos de água",
+      "tema": "Termos que Indicam Unidades ou Divisões Estruturais",
       "palavras": [
-        "Salobra",
-        "Destilada",
-        "Mineral",
-        "Oxigenada"
+        "CÉLULA",
+        "NÚCLEO",
+        "RAMO",
+        "SEÇÃO"
       ]
     }
   ],
-  "data": "2025-12-19"
+  "data": "2025-12-20"
 }
