@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Sinais e Marcas Gráficas",
+      "tema": "Estilos de Formatação de Texto",
       "palavras": [
-        "PONTO",
-        "VÍRGULA",
-        "ACENTO",
-        "TREMA"
+        "Negrito",
+        "Itálico",
+        "Sublinhado",
+        "Tachado"
       ]
     },
     {
-      "tema": "Nomes de Cores que Designam Outras Coisas",
+      "tema": "Armadilhas e Ciladas",
       "palavras": [
-        "CÁQUI",
-        "BORDÔ",
-        "SAFIRA",
-        "MARFIM"
+        "Cilada",
+        "Armadilha",
+        "Arapuca",
+        "Rede"
       ]
     },
     {
-      "tema": "Componentes Arquitetônicos Clássicos",
+      "tema": "Técnicas Culinárias Específicas",
       "palavras": [
-        "ARCADA",
-        "COLUNATA",
-        "ABÓBADA",
-        "PÓRTICO"
+        "Confitar",
+        "Marinar",
+        "Deglaçar",
+        "Escaldar"
       ]
     },
     {
-      "tema": "Termos que Indicam Unidades ou Divisões Estruturais",
+      "tema": "Coisas com 'Coroa' (ou 'Coroa' em seu nome/parte)",
       "palavras": [
-        "CÉLULA",
-        "NÚCLEO",
-        "RAMO",
-        "SEÇÃO"
+        "Dente",
+        "Cerveja",
+        "Relógio",
+        "Abacaxi"
       ]
     }
   ],
-  "data": "2025-12-20"
+  "data": "2025-12-21"
 }
