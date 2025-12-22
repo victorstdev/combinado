@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Estilos de Formatação de Texto",
+      "tema": "Fenômenos e Ações da Água",
       "palavras": [
-        "Negrito",
-        "Itálico",
-        "Sublinhado",
-        "Tachado"
+        "CORRENTE",
+        "MARÉ",
+        "ONDA",
+        "VERTER"
       ]
     },
     {
-      "tema": "Armadilhas e Ciladas",
+      "tema": "Termos que Podem Ser 'Abertos' ou 'Fechados'",
       "palavras": [
-        "Cilada",
-        "Armadilha",
-        "Arapuca",
-        "Rede"
+        "CAPÍTULO",
+        "CICLO",
+        "FERIDA",
+        "LACUNA"
       ]
     },
     {
-      "tema": "Técnicas Culinárias Específicas",
+      "tema": "Tipos de Marcas ou Registros Visuais",
       "palavras": [
-        "Confitar",
-        "Marinar",
-        "Deglaçar",
-        "Escaldar"
+        "RASTRO",
+        "ESTAMPA",
+        "IMPRESSÃO",
+        "GRAVURA"
       ]
     },
     {
-      "tema": "Coisas com 'Coroa' (ou 'Coroa' em seu nome/parte)",
+      "tema": "Elementos Estruturais da Construção Civil",
       "palavras": [
-        "Dente",
-        "Cerveja",
-        "Relógio",
-        "Abacaxi"
+        "VIGA",
+        "PILAR",
+        "BALIZA",
+        "ALICERCE"
       ]
     }
   ],
-  "data": "2025-12-21"
+  "data": "2025-12-22"
 }
