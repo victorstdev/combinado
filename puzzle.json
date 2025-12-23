@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Fenômenos e Ações da Água",
+      "tema": "Termos Espaciais",
       "palavras": [
-        "CORRENTE",
-        "MARÉ",
-        "ONDA",
-        "VERTER"
+        "Nave",
+        "Órbita",
+        "Sonda",
+        "Módulo"
       ]
     },
     {
-      "tema": "Termos que Podem Ser 'Abertos' ou 'Fechados'",
+      "tema": "Termos Jurídicos Processuais",
       "palavras": [
-        "CAPÍTULO",
-        "CICLO",
-        "FERIDA",
-        "LACUNA"
+        "Réu",
+        "Testemunha",
+        "Acórdão",
+        "Habeas Corpus"
       ]
     },
     {
-      "tema": "Tipos de Marcas ou Registros Visuais",
+      "tema": "Grandes Fenômenos Naturais",
       "palavras": [
-        "RASTRO",
-        "ESTAMPA",
-        "IMPRESSÃO",
-        "GRAVURA"
+        "Geada",
+        "Ciclone",
+        "Tufão",
+        "Tsunami"
       ]
     },
     {
-      "tema": "Elementos Estruturais da Construção Civil",
+      "tema": "Componentes Estruturais de Construção",
       "palavras": [
-        "VIGA",
-        "PILAR",
-        "BALIZA",
-        "ALICERCE"
+        "Viga",
+        "Pilar",
+        "Fundação",
+        "Arcabouço"
       ]
     }
   ],
-  "data": "2025-12-22"
+  "data": "2025-12-23"
 }
