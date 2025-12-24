@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos Espaciais",
+      "tema": "Elementos da Estrutura Narrativa",
       "palavras": [
-        "Nave",
-        "Órbita",
-        "Sonda",
-        "Módulo"
+        "Clímax",
+        "Epílogo",
+        "Prosa",
+        "Enredo"
       ]
     },
     {
-      "tema": "Termos Jurídicos Processuais",
+      "tema": "Termos de Visão e Perspectiva",
       "palavras": [
-        "Réu",
-        "Testemunha",
-        "Acórdão",
-        "Habeas Corpus"
+        "Vista",
+        "Ângulo",
+        "Horizonte",
+        "Mirante"
       ]
     },
     {
-      "tema": "Grandes Fenômenos Naturais",
+      "tema": "Relacionados à Escuridão",
       "palavras": [
-        "Geada",
-        "Ciclone",
-        "Tufão",
-        "Tsunami"
+        "Penumbra",
+        "Breu",
+        "Sombra",
+        "Ocaso"
       ]
     },
     {
-      "tema": "Componentes Estruturais de Construção",
+      "tema": "Partes do Corpo com Outros Usos",
       "palavras": [
-        "Viga",
-        "Pilar",
-        "Fundação",
-        "Arcabouço"
+        "Dedo",
+        "Joelho",
+        "Ombro",
+        "Cotovelo"
       ]
     }
   ],
-  "data": "2025-12-23"
+  "data": "2025-12-24"
 }
