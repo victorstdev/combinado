@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Substantivos que são verbos (3ª pessoa do singular)",
+      "tema": "Seres e Conceitos Míticos",
       "palavras": [
-        "Canto",
-        "Serra",
-        "Toca",
-        "Caça"
+        "Feitiço",
+        "Elfo",
+        "Grifo",
+        "Gnomo"
       ]
     },
     {
-      "tema": "Alimentos com homônimos comuns",
+      "tema": "Termos Morfossintáticos do Português",
       "palavras": [
-        "Massa",
-        "Molho",
-        "Prato",
-        "Manga"
+        "Regência",
+        "Concordância",
+        "Crase",
+        "Gerúndio"
       ]
     },
     {
-      "tema": "Objetos ou partes de estruturas com múltiplos sentidos",
+      "tema": "Objetos com Múltiplos Sentidos",
       "palavras": [
-        "Bolsa",
-        "Vara",
-        "Planta",
-        "Forro"
+        "Corda",
+        "Palheta",
+        "Traste",
+        "Bocal"
       ]
     },
     {
-      "tema": "Elementos que transformam, marcam ou modificam",
+      "tema": "Coisas que se Dissipam no Ar",
       "palavras": [
-        "Lima",
-        "Gelo",
-        "Cola",
-        "Ponto"
+        "Boato",
+        "Fumaça",
+        "Vapor",
+        "Pó"
       ]
     }
   ],
-  "data": "2025-12-26"
+  "data": "2025-12-27"
 }
