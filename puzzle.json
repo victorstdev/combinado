@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Seres e Conceitos Míticos",
+      "tema": "Componentes Específicos de Instrumentos Musicais",
       "palavras": [
-        "Feitiço",
-        "Elfo",
-        "Grifo",
-        "Gnomo"
-      ]
-    },
-    {
-      "tema": "Termos Morfossintáticos do Português",
-      "palavras": [
-        "Regência",
-        "Concordância",
-        "Crase",
-        "Gerúndio"
-      ]
-    },
-    {
-      "tema": "Objetos com Múltiplos Sentidos",
-      "palavras": [
-        "Corda",
-        "Palheta",
         "Traste",
-        "Bocal"
+        "Campana",
+        "Tarraxa",
+        "Espelho"
       ]
     },
     {
-      "tema": "Coisas que se Dissipam no Ar",
+      "tema": "Verbos de Técnicas Culinárias",
       "palavras": [
-        "Boato",
-        "Fumaça",
-        "Vapor",
-        "Pó"
+        "Branquear",
+        "Reduzir",
+        "Saltear",
+        "Gratinar"
+      ]
+    },
+    {
+      "tema": "Espaços Interiores em Edificações",
+      "palavras": [
+        "Átrio",
+        "Sótão",
+        "Mezanino",
+        "Lavabo"
+      ]
+    },
+    {
+      "tema": "Conceitos de Fluxo, Ordem ou Equilíbrio",
+      "palavras": [
+        "Fundo",
+        "Corrente",
+        "Linha",
+        "Balança"
       ]
     }
   ],
-  "data": "2025-12-27"
+  "data": "2025-12-28"
 }
