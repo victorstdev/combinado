@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes Específicos de Instrumentos Musicais",
+      "tema": "TIPOS DE MASSA (CULINÁRIA)",
       "palavras": [
-        "Traste",
-        "Campana",
-        "Tarraxa",
-        "Espelho"
+        "Folhada",
+        "Fermentada",
+        "Areia",
+        "Fresca"
       ]
     },
     {
-      "tema": "Verbos de Técnicas Culinárias",
+      "tema": "CONCEITOS DE CARTOGRAFIA",
       "palavras": [
-        "Branquear",
-        "Reduzir",
-        "Saltear",
-        "Gratinar"
+        "Azimute",
+        "Escala",
+        "Meridiano",
+        "Paralelo"
       ]
     },
     {
-      "tema": "Espaços Interiores em Edificações",
+      "tema": "COISAS QUE SE 'QUEBRAM' (FIGURADAMENTE)",
       "palavras": [
-        "Átrio",
-        "Sótão",
-        "Mezanino",
-        "Lavabo"
+        "Paradigma",
+        "Regra",
+        "Gelo",
+        "Silêncio"
       ]
     },
     {
-      "tema": "Conceitos de Fluxo, Ordem ou Equilíbrio",
+      "tema": "PERSONAGENS DO FOLCLORE BRASILEIRO",
       "palavras": [
-        "Fundo",
-        "Corrente",
-        "Linha",
-        "Balança"
+        "Cuca",
+        "Curupira",
+        "Iara",
+        "Saci"
       ]
     }
   ],
-  "data": "2025-12-28"
+  "data": "2025-12-29"
 }
