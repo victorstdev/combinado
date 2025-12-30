@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "TIPOS DE MASSA (CULINÁRIA)",
+      "tema": "Instrumentos de Sopro de Orquestra",
       "palavras": [
-        "Folhada",
-        "Fermentada",
-        "Areia",
-        "Fresca"
+        "Fagote",
+        "Clarone",
+        "Bombardino",
+        "Oboé"
       ]
     },
     {
-      "tema": "CONCEITOS DE CARTOGRAFIA",
+      "tema": "Partes Específicas de um Navio",
       "palavras": [
-        "Azimute",
-        "Escala",
-        "Meridiano",
-        "Paralelo"
+        "Amurada",
+        "Convés",
+        "Mastreação",
+        "Vau"
       ]
     },
     {
-      "tema": "COISAS QUE SE 'QUEBRAM' (FIGURADAMENTE)",
+      "tema": "Termos do Mercado Financeiro",
       "palavras": [
-        "Paradigma",
-        "Regra",
-        "Gelo",
-        "Silêncio"
+        "Lastro",
+        "Ágio",
+        "Cunhagem",
+        "Arbitragem"
       ]
     },
     {
-      "tema": "PERSONAGENS DO FOLCLORE BRASILEIRO",
+      "tema": "Elementos da Cultura Clássica",
       "palavras": [
-        "Cuca",
-        "Curupira",
-        "Iara",
-        "Saci"
+        "Égide",
+        "Quimera",
+        "Catacumba",
+        "Odeon"
       ]
     }
   ],
-  "data": "2025-12-29"
+  "data": "2025-12-30"
 }
