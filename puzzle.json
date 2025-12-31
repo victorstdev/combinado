@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Instrumentos de Sopro de Orquestra",
+      "tema": "Partes de um Livro",
       "palavras": [
-        "Fagote",
-        "Clarone",
-        "Bombardino",
-        "Oboé"
+        "Capa",
+        "Lombada",
+        "Prefácio",
+        "Sumário"
       ]
     },
     {
-      "tema": "Partes Específicas de um Navio",
+      "tema": "Frutas Nativas Brasileiras",
       "palavras": [
-        "Amurada",
-        "Convés",
-        "Mastreação",
-        "Vau"
+        "Cabeludinha",
+        "Cajá",
+        "Graviola",
+        "Jabuticaba"
       ]
     },
     {
-      "tema": "Termos do Mercado Financeiro",
+      "tema": "Verbos de Técnicas Culinárias",
       "palavras": [
-        "Lastro",
-        "Ágio",
-        "Cunhagem",
-        "Arbitragem"
+        "Branquear",
+        "Pincelar",
+        "Reduzir",
+        "Saltear"
       ]
     },
     {
-      "tema": "Elementos da Cultura Clássica",
+      "tema": "Produtos Essenciais de Maquiagem",
       "palavras": [
-        "Égide",
-        "Quimera",
-        "Catacumba",
-        "Odeon"
+        "Base",
+        "Contorno",
+        "Corretivo",
+        "Primer"
       ]
     }
   ],
-  "data": "2025-12-30"
+  "data": "2025-12-31"
 }
