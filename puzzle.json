@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de um Livro",
+      "tema": "Expressões com 'BATER'",
       "palavras": [
-        "Capa",
-        "Lombada",
-        "Prefácio",
-        "Sumário"
+        "PAPO",
+        "FOTO",
+        "MARTELO",
+        "PONTO"
       ]
     },
     {
-      "tema": "Frutas Nativas Brasileiras",
+      "tema": "Peças do Xadrez",
       "palavras": [
-        "Cabeludinha",
-        "Cajá",
-        "Graviola",
-        "Jabuticaba"
+        "REI",
+        "DAMA",
+        "CAVALO",
+        "TORRE"
       ]
     },
     {
-      "tema": "Verbos de Técnicas Culinárias",
+      "tema": "Elementos de um Livro",
       "palavras": [
-        "Branquear",
-        "Pincelar",
-        "Reduzir",
-        "Saltear"
+        "CAPA",
+        "LOMBADA",
+        "ÍNDICE",
+        "MARCADOR"
       ]
     },
     {
-      "tema": "Produtos Essenciais de Maquiagem",
+      "tema": "Variedades de Frutos Secos",
       "palavras": [
-        "Base",
-        "Contorno",
-        "Corretivo",
-        "Primer"
+        "CASTANHA",
+        "AMENDOIM",
+        "NOZ",
+        "AVELÃ"
       ]
     }
   ],
-  "data": "2025-12-31"
+  "data": "2026-01-01"
 }
