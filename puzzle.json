@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Expressões com 'BATER'",
+      "tema": "Relacionados à Costura ou Tecelagem",
       "palavras": [
-        "PAPO",
-        "FOTO",
-        "MARTELO",
-        "PONTO"
+        "TRAMA",
+        "PONTO",
+        "LINHA",
+        "CORTE"
       ]
     },
     {
-      "tema": "Peças do Xadrez",
+      "tema": "Conceitos de Óptica e Visão",
       "palavras": [
-        "REI",
-        "DAMA",
-        "CAVALO",
-        "TORRE"
+        "FOCO",
+        "IMAGEM",
+        "RAIO",
+        "PRISMA"
       ]
     },
     {
-      "tema": "Elementos de um Livro",
+      "tema": "Termos Financeiros ou Econômicos",
       "palavras": [
-        "CAPA",
-        "LOMBADA",
-        "ÍNDICE",
-        "MARCADOR"
+        "FLUXO",
+        "LIQUIDEZ",
+        "CRÉDITO",
+        "EMPENHO"
       ]
     },
     {
-      "tema": "Variedades de Frutos Secos",
+      "tema": "Formas de Estrutura ou Conexão",
       "palavras": [
-        "CASTANHA",
-        "AMENDOIM",
-        "NOZ",
-        "AVELÃ"
+        "REDE",
+        "NÚCLEO",
+        "RAMO",
+        "CADEIA"
       ]
     }
   ],
-  "data": "2026-01-01"
+  "data": "2026-01-02"
 }
