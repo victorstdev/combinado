@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Relacionados à Costura ou Tecelagem",
+      "tema": "Cores que também nomeiam Plantas ou Frutos",
       "palavras": [
-        "TRAMA",
-        "PONTO",
-        "LINHA",
-        "CORTE"
+        "Laranja",
+        "Rosa",
+        "Cereja",
+        "Oliva"
       ]
     },
     {
-      "tema": "Conceitos de Óptica e Visão",
+      "tema": "Peças ou Lances Essenciais do Xadrez",
       "palavras": [
-        "FOCO",
-        "IMAGEM",
-        "RAIO",
-        "PRISMA"
+        "Xeque",
+        "Roque",
+        "Peão",
+        "Bispo"
       ]
     },
     {
-      "tema": "Termos Financeiros ou Econômicos",
+      "tema": "Verbos Irregulares com Alteração de Radical no Presente",
       "palavras": [
-        "FLUXO",
-        "LIQUIDEZ",
-        "CRÉDITO",
-        "EMPENHO"
+        "Fazer",
+        "Dizer",
+        "Trazer",
+        "Saber"
       ]
     },
     {
-      "tema": "Formas de Estrutura ou Conexão",
+      "tema": "Componentes Estruturais de uma Embarcação",
       "palavras": [
-        "REDE",
-        "NÚCLEO",
-        "RAMO",
-        "CADEIA"
+        "Proa",
+        "Popa",
+        "Convés",
+        "Quilha"
       ]
     }
   ],
-  "data": "2026-01-02"
+  "data": "2026-01-03"
 }
