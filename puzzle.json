@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Cores que também nomeiam Plantas ou Frutos",
+      "tema": "Termos de Balé Clássico",
       "palavras": [
-        "Laranja",
-        "Rosa",
-        "Cereja",
-        "Oliva"
+        "Pirouette",
+        "Arabesque",
+        "Grand Jeté",
+        "Pas-de-deux"
       ]
     },
     {
-      "tema": "Peças ou Lances Essenciais do Xadrez",
+      "tema": "Adjetivos de Textura",
       "palavras": [
-        "Xeque",
-        "Roque",
-        "Peão",
-        "Bispo"
+        "Rugoso",
+        "Granulado",
+        "Escamoso",
+        "Poroso"
       ]
     },
     {
-      "tema": "Verbos Irregulares com Alteração de Radical no Presente",
+      "tema": "Unidades de Medida (Científicas/Específicas)",
       "palavras": [
-        "Fazer",
-        "Dizer",
-        "Trazer",
-        "Saber"
+        "Hectare",
+        "Nó",
+        "Pascal",
+        "Mícron"
       ]
     },
     {
-      "tema": "Componentes Estruturais de uma Embarcação",
+      "tema": "Elementos Mágicos/Míticos",
       "palavras": [
-        "Proa",
-        "Popa",
-        "Convés",
-        "Quilha"
+        "Feitiço",
+        "Poção",
+        "Elixir",
+        "Talismã"
       ]
     }
   ],
-  "data": "2026-01-03"
+  "data": "2026-01-04"
 }
