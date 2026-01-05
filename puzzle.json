@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Balé Clássico",
+      "tema": "VERBOS CUJAS NOMINALIZAÇÕES INDICAM EVENTOS OU ESTADOS",
       "palavras": [
-        "Pirouette",
-        "Arabesque",
-        "Grand Jeté",
-        "Pas-de-deux"
+        "ROMPER",
+        "PERDER",
+        "NASCER",
+        "COBRAR"
       ]
     },
     {
-      "tema": "Adjetivos de Textura",
+      "tema": "ANTIGAS UNIDADES DE MEDIDA",
       "palavras": [
-        "Rugoso",
-        "Granulado",
-        "Escamoso",
-        "Poroso"
+        "BRAÇA",
+        "JARDA",
+        "LÉGUA",
+        "ALQUEIRE"
       ]
     },
     {
-      "tema": "Unidades de Medida (Científicas/Específicas)",
+      "tema": "TERMOS DE JOGOS DE TABULEIRO OU CARTAS",
       "palavras": [
-        "Hectare",
-        "Nó",
-        "Pascal",
-        "Mícron"
+        "CORINGA",
+        "PEÃO",
+        "RODADA",
+        "BLEFE"
       ]
     },
     {
-      "tema": "Elementos Mágicos/Míticos",
+      "tema": "PALAVRAS QUE COMPLETAM EXPRESSÕES COM 'MÃO'",
       "palavras": [
-        "Feitiço",
-        "Poção",
-        "Elixir",
-        "Talismã"
+        "OBRA",
+        "ÚNICA",
+        "DEUS",
+        "DUPLA"
       ]
     }
   ],
-  "data": "2026-01-04"
+  "data": "2026-01-05"
 }
