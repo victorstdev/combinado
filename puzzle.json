@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "VERBOS CUJAS NOMINALIZAÇÕES INDICAM EVENTOS OU ESTADOS",
+      "tema": "Peças do Jogo de Xadrez",
       "palavras": [
-        "ROMPER",
-        "PERDER",
-        "NASCER",
-        "COBRAR"
+        "Peão",
+        "Bispo",
+        "Torre",
+        "Rainha"
       ]
     },
     {
-      "tema": "ANTIGAS UNIDADES DE MEDIDA",
+      "tema": "Estruturas de Travessia ou Passagem",
       "palavras": [
-        "BRAÇA",
-        "JARDA",
-        "LÉGUA",
-        "ALQUEIRE"
+        "Ponte",
+        "Vão",
+        "Passarela",
+        "Túnel"
       ]
     },
     {
-      "tema": "TERMOS DE JOGOS DE TABULEIRO OU CARTAS",
+      "tema": "Doenças Infecciosas e Condições Médicas",
       "palavras": [
-        "CORINGA",
-        "PEÃO",
-        "RODADA",
-        "BLEFE"
+        "Caxumba",
+        "Varicela",
+        "Catarata",
+        "Rubéola"
       ]
     },
     {
-      "tema": "PALAVRAS QUE COMPLETAM EXPRESSÕES COM 'MÃO'",
+      "tema": "Termos Náuticos ou Partes de uma Embarcação",
       "palavras": [
-        "OBRA",
-        "ÚNICA",
-        "DEUS",
-        "DUPLA"
+        "Popa",
+        "Proa",
+        "Calado",
+        "Mastros"
       ]
     }
   ],
-  "data": "2026-01-05"
+  "data": "2026-01-06"
 }
