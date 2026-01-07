@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Peças do Jogo de Xadrez",
+      "tema": "CORPOS CELESTES MENORES",
       "palavras": [
-        "Peão",
-        "Bispo",
-        "Torre",
-        "Rainha"
+        "Cometa",
+        "Asteroide",
+        "Meteoroide",
+        "Satélite"
       ]
     },
     {
-      "tema": "Estruturas de Travessia ou Passagem",
+      "tema": "INSTRUMENTOS DE MEDIÇÃO",
       "palavras": [
-        "Ponte",
-        "Vão",
-        "Passarela",
-        "Túnel"
+        "Paquímetro",
+        "Balança",
+        "Transferidor",
+        "Cronômetro"
       ]
     },
     {
-      "tema": "Doenças Infecciosas e Condições Médicas",
+      "tema": "TÉCNICAS CULINÁRIAS",
       "palavras": [
-        "Caxumba",
-        "Varicela",
-        "Catarata",
-        "Rubéola"
+        "Brasear",
+        "Saltear",
+        "Grelhar",
+        "Defumar"
       ]
     },
     {
-      "tema": "Termos Náuticos ou Partes de uma Embarcação",
+      "tema": "PEÇAS DE ARMADURA MEDIEVAL",
       "palavras": [
-        "Popa",
-        "Proa",
-        "Calado",
-        "Mastros"
+        "Elmo",
+        "Manopla",
+        "Cota",
+        "Greva"
       ]
     }
   ],
-  "data": "2026-01-06"
+  "data": "2026-01-07"
 }
