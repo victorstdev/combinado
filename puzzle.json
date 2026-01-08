@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "CORPOS CELESTES MENORES",
+      "tema": "Delimitações e Bordas",
       "palavras": [
-        "Cometa",
-        "Asteroide",
-        "Meteoroide",
-        "Satélite"
+        "Contorno",
+        "Margem",
+        "Limite",
+        "Fronteira"
       ]
     },
     {
-      "tema": "INSTRUMENTOS DE MEDIÇÃO",
+      "tema": "Ações de Dar Forma",
       "palavras": [
-        "Paquímetro",
-        "Balança",
-        "Transferidor",
-        "Cronômetro"
+        "Forjar",
+        "Amassar",
+        "Modelar",
+        "Plasmar"
       ]
     },
     {
-      "tema": "TÉCNICAS CULINÁRIAS",
+      "tema": "Componentes de uma Obra Dramática",
       "palavras": [
-        "Brasear",
-        "Saltear",
-        "Grelhar",
-        "Defumar"
+        "Ato",
+        "Cena",
+        "Enredo",
+        "Elenco"
       ]
     },
     {
-      "tema": "PEÇAS DE ARMADURA MEDIEVAL",
+      "tema": "Conceitos de Omissão ou Interrupção",
       "palavras": [
-        "Elmo",
-        "Manopla",
-        "Cota",
-        "Greva"
+        "Elipse",
+        "Hiato",
+        "Lacuna",
+        "Entreato"
       ]
     }
   ],
-  "data": "2026-01-07"
+  "data": "2026-01-08"
 }
