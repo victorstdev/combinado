@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Delimitações e Bordas",
+      "tema": "Conceitos de Tempo e Delimitação Temporal",
       "palavras": [
-        "Contorno",
-        "Margem",
-        "Limite",
-        "Fronteira"
+        "Era",
+        "Marco",
+        "Estação",
+        "Ciclo"
       ]
     },
     {
-      "tema": "Ações de Dar Forma",
+      "tema": "Elementos que se Estendem ou Ramificam",
       "palavras": [
-        "Forjar",
-        "Amassar",
-        "Modelar",
-        "Plasmar"
+        "Fio",
+        "Traço",
+        "Ramos",
+        "Ponta"
       ]
     },
     {
-      "tema": "Componentes de uma Obra Dramática",
+      "tema": "Cores com Nomes de Elementos da Natureza/Materiais",
       "palavras": [
-        "Ato",
-        "Cena",
-        "Enredo",
-        "Elenco"
+        "Cobre",
+        "Ébano",
+        "Anil",
+        "Jambo"
       ]
     },
     {
-      "tema": "Conceitos de Omissão ou Interrupção",
+      "tema": "Termos com Duplo Sentido: Musical e Comum",
       "palavras": [
-        "Elipse",
-        "Hiato",
-        "Lacuna",
-        "Entreato"
+        "Nota",
+        "Tom",
+        "Pauta",
+        "Batida"
       ]
     }
   ],
-  "data": "2026-01-08"
+  "data": "2026-01-09"
 }
