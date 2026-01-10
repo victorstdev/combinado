@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Conceitos de Tempo e Delimitação Temporal",
+      "tema": "TERMOS NÁUTICOS BÁSICOS",
       "palavras": [
-        "Era",
-        "Marco",
-        "Estação",
-        "Ciclo"
+        "Popa",
+        "Boreste",
+        "Estibordo",
+        "Calado"
       ]
     },
     {
-      "tema": "Elementos que se Estendem ou Ramificam",
+      "tema": "CONCEITOS FILOSÓFICOS FUNDAMENTAIS",
       "palavras": [
-        "Fio",
-        "Traço",
-        "Ramos",
-        "Ponta"
+        "Axioma",
+        "Epistemologia",
+        "Ontologia",
+        "Fenomenologia"
       ]
     },
     {
-      "tema": "Cores com Nomes de Elementos da Natureza/Materiais",
+      "tema": "PARTES DE INSTRUMENTOS MUSICAIS DE SOPRO E CORDAS",
       "palavras": [
-        "Cobre",
-        "Ébano",
-        "Anil",
-        "Jambo"
+        "Braço",
+        "Tarraxas",
+        "Bocal",
+        "Palheta"
       ]
     },
     {
-      "tema": "Termos com Duplo Sentido: Musical e Comum",
+      "tema": "GÊNEROS OU FORMAS DE EXPRESSÃO VERBAL",
       "palavras": [
-        "Nota",
-        "Tom",
-        "Pauta",
-        "Batida"
+        "Monólogo",
+        "Diálogo",
+        "Epístola",
+        "Sermão"
       ]
     }
   ],
-  "data": "2026-01-09"
+  "data": "2026-01-10"
 }
