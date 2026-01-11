@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "TERMOS NÁUTICOS BÁSICOS",
+      "tema": "Linguagem da Capoeira",
       "palavras": [
-        "Popa",
-        "Boreste",
-        "Estibordo",
-        "Calado"
+        "Roda",
+        "Ginga",
+        "Berimbau",
+        "Aú"
       ]
     },
     {
-      "tema": "CONCEITOS FILOSÓFICOS FUNDAMENTAIS",
+      "tema": "Partes de Sistemas Mecânicos",
       "palavras": [
-        "Axioma",
-        "Epistemologia",
-        "Ontologia",
-        "Fenomenologia"
+        "Engrenagem",
+        "Corrente",
+        "Polia",
+        "Eixo"
       ]
     },
     {
-      "tema": "PARTES DE INSTRUMENTOS MUSICAIS DE SOPRO E CORDAS",
+      "tema": "Fenômenos Naturais Aquáticos",
       "palavras": [
-        "Braço",
-        "Tarraxas",
-        "Bocal",
-        "Palheta"
+        "Pororoca",
+        "Vazante",
+        "Ressaca",
+        "Enchente"
       ]
     },
     {
-      "tema": "GÊNEROS OU FORMAS DE EXPRESSÃO VERBAL",
+      "tema": "Habitações de Construção Simples",
       "palavras": [
-        "Monólogo",
-        "Diálogo",
-        "Epístola",
-        "Sermão"
+        "Palafita",
+        "Oca",
+        "Choupana",
+        "Barraco"
       ]
     }
   ],
-  "data": "2026-01-10"
+  "data": "2026-01-11"
 }
