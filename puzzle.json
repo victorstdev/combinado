@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Linguagem da Capoeira",
+      "tema": "Peças do Jogo de Xadrez",
       "palavras": [
-        "Roda",
-        "Ginga",
-        "Berimbau",
-        "Aú"
+        "Torre",
+        "Bispo",
+        "Cavalo",
+        "Rainha"
       ]
     },
     {
-      "tema": "Partes de Sistemas Mecânicos",
+      "tema": "Frutas Tropicais Brasileiras",
       "palavras": [
-        "Engrenagem",
-        "Corrente",
-        "Polia",
-        "Eixo"
+        "Pitanga",
+        "Graviola",
+        "Jaca",
+        "Cajá"
       ]
     },
     {
-      "tema": "Fenômenos Naturais Aquáticos",
+      "tema": "Termos de Navegação Marítima",
       "palavras": [
-        "Pororoca",
-        "Vazante",
-        "Ressaca",
-        "Enchente"
+        "Popa",
+        "Proa",
+        "Boreste",
+        "Bombordo"
       ]
     },
     {
-      "tema": "Habitações de Construção Simples",
+      "tema": "Verbos de Aparecimento Súbito",
       "palavras": [
-        "Palafita",
-        "Oca",
-        "Choupana",
-        "Barraco"
+        "Surgir",
+        "Irromper",
+        "Brotar",
+        "Eclodir"
       ]
     }
   ],
-  "data": "2026-01-11"
+  "data": "2026-01-12"
 }
