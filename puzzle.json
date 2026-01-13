@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Peças do Jogo de Xadrez",
+      "tema": "Partes de uma embarcação",
       "palavras": [
-        "Torre",
-        "Bispo",
-        "Cavalo",
-        "Rainha"
-      ]
-    },
-    {
-      "tema": "Frutas Tropicais Brasileiras",
-      "palavras": [
-        "Pitanga",
-        "Graviola",
-        "Jaca",
-        "Cajá"
-      ]
-    },
-    {
-      "tema": "Termos de Navegação Marítima",
-      "palavras": [
-        "Popa",
         "Proa",
-        "Boreste",
-        "Bombordo"
+        "Popa",
+        "Leme",
+        "Mastro"
       ]
     },
     {
-      "tema": "Verbos de Aparecimento Súbito",
+      "tema": "Períodos de tempo específicos",
       "palavras": [
-        "Surgir",
-        "Irromper",
-        "Brotar",
-        "Eclodir"
+        "Século",
+        "Lustro",
+        "Biênio",
+        "Quinzena"
+      ]
+    },
+    {
+      "tema": "Peças de xadrez",
+      "palavras": [
+        "Bispo",
+        "Torre",
+        "Peão",
+        "Rei"
+      ]
+    },
+    {
+      "tema": "Animais com sentido figurado ou secundário",
+      "palavras": [
+        "Cobra",
+        "Mosca",
+        "Bode",
+        "Gato"
       ]
     }
   ],
-  "data": "2026-01-12"
+  "data": "2026-01-13"
 }
