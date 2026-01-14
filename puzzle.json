@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de uma embarcação",
+      "tema": "Termos de Embarcação",
       "palavras": [
         "Proa",
         "Popa",
         "Leme",
-        "Mastro"
+        "Calado"
       ]
     },
     {
-      "tema": "Períodos de tempo específicos",
+      "tema": "Tipos de Ruídos",
       "palavras": [
-        "Século",
-        "Lustro",
-        "Biênio",
-        "Quinzena"
+        "Zunido",
+        "Sibilo",
+        "Estalido",
+        "Gemido"
       ]
     },
     {
-      "tema": "Peças de xadrez",
+      "tema": "Práticas Agrícolas",
       "palavras": [
-        "Bispo",
-        "Torre",
-        "Peão",
-        "Rei"
+        "Adubo",
+        "Aração",
+        "Irrigação",
+        "Roçado"
       ]
     },
     {
-      "tema": "Animais com sentido figurado ou secundário",
+      "tema": "Tipos de Tecido",
       "palavras": [
-        "Cobra",
-        "Mosca",
-        "Bode",
-        "Gato"
+        "Seda",
+        "Linho",
+        "Malha",
+        "Cetim"
       ]
     }
   ],
-  "data": "2026-01-13"
+  "data": "2026-01-14"
 }
