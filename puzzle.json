@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Embarcação",
+      "tema": "Ações no Preparo de Alimentos",
       "palavras": [
-        "Proa",
-        "Popa",
-        "Leme",
-        "Calado"
+        "Marinar",
+        "Branquear",
+        "Saltear",
+        "Escaldar"
       ]
     },
     {
-      "tema": "Tipos de Ruídos",
+      "tema": "Estruturas de Plantas",
       "palavras": [
-        "Zunido",
-        "Sibilo",
-        "Estalido",
-        "Gemido"
+        "Raiz",
+        "Caule",
+        "Copa",
+        "Pistilo"
       ]
     },
     {
-      "tema": "Práticas Agrícolas",
+      "tema": "Palavras com Múltiplos Sentidos",
       "palavras": [
-        "Adubo",
-        "Aração",
-        "Irrigação",
-        "Roçado"
+        "Manga",
+        "Serra",
+        "Cabo",
+        "Banco"
       ]
     },
     {
-      "tema": "Tipos de Tecido",
+      "tema": "Corpos e Fenômenos Celestes",
       "palavras": [
-        "Seda",
-        "Linho",
-        "Malha",
-        "Cetim"
+        "Órbita",
+        "Cometa",
+        "Constelação",
+        "Nebulosa"
       ]
     }
   ],
-  "data": "2026-01-14"
+  "data": "2026-01-15"
 }
