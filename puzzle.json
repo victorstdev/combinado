@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Ações no Preparo de Alimentos",
+      "tema": "Peças de Xadrez",
       "palavras": [
-        "Marinar",
-        "Branquear",
-        "Saltear",
-        "Escaldar"
+        "Torre",
+        "Bispo",
+        "Peão",
+        "Cavalo"
       ]
     },
     {
-      "tema": "Estruturas de Plantas",
+      "tema": "Pratos e Doces Brasileiros com Nomes Ambíguos",
       "palavras": [
-        "Raiz",
-        "Caule",
-        "Copa",
-        "Pistilo"
+        "Virado",
+        "Manjar",
+        "Maria-mole",
+        "Pudim"
       ]
     },
     {
-      "tema": "Palavras com Múltiplos Sentidos",
+      "tema": "Termos Financeiros com Múltiplos Sentidos",
       "palavras": [
-        "Manga",
-        "Serra",
-        "Cabo",
-        "Banco"
+        "Balança",
+        "Caixa",
+        "Juro",
+        "Capital"
       ]
     },
     {
-      "tema": "Corpos e Fenômenos Celestes",
+      "tema": "Elementos Naturais com Múltiplos Usos/Sentidos",
       "palavras": [
-        "Órbita",
-        "Cometa",
-        "Constelação",
-        "Nebulosa"
+        "Pedra",
+        "Areia",
+        "Barro",
+        "Ferro"
       ]
     }
   ],
-  "data": "2026-01-15"
+  "data": "2026-01-16"
 }
