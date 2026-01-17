@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Peças de Xadrez",
+      "tema": "PEÇAS DE XADREZ",
       "palavras": [
         "Torre",
         "Bispo",
-        "Peão",
-        "Cavalo"
+        "Cavalo",
+        "Peão"
       ]
     },
     {
-      "tema": "Pratos e Doces Brasileiros com Nomes Ambíguos",
+      "tema": "FENÔMENOS ÓPTICOS DA LUZ",
       "palavras": [
-        "Virado",
-        "Manjar",
-        "Maria-mole",
-        "Pudim"
+        "Refração",
+        "Difração",
+        "Interferência",
+        "Polarização"
       ]
     },
     {
-      "tema": "Termos Financeiros com Múltiplos Sentidos",
+      "tema": "CULINÁRIA JAPONESA",
       "palavras": [
-        "Balança",
-        "Caixa",
-        "Juro",
-        "Capital"
+        "Wasabi",
+        "Nori",
+        "Tempura",
+        "Sashimi"
       ]
     },
     {
-      "tema": "Elementos Naturais com Múltiplos Usos/Sentidos",
+      "tema": "CONCEITOS DA PSICANÁLISE",
       "palavras": [
-        "Pedra",
-        "Areia",
-        "Barro",
-        "Ferro"
+        "Id",
+        "Ego",
+        "Superego",
+        "Inconsciente"
       ]
     }
   ],
-  "data": "2026-01-16"
+  "data": "2026-01-17"
 }
