@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PEÇAS DE XADREZ",
+      "tema": "Termos de Costura",
       "palavras": [
-        "Torre",
-        "Bispo",
-        "Cavalo",
-        "Peão"
+        "Bainha",
+        "Ponto",
+        "Linha",
+        "Fio"
       ]
     },
     {
-      "tema": "FENÔMENOS ÓPTICOS DA LUZ",
+      "tema": "Componentes de Embarcações",
       "palavras": [
-        "Refração",
-        "Difração",
-        "Interferência",
-        "Polarização"
+        "Quilha",
+        "Mastro",
+        "Cabo",
+        "Vela"
       ]
     },
     {
-      "tema": "CULINÁRIA JAPONESA",
+      "tema": "Partes de uma Árvore",
       "palavras": [
-        "Wasabi",
-        "Nori",
-        "Tempura",
-        "Sashimi"
+        "Tronco",
+        "Coroa",
+        "Galho",
+        "Copa"
       ]
     },
     {
-      "tema": "CONCEITOS DA PSICANÁLISE",
+      "tema": "Palavras que Podem Ser Nomes ou Verbos",
       "palavras": [
-        "Id",
-        "Ego",
-        "Superego",
-        "Inconsciente"
+        "Cobra",
+        "Serra",
+        "Pia",
+        "Corte"
       ]
     }
   ],
-  "data": "2026-01-17"
+  "data": "2026-01-18"
 }
