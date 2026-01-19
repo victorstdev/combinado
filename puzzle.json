@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Costura",
+      "tema": "Verbo \"Correr\" em Sentido Figurado",
       "palavras": [
-        "Bainha",
-        "Ponto",
-        "Linha",
-        "Fio"
+        "Rio",
+        "Sangue",
+        "Prazo",
+        "Notícia"
       ]
     },
     {
-      "tema": "Componentes de Embarcações",
+      "tema": "Partes de Vestuário",
       "palavras": [
-        "Quilha",
-        "Mastro",
-        "Cabo",
+        "Gola",
+        "Manga",
+        "Punho",
+        "Barra"
+      ]
+    },
+    {
+      "tema": "Elementos de Iluminação",
+      "palavras": [
+        "Filamento",
+        "Refletor",
+        "Candelabro",
         "Vela"
       ]
     },
     {
-      "tema": "Partes de uma Árvore",
+      "tema": "Termos Associados à Noite",
       "palavras": [
-        "Tronco",
-        "Coroa",
-        "Galho",
-        "Copa"
-      ]
-    },
-    {
-      "tema": "Palavras que Podem Ser Nomes ou Verbos",
-      "palavras": [
-        "Cobra",
-        "Serra",
-        "Pia",
-        "Corte"
+        "Coruja",
+        "Lua",
+        "Sereno",
+        "Estrela"
       ]
     }
   ],
-  "data": "2026-01-18"
+  "data": "2026-01-19"
 }
