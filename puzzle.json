@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Verbo \"Correr\" em Sentido Figurado",
+      "tema": "Palavras que mudam de acento (e sentido) com a classe gramatical",
       "palavras": [
-        "Rio",
-        "Sangue",
-        "Prazo",
-        "Notícia"
+        "Música",
+        "Dúvida",
+        "Análise",
+        "Crítica"
       ]
     },
     {
-      "tema": "Partes de Vestuário",
+      "tema": "Frutas que nomeiam outras coisas comuns",
       "palavras": [
-        "Gola",
         "Manga",
-        "Punho",
-        "Barra"
+        "Laranja",
+        "Pera",
+        "Lima"
       ]
     },
     {
-      "tema": "Elementos de Iluminação",
+      "tema": "Cores que também são nomes de materiais ou bebidas",
       "palavras": [
-        "Filamento",
-        "Refletor",
-        "Candelabro",
-        "Vela"
+        "Cobre",
+        "Vinho",
+        "Esmeralda",
+        "Prata"
       ]
     },
     {
-      "tema": "Termos Associados à Noite",
+      "tema": "Partes de plantas com outros significados comuns",
       "palavras": [
-        "Coruja",
-        "Lua",
-        "Sereno",
-        "Estrela"
+        "Raiz",
+        "Folha",
+        "Tronco",
+        "Gomo"
       ]
     }
   ],
-  "data": "2026-01-19"
+  "data": "2026-01-20"
 }
