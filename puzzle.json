@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Palavras que mudam de acento (e sentido) com a classe gramatical",
+      "tema": "Termos Financeiros",
       "palavras": [
-        "Música",
-        "Dúvida",
-        "Análise",
-        "Crítica"
+        "Banco",
+        "Saque",
+        "Moeda",
+        "Caixa"
       ]
     },
     {
-      "tema": "Frutas que nomeiam outras coisas comuns",
+      "tema": "Componentes da Indumentária",
       "palavras": [
         "Manga",
-        "Laranja",
-        "Pera",
-        "Lima"
+        "Gola",
+        "Ponto",
+        "Linha"
       ]
     },
     {
-      "tema": "Cores que também são nomes de materiais ou bebidas",
+      "tema": "Elementos de Jogos e Esportes",
       "palavras": [
-        "Cobre",
-        "Vinho",
-        "Esmeralda",
-        "Prata"
+        "Cobra",
+        "Escala",
+        "Cesto",
+        "Barra"
       ]
     },
     {
-      "tema": "Partes de plantas com outros significados comuns",
+      "tema": "Termos da Botânica",
       "palavras": [
-        "Raiz",
-        "Folha",
-        "Tronco",
-        "Gomo"
+        "Planta",
+        "Pena",
+        "Bico",
+        "Pinga"
       ]
     }
   ],
-  "data": "2026-01-20"
+  "data": "2026-01-21"
 }
