@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos Financeiros",
+      "tema": "Técnicas de Preparo Culinário",
       "palavras": [
-        "Banco",
-        "Saque",
-        "Moeda",
-        "Caixa"
+        "Branquear",
+        "Saltear",
+        "Confitar",
+        "Marinar"
       ]
     },
     {
-      "tema": "Componentes da Indumentária",
+      "tema": "Componentes de Arma de Fogo",
       "palavras": [
-        "Manga",
-        "Gola",
-        "Ponto",
-        "Linha"
+        "Gatilho",
+        "Cano",
+        "Coronha",
+        "Carregador"
       ]
     },
     {
-      "tema": "Elementos de Jogos e Esportes",
+      "tema": "Fenômenos Luminosos ou Celestes",
       "palavras": [
-        "Cobra",
-        "Escala",
-        "Cesto",
-        "Barra"
+        "Miragem",
+        "Aurora",
+        "Eclípse",
+        "Halo"
       ]
     },
     {
-      "tema": "Termos da Botânica",
+      "tema": "Unidades de Medida de Comprimento Não-Métricas",
       "palavras": [
-        "Planta",
-        "Pena",
-        "Bico",
-        "Pinga"
+        "Légua",
+        "Braça",
+        "Jarda",
+        "Palmo"
       ]
     }
   ],
-  "data": "2026-01-21"
+  "data": "2026-01-22"
 }
