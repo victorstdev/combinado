@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Técnicas de Preparo Culinário",
+      "tema": "Expressões com o verbo 'BATER'",
       "palavras": [
-        "Branquear",
-        "Saltear",
-        "Confitar",
-        "Marinar"
+        "Manteiga",
+        "Ponto",
+        "Meta",
+        "Recorde"
       ]
     },
     {
-      "tema": "Componentes de Arma de Fogo",
+      "tema": "Termos relacionados a 'APERTAR'",
       "palavras": [
-        "Gatilho",
-        "Cano",
-        "Coronha",
-        "Carregador"
+        "Cinto",
+        "Mão",
+        "Botão",
+        "Parafuso"
       ]
     },
     {
-      "tema": "Fenômenos Luminosos ou Celestes",
+      "tema": "Nomes de Rios Brasileiros",
       "palavras": [
-        "Miragem",
-        "Aurora",
-        "Eclípse",
-        "Halo"
+        "Doce",
+        "Tietê",
+        "Paraíba",
+        "Capibaribe"
       ]
     },
     {
-      "tema": "Unidades de Medida de Comprimento Não-Métricas",
+      "tema": "Palavras que Formam Expressões com 'DE GUERRA'",
       "palavras": [
-        "Légua",
-        "Braça",
-        "Jarda",
-        "Palmo"
+        "Cão",
+        "Cavalo",
+        "Navio",
+        "Máquina"
       ]
     }
   ],
-  "data": "2026-01-22"
+  "data": "2026-01-23"
 }
