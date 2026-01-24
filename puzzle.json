@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Expressões com o verbo 'BATER'",
+      "tema": "Elementos com potencial de \"estourar\"",
       "palavras": [
-        "Manteiga",
-        "Ponto",
-        "Meta",
-        "Recorde"
+        "Balão",
+        "Pipoca",
+        "Pneu",
+        "Vulcão"
       ]
     },
     {
-      "tema": "Termos relacionados a 'APERTAR'",
+      "tema": "Formações naturais de água",
       "palavras": [
-        "Cinto",
-        "Mão",
-        "Botão",
-        "Parafuso"
+        "Rio",
+        "Vertente",
+        "Fonte",
+        "Poço"
       ]
     },
     {
-      "tema": "Nomes de Rios Brasileiros",
+      "tema": "Características de corpos celestes",
       "palavras": [
-        "Doce",
-        "Tietê",
-        "Paraíba",
-        "Capibaribe"
+        "Cratera",
+        "Anel",
+        "Coma",
+        "Cauda"
       ]
     },
     {
-      "tema": "Palavras que Formam Expressões com 'DE GUERRA'",
+      "tema": "Termos de jogos de cartas",
       "palavras": [
-        "Cão",
-        "Cavalo",
-        "Navio",
-        "Máquina"
+        "Trunfo",
+        "Naipe",
+        "Vaza",
+        "Blefe"
       ]
     }
   ],
-  "data": "2026-01-23"
+  "data": "2026-01-24"
 }
