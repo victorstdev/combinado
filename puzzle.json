@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos com potencial de \"estourar\"",
+      "tema": "Partes de uma edificação",
       "palavras": [
-        "Balão",
-        "Pipoca",
-        "Pneu",
-        "Vulcão"
+        "Alicerce",
+        "Fachada",
+        "Rodapé",
+        "Telhado"
       ]
     },
     {
-      "tema": "Formações naturais de água",
+      "tema": "Termos de processamento de alimentos",
       "palavras": [
-        "Rio",
-        "Vertente",
-        "Fonte",
-        "Poço"
+        "Curar",
+        "Decantar",
+        "Fermentar",
+        "Marinar"
       ]
     },
     {
-      "tema": "Características de corpos celestes",
+      "tema": "Coisas que se movem no ar (literal/figurado)",
       "palavras": [
-        "Cratera",
-        "Anel",
-        "Coma",
-        "Cauda"
+        "Boato",
+        "Cometa",
+        "Fumaça",
+        "Ideia"
       ]
     },
     {
-      "tema": "Termos de jogos de cartas",
+      "tema": "Expressões idiomáticas com a palavra 'Ponta'",
       "palavras": [
-        "Trunfo",
-        "Naipe",
-        "Vaza",
-        "Blefe"
+        "Na ponta da língua",
+        "Ponta de iceberg",
+        "Ponta de lança",
+        "Ponta solta"
       ]
     }
   ],
-  "data": "2026-01-24"
+  "data": "2026-01-25"
 }
