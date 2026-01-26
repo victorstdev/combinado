@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de uma edificação",
+      "tema": "Peças do Xadrez",
       "palavras": [
-        "Alicerce",
-        "Fachada",
-        "Rodapé",
-        "Telhado"
+        "Torre",
+        "Bispo",
+        "Peão",
+        "Cavalo"
       ]
     },
     {
-      "tema": "Termos de processamento de alimentos",
+      "tema": "Unidades de Medida",
       "palavras": [
-        "Curar",
-        "Decantar",
-        "Fermentar",
-        "Marinar"
+        "Milha",
+        "Hertz",
+        "Nó",
+        "Pé"
       ]
     },
     {
-      "tema": "Coisas que se movem no ar (literal/figurado)",
+      "tema": "Componentes ou Fenômenos de Aeronaves",
       "palavras": [
-        "Boato",
-        "Cometa",
-        "Fumaça",
-        "Ideia"
+        "Aileron",
+        "Flap",
+        "Estol",
+        "Turbina"
       ]
     },
     {
-      "tema": "Expressões idiomáticas com a palavra 'Ponta'",
+      "tema": "Expressões com a palavra 'Mão'",
       "palavras": [
-        "Na ponta da língua",
-        "Ponta de iceberg",
-        "Ponta de lança",
-        "Ponta solta"
+        "Mão-boba",
+        "Mão-única",
+        "Mão-de-obra",
+        "Mão-cheia"
       ]
     }
   ],
-  "data": "2026-01-25"
+  "data": "2026-01-26"
 }
