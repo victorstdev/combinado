@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Peças do Xadrez",
+      "tema": "Coisas que se 'Armam'",
       "palavras": [
-        "Torre",
-        "Bispo",
-        "Peão",
-        "Cavalo"
+        "Armadilha",
+        "Emboscada",
+        "Mesa",
+        "Barraca"
       ]
     },
     {
-      "tema": "Unidades de Medida",
+      "tema": "Itens que vêm em 'Rolos'",
       "palavras": [
-        "Milha",
-        "Hertz",
-        "Nó",
-        "Pé"
+        "Filme",
+        "Papel",
+        "Massa",
+        "Sushi"
       ]
     },
     {
-      "tema": "Componentes ou Fenômenos de Aeronaves",
+      "tema": "Conteúdo de um 'Repertório'",
       "palavras": [
-        "Aileron",
-        "Flap",
-        "Estol",
-        "Turbina"
+        "Canções",
+        "Peças",
+        "Piadas",
+        "Truques"
       ]
     },
     {
-      "tema": "Expressões com a palavra 'Mão'",
+      "tema": "Expressões com o verbo 'Cair'",
       "palavras": [
-        "Mão-boba",
-        "Mão-única",
-        "Mão-de-obra",
-        "Mão-cheia"
+        "Ficha",
+        "Máscara",
+        "Braços",
+        "Graça"
       ]
     }
   ],
-  "data": "2026-01-26"
+  "data": "2026-01-27"
 }
