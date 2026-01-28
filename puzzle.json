@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Coisas que se 'Armam'",
+      "tema": "Objetos Chave em Contos de Fadas Clássicos",
       "palavras": [
-        "Armadilha",
-        "Emboscada",
-        "Mesa",
-        "Barraca"
+        "Maçã",
+        "Abóbora",
+        "Espelho",
+        "Agulha"
       ]
     },
     {
-      "tema": "Itens que vêm em 'Rolos'",
+      "tema": "Instrumentos e Conceitos de Astronomia/Navegação Antiga",
       "palavras": [
-        "Filme",
-        "Papel",
-        "Massa",
-        "Sushi"
+        "Astrolábio",
+        "Sextante",
+        "Gnômon",
+        "Zenite"
       ]
     },
     {
-      "tema": "Conteúdo de um 'Repertório'",
+      "tema": "Verbos de Técnicas Culinárias Essenciais",
       "palavras": [
-        "Canções",
-        "Peças",
-        "Piadas",
-        "Truques"
+        "Refogar",
+        "Emulsificar",
+        "Deglaçar",
+        "Branquear"
       ]
     },
     {
-      "tema": "Expressões com o verbo 'Cair'",
+      "tema": "Partes do Corpo Tipicamente Animais",
       "palavras": [
-        "Ficha",
-        "Máscara",
-        "Braços",
-        "Graça"
+        "Focinho",
+        "Casco",
+        "Garras",
+        "Chifre"
       ]
     }
   ],
-  "data": "2026-01-27"
+  "data": "2026-01-28"
 }
