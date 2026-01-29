@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Objetos Chave em Contos de Fadas Clássicos",
+      "tema": "Elementos de Arquitetura Clássica",
       "palavras": [
-        "Maçã",
-        "Abóbora",
-        "Espelho",
-        "Agulha"
+        "Abóbada",
+        "Átrio",
+        "Capitel",
+        "Colunata"
       ]
     },
     {
-      "tema": "Instrumentos e Conceitos de Astronomia/Navegação Antiga",
+      "tema": "Verbos de Manifestação Luminosa",
       "palavras": [
-        "Astrolábio",
-        "Sextante",
-        "Gnômon",
-        "Zenite"
+        "Bruxulear",
+        "Fulgurar",
+        "Cintilar",
+        "Ofuscar"
       ]
     },
     {
-      "tema": "Verbos de Técnicas Culinárias Essenciais",
+      "tema": "Componentes de uma Moeda",
       "palavras": [
-        "Refogar",
-        "Emulsificar",
-        "Deglaçar",
-        "Branquear"
+        "Cunho",
+        "Efígie",
+        "Orla",
+        "Relevo"
       ]
     },
     {
-      "tema": "Partes do Corpo Tipicamente Animais",
+      "tema": "Termos de Balé Clássico",
       "palavras": [
-        "Focinho",
-        "Casco",
-        "Garras",
-        "Chifre"
+        "Pirueta",
+        "Plié",
+        "Jeté",
+        "Arabesque"
       ]
     }
   ],
-  "data": "2026-01-28"
+  "data": "2026-01-29"
 }
