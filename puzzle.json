@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos de Arquitetura Clássica",
+      "tema": "Tons de Cores Derivados",
       "palavras": [
-        "Abóbada",
-        "Átrio",
-        "Capitel",
-        "Colunata"
+        "Carmesim",
+        "Esmeralda",
+        "Safira",
+        "Turquesa"
       ]
     },
     {
-      "tema": "Verbos de Manifestação Luminosa",
+      "tema": "Componentes de Automóveis",
       "palavras": [
-        "Bruxulear",
-        "Fulgurar",
-        "Cintilar",
-        "Ofuscar"
+        "Caixa",
+        "Volante",
+        "Eixo",
+        "Capô"
       ]
     },
     {
-      "tema": "Componentes de uma Moeda",
+      "tema": "Classes de Palavras",
       "palavras": [
-        "Cunho",
-        "Efígie",
-        "Orla",
-        "Relevo"
+        "Conjunção",
+        "Pronome",
+        "Advérbio",
+        "Interjeição"
       ]
     },
     {
-      "tema": "Termos de Balé Clássico",
+      "tema": "Elementos Leves ou Suspensos",
       "palavras": [
-        "Pirueta",
-        "Plié",
-        "Jeté",
-        "Arabesque"
+        "Pluma",
+        "Nuvem",
+        "Balão",
+        "Gás"
       ]
     }
   ],
-  "data": "2026-01-29"
+  "data": "2026-01-30"
 }
