@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Tons de Cores Derivados",
+      "tema": "Termos com Uso em Arte e Cotidiano",
       "palavras": [
-        "Carmesim",
-        "Esmeralda",
-        "Safira",
-        "Turquesa"
+        "Pauta",
+        "Palco",
+        "Ato",
+        "Compasso"
       ]
     },
     {
-      "tema": "Componentes de Automóveis",
+      "tema": "Cidades com Nome de Substantivo Comum",
       "palavras": [
-        "Caixa",
-        "Volante",
-        "Eixo",
-        "Capô"
+        "Fortaleza",
+        "Vitória",
+        "Palmas",
+        "Lima"
       ]
     },
     {
-      "tema": "Classes de Palavras",
+      "tema": "Palavras com Múltiplos Sentidos (Substantivo/Verbo/Local)",
       "palavras": [
-        "Conjunção",
-        "Pronome",
-        "Advérbio",
-        "Interjeição"
+        "Serra",
+        "Passo",
+        "Corte",
+        "Pena"
       ]
     },
     {
-      "tema": "Elementos Leves ou Suspensos",
+      "tema": "Partes de Algo que Podem Ser Outras Coisas",
       "palavras": [
-        "Pluma",
-        "Nuvem",
-        "Balão",
-        "Gás"
+        "Cabo",
+        "Tronco",
+        "Folha",
+        "Ponta"
       ]
     }
   ],
-  "data": "2026-01-30"
+  "data": "2026-01-31"
 }
