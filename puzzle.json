@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos com Uso em Arte e Cotidiano",
+      "tema": "PARTES DO CORPO COM SIGNIFICADO AMPLIADO",
       "palavras": [
-        "Pauta",
-        "Palco",
-        "Ato",
-        "Compasso"
+        "Mão",
+        "Pé",
+        "Cabeça",
+        "Língua"
       ]
     },
     {
-      "tema": "Cidades com Nome de Substantivo Comum",
+      "tema": "ELEMENTOS DE REGISTRO E DOCUMENTAÇÃO",
       "palavras": [
-        "Fortaleza",
-        "Vitória",
-        "Palmas",
-        "Lima"
+        "Pena",
+        "Tinta",
+        "Selo",
+        "Letra"
       ]
     },
     {
-      "tema": "Palavras com Múltiplos Sentidos (Substantivo/Verbo/Local)",
+      "tema": "ITENS QUE FORMAM LAÇOS OU NÓS",
       "palavras": [
-        "Serra",
-        "Passo",
-        "Corte",
-        "Pena"
+        "Nó",
+        "Laço",
+        "Corda",
+        "Trança"
       ]
     },
     {
-      "tema": "Partes de Algo que Podem Ser Outras Coisas",
+      "tema": "ELEMENTOS DE ESTRUTURA E ORGANIZAÇÃO",
       "palavras": [
-        "Cabo",
-        "Tronco",
-        "Folha",
-        "Ponta"
+        "Banca",
+        "Mesa",
+        "Cadeira",
+        "Caixa"
       ]
     }
   ],
-  "data": "2026-01-31"
+  "data": "2026-02-01"
 }
