@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PARTES DO CORPO COM SIGNIFICADO AMPLIADO",
+      "tema": "Elementos de uma Bateria Musical",
       "palavras": [
-        "Mão",
-        "Pé",
-        "Cabeça",
-        "Língua"
+        "Caixa",
+        "Prato",
+        "Bumbo",
+        "Pedal"
       ]
     },
     {
-      "tema": "ELEMENTOS DE REGISTRO E DOCUMENTAÇÃO",
+      "tema": "Verbos de Preparo Culinário Específicos",
       "palavras": [
-        "Pena",
-        "Tinta",
-        "Selo",
-        "Letra"
+        "Saltear",
+        "Refogar",
+        "Branquear",
+        "Emulsificar"
       ]
     },
     {
-      "tema": "ITENS QUE FORMAM LAÇOS OU NÓS",
+      "tema": "Peças do Sistema de Transmissão Automotiva",
       "palavras": [
-        "Nó",
-        "Laço",
-        "Corda",
-        "Trança"
+        "Câmbio",
+        "Embreagem",
+        "Diferencial",
+        "Cardã"
       ]
     },
     {
-      "tema": "ELEMENTOS DE ESTRUTURA E ORGANIZAÇÃO",
+      "tema": "Partes Estruturais de Embarcações",
       "palavras": [
-        "Banca",
-        "Mesa",
-        "Cadeira",
-        "Caixa"
+        "Proa",
+        "Popa",
+        "Casco",
+        "Quilha"
       ]
     }
   ],
-  "data": "2026-02-01"
+  "data": "2026-02-02"
 }
