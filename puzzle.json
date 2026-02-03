@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos de uma Bateria Musical",
+      "tema": "Verbos de Movimento ou Propagação Rápida",
       "palavras": [
-        "Caixa",
-        "Prato",
-        "Bumbo",
-        "Pedal"
+        "GIRA",
+        "VAZA",
+        "ESPALHA",
+        "PEGA"
       ]
     },
     {
-      "tema": "Verbos de Preparo Culinário Específicos",
+      "tema": "Objetos ou Expressões com 'Pé' ou 'Mão'",
       "palavras": [
-        "Saltear",
-        "Refogar",
-        "Branquear",
-        "Emulsificar"
+        "PÉ DE MOLEQUE",
+        "MÃO FRANCESA",
+        "PÉ DE CABRA",
+        "MÃO SANTA"
       ]
     },
     {
-      "tema": "Peças do Sistema de Transmissão Automotiva",
+      "tema": "Fenômenos e Tipos de Nuvens",
       "palavras": [
-        "Câmbio",
-        "Embreagem",
-        "Diferencial",
-        "Cardã"
+        "NÉVOA",
+        "CUMULUS",
+        "BRUMA",
+        "CIRRUS"
       ]
     },
     {
-      "tema": "Partes Estruturais de Embarcações",
+      "tema": "Termos de Baralho ou Jogos de Cartas",
       "palavras": [
-        "Proa",
-        "Popa",
-        "Casco",
-        "Quilha"
+        "NAIPE",
+        "CORINGA",
+        "TRUCO",
+        "DUQUE"
       ]
     }
   ],
-  "data": "2026-02-02"
+  "data": "2026-02-03"
 }
