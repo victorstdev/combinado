@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Verbos de Movimento ou Propagação Rápida",
+      "tema": "PARTES DE UM ARMAMENTO LEVE",
       "palavras": [
-        "GIRA",
-        "VAZA",
-        "ESPALHA",
-        "PEGA"
+        "Cano",
+        "Gatilho",
+        "Cão",
+        "Coronha"
       ]
     },
     {
-      "tema": "Objetos ou Expressões com 'Pé' ou 'Mão'",
+      "tema": "EXPRESSÕES POPULARES COM 'PÉ'",
       "palavras": [
-        "PÉ DE MOLEQUE",
-        "MÃO FRANCESA",
-        "PÉ DE CABRA",
-        "MÃO SANTA"
+        "Pé-direito",
+        "Pé-de-moleque",
+        "Pé-quente",
+        "Pé-rapado"
       ]
     },
     {
-      "tema": "Fenômenos e Tipos de Nuvens",
+      "tema": "ELEMENTOS QUÍMICOS COM NOMES CELESTES",
       "palavras": [
-        "NÉVOA",
-        "CUMULUS",
-        "BRUMA",
-        "CIRRUS"
+        "Urânio",
+        "Netúnio",
+        "Plutônio",
+        "Hélio"
       ]
     },
     {
-      "tema": "Termos de Baralho ou Jogos de Cartas",
+      "tema": "ESTRUTURAS DE UMA EMBARCAÇÃO",
       "palavras": [
-        "NAIPE",
-        "CORINGA",
-        "TRUCO",
-        "DUQUE"
+        "Quilha",
+        "Mastros",
+        "Amuras",
+        "Popa"
       ]
     }
   ],
-  "data": "2026-02-03"
+  "data": "2026-02-04"
 }
