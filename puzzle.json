@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PARTES DE UM ARMAMENTO LEVE",
+      "tema": "Substantivos que combinam com o verbo \"PASSAR\"",
       "palavras": [
-        "Cano",
+        "Roupa",
+        "Vergonha",
+        "Pano",
+        "Tempo"
+      ]
+    },
+    {
+      "tema": "Palavras Homógrafas (Substantivo e Verbo)",
+      "palavras": [
+        "Corte",
+        "Manga",
+        "Serra",
+        "Porta"
+      ]
+    },
+    {
+      "tema": "Palavras que formam expressões com \"PONTO\"",
+      "palavras": [
+        "Cego",
+        "Final",
         "Gatilho",
-        "Cão",
-        "Coronha"
+        "Vista"
       ]
     },
     {
-      "tema": "EXPRESSÕES POPULARES COM 'PÉ'",
+      "tema": "Substantivos que combinam com o verbo \"CORRER\"",
       "palavras": [
-        "Pé-direito",
-        "Pé-de-moleque",
-        "Pé-quente",
-        "Pé-rapado"
-      ]
-    },
-    {
-      "tema": "ELEMENTOS QUÍMICOS COM NOMES CELESTES",
-      "palavras": [
-        "Urânio",
-        "Netúnio",
-        "Plutônio",
-        "Hélio"
-      ]
-    },
-    {
-      "tema": "ESTRUTURAS DE UMA EMBARCAÇÃO",
-      "palavras": [
-        "Quilha",
-        "Mastros",
-        "Amuras",
-        "Popa"
+        "Rio",
+        "Sangue",
+        "Notícia",
+        "Risco"
       ]
     }
   ],
-  "data": "2026-02-04"
+  "data": "2026-02-05"
 }
