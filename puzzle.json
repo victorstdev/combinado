@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Expressões com o Verbo \"Fechar\"",
+      "tema": "Figuras de Linguagem",
       "palavras": [
-        "Acordo",
-        "Conta",
-        "Questão",
-        "Ciclo"
+        "Hipérbole",
+        "Eufemismo",
+        "Metáfora",
+        "Sinestesia"
       ]
     },
     {
-      "tema": "Instrumentos e Acessórios de Costura",
+      "tema": "Peças do Xadrez",
       "palavras": [
-        "Agulha",
-        "Alfinete",
-        "Botão",
-        "Tesoura"
+        "Bispo",
+        "Cavalo",
+        "Torre",
+        "Peão"
       ]
     },
     {
-      "tema": "Componentes Narrativos de uma Obra",
+      "tema": "Verbos de Ocultação/Engano",
       "palavras": [
-        "Clímax",
-        "Desfecho",
-        "Enredo",
-        "Personagem"
+        "Dissimular",
+        "Camuflar",
+        "Blefar",
+        "Sonegar"
       ]
     },
     {
-      "tema": "Palavras que Precedem \"de Guerra\"",
+      "tema": "Fenômenos Luminosos",
       "palavras": [
-        "Artifício",
-        "Estado",
-        "Grito",
-        "Máquina"
+        "Refração",
+        "Miragem",
+        "Cintilar",
+        "Luminescência"
       ]
     }
   ],
-  "data": "2026-02-06"
+  "data": "2026-02-07"
 }
