@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Figuras de Linguagem",
+      "tema": "Elementos da Costura",
       "palavras": [
-        "Hipérbole",
-        "Eufemismo",
-        "Metáfora",
-        "Sinestesia"
+        "Ponto",
+        "Fio",
+        "Barra",
+        "Corte"
       ]
     },
     {
-      "tema": "Peças do Xadrez",
+      "tema": "Coisas com \"Cabeça\" (no sentido de extremidade)",
       "palavras": [
-        "Bispo",
-        "Cavalo",
-        "Torre",
-        "Peão"
+        "Prego",
+        "Alho",
+        "Parafuso",
+        "Gado"
       ]
     },
     {
-      "tema": "Verbos de Ocultação/Engano",
+      "tema": "Partes de Animais com Outros Significados",
       "palavras": [
-        "Dissimular",
-        "Camuflar",
-        "Blefar",
-        "Sonegar"
+        "Pata",
+        "Asa",
+        "Pena",
+        "Bico"
       ]
     },
     {
-      "tema": "Fenômenos Luminosos",
+      "tema": "Termos de Jogos de Cartas",
       "palavras": [
-        "Refração",
-        "Miragem",
-        "Cintilar",
-        "Luminescência"
+        "Naipe",
+        "Manilha",
+        "Vaza",
+        "Trunfo"
       ]
     }
   ],
-  "data": "2026-02-07"
+  "data": "2026-02-08"
 }
