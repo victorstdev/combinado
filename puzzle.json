@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos da Costura",
+      "tema": "QUALIDADES (USADAS EM EXPRESSÕES COM 'CABEÇA')",
       "palavras": [
-        "Ponto",
-        "Fio",
-        "Barra",
-        "Corte"
+        "Fraca",
+        "Dura",
+        "Quente",
+        "Oca"
       ]
     },
     {
-      "tema": "Coisas com \"Cabeça\" (no sentido de extremidade)",
+      "tema": "ELEMENTOS OU CARACTERÍSTICAS DE EMBARCAÇÕES",
       "palavras": [
-        "Prego",
-        "Alho",
-        "Parafuso",
-        "Gado"
+        "Casco",
+        "Proa",
+        "Calado",
+        "Âncora"
       ]
     },
     {
-      "tema": "Partes de Animais com Outros Significados",
+      "tema": "TERMOS DE JOGOS DE BARALHO (COM OUTROS SIGNIFICADOS)",
       "palavras": [
-        "Pata",
-        "Asa",
-        "Pena",
-        "Bico"
-      ]
-    },
-    {
-      "tema": "Termos de Jogos de Cartas",
-      "palavras": [
+        "Coringa",
         "Naipe",
         "Manilha",
-        "Vaza",
-        "Trunfo"
+        "Vaza"
+      ]
+    },
+    {
+      "tema": "CONCEITOS OU OBJETOS RELACIONADOS AO AR",
+      "palavras": [
+        "Pipa",
+        "Aura",
+        "Sopro",
+        "Vento"
       ]
     }
   ],
-  "data": "2026-02-08"
+  "data": "2026-02-09"
 }
