@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "QUALIDADES (USADAS EM EXPRESSÕES COM 'CABEÇA')",
+      "tema": "Partes do Violão ou Guitarra",
       "palavras": [
-        "Fraca",
-        "Dura",
-        "Quente",
-        "Oca"
+        "Braço",
+        "Cavalete",
+        "Traste",
+        "Pestana"
       ]
     },
     {
-      "tema": "ELEMENTOS OU CARACTERÍSTICAS DE EMBARCAÇÕES",
+      "tema": "Técnicas Culinárias",
       "palavras": [
-        "Casco",
-        "Proa",
-        "Calado",
-        "Âncora"
+        "Branquear",
+        "Flambar",
+        "Reduzir",
+        "Saltear"
       ]
     },
     {
-      "tema": "TERMOS DE JOGOS DE BARALHO (COM OUTROS SIGNIFICADOS)",
+      "tema": "Elementos de Contos de Fadas Clássicos",
       "palavras": [
-        "Coringa",
-        "Naipe",
-        "Manilha",
-        "Vaza"
+        "Fuso",
+        "Espelho",
+        "Maçã",
+        "Sapatinho"
       ]
     },
     {
-      "tema": "CONCEITOS OU OBJETOS RELACIONADOS AO AR",
+      "tema": "Expressões com a Palavra 'Mão'",
       "palavras": [
-        "Pipa",
-        "Aura",
-        "Sopro",
-        "Vento"
+        "Mão-boba",
+        "Mão-aberta",
+        "Mão-leve",
+        "Mão-fechada"
       ]
     }
   ],
-  "data": "2026-02-09"
+  "data": "2026-02-10"
 }
