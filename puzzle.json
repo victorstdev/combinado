@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes do Violão ou Guitarra",
+      "tema": "Termos de Navegação Marítima",
       "palavras": [
-        "Braço",
-        "Cavalete",
-        "Traste",
-        "Pestana"
+        "Bordo",
+        "Âncora",
+        "Calado",
+        "Proa"
       ]
     },
     {
-      "tema": "Técnicas Culinárias",
+      "tema": "Partes de uma Peça de Roupa",
       "palavras": [
-        "Branquear",
-        "Flambar",
-        "Reduzir",
-        "Saltear"
+        "Gola",
+        "Manga",
+        "Bainha",
+        "Punho"
       ]
     },
     {
-      "tema": "Elementos de Contos de Fadas Clássicos",
+      "tema": "Técnicas Culinárias Específicas",
       "palavras": [
-        "Fuso",
-        "Espelho",
-        "Maçã",
-        "Sapatinho"
+        "Emulsificar",
+        "Marinar",
+        "Saltear",
+        "Branquear"
       ]
     },
     {
-      "tema": "Expressões com a Palavra 'Mão'",
+      "tema": "Tipos de Falha ou Ruptura",
       "palavras": [
-        "Mão-boba",
-        "Mão-aberta",
-        "Mão-leve",
-        "Mão-fechada"
+        "Brecha",
+        "Lapsos",
+        "Fissura",
+        "Falha"
       ]
     }
   ],
-  "data": "2026-02-10"
+  "data": "2026-02-11"
 }
