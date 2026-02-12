@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Navegação Marítima",
+      "tema": "COISAS QUE 'CORREM'",
       "palavras": [
-        "Bordo",
-        "Âncora",
-        "Calado",
-        "Proa"
+        "Rio",
+        "Tempo",
+        "Água",
+        "Boato"
       ]
     },
     {
-      "tema": "Partes de uma Peça de Roupa",
+      "tema": "ELEMENTOS PRESENTES NA RUA OU TRÂNSITO",
       "palavras": [
-        "Gola",
-        "Manga",
+        "Faixa",
+        "Sinal",
+        "Placa",
+        "Pedágio"
+      ]
+    },
+    {
+      "tema": "TERMOS DE COSTURA",
+      "palavras": [
         "Bainha",
-        "Punho"
+        "Ponto",
+        "Fio",
+        "Agulha"
       ]
     },
     {
-      "tema": "Técnicas Culinárias Específicas",
+      "tema": "PALAVRAS QUE PODEM PRECEDER 'DA NOITE'",
       "palavras": [
-        "Emulsificar",
-        "Marinar",
-        "Saltear",
-        "Branquear"
-      ]
-    },
-    {
-      "tema": "Tipos de Falha ou Ruptura",
-      "palavras": [
-        "Brecha",
-        "Lapsos",
-        "Fissura",
-        "Falha"
+        "Hora",
+        "Sombra",
+        "Calada",
+        "Estrela"
       ]
     }
   ],
-  "data": "2026-02-11"
+  "data": "2026-02-12"
 }
