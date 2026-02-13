@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "COISAS QUE 'CORREM'",
+      "tema": "AÇÕES ASSOCIADAS A 'QUEBRAR' (verbo)",
       "palavras": [
-        "Rio",
-        "Tempo",
-        "Água",
-        "Boato"
+        "Recorde",
+        "Gelo",
+        "Silêncio",
+        "Jejum"
       ]
     },
     {
-      "tema": "ELEMENTOS PRESENTES NA RUA OU TRÂNSITO",
+      "tema": "TIPOS DE MASSA (culinária e construção)",
       "palavras": [
-        "Faixa",
-        "Sinal",
-        "Placa",
-        "Pedágio"
+        "Folhada",
+        "Podre",
+        "Areia",
+        "Mãe"
       ]
     },
     {
-      "tema": "TERMOS DE COSTURA",
+      "tema": "TERMOS DE LIMITE OU MEDIDA (abstratos)",
       "palavras": [
-        "Bainha",
-        "Ponto",
-        "Fio",
-        "Agulha"
+        "Prazo",
+        "Cota",
+        "Margem",
+        "Escala"
       ]
     },
     {
-      "tema": "PALAVRAS QUE PODEM PRECEDER 'DA NOITE'",
+      "tema": "PALAVRAS POLISSÊMICAS (múltiplos significados)",
       "palavras": [
-        "Hora",
-        "Sombra",
-        "Calada",
-        "Estrela"
+        "Cabo",
+        "Manga",
+        "Serra",
+        "Banco"
       ]
     }
   ],
-  "data": "2026-02-12"
+  "data": "2026-02-13"
 }
