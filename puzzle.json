@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "AÇÕES ASSOCIADAS A 'QUEBRAR' (verbo)",
+      "tema": "Processos de Transformação da Matéria",
       "palavras": [
-        "Recorde",
-        "Gelo",
-        "Silêncio",
-        "Jejum"
+        "Sublimar",
+        "Fermentar",
+        "Decantar",
+        "Catalisar"
       ]
     },
     {
-      "tema": "TIPOS DE MASSA (culinária e construção)",
+      "tema": "Tipos de Movimento Mecânico",
       "palavras": [
-        "Folhada",
-        "Podre",
-        "Areia",
-        "Mãe"
+        "Rotacionar",
+        "Translacionar",
+        "Oscilar",
+        "Vibrar"
       ]
     },
     {
-      "tema": "TERMOS DE LIMITE OU MEDIDA (abstratos)",
+      "tema": "Vícios e Figuras de Linguagem",
       "palavras": [
-        "Prazo",
-        "Cota",
-        "Margem",
-        "Escala"
+        "Pleonasmo",
+        "Eufemismo",
+        "Ambiguidade",
+        "Cacofonia"
       ]
     },
     {
-      "tema": "PALAVRAS POLISSÊMICAS (múltiplos significados)",
+      "tema": "Componentes do Ouvido Interno",
       "palavras": [
-        "Cabo",
-        "Manga",
-        "Serra",
-        "Banco"
+        "Tímpano",
+        "Cóclea",
+        "Estribo",
+        "Bigorna"
       ]
     }
   ],
-  "data": "2026-02-13"
+  "data": "2026-02-14"
 }
