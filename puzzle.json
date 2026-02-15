@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Processos de Transformação da Matéria",
+      "tema": "Termos do Xadrez",
       "palavras": [
-        "Sublimar",
-        "Fermentar",
-        "Decantar",
-        "Catalisar"
+        "Peão",
+        "Rainha",
+        "Torre",
+        "Cavalo"
       ]
     },
     {
-      "tema": "Tipos de Movimento Mecânico",
+      "tema": "Componentes Elétricos para Iluminação",
       "palavras": [
-        "Rotacionar",
-        "Translacionar",
-        "Oscilar",
-        "Vibrar"
+        "Fio",
+        "Lâmpada",
+        "Soquete",
+        "Interruptor"
       ]
     },
     {
-      "tema": "Vícios e Figuras de Linguagem",
+      "tema": "Formações e Elementos Geológicos",
       "palavras": [
-        "Pleonasmo",
-        "Eufemismo",
-        "Ambiguidade",
-        "Cacofonia"
+        "Dobra",
+        "Falha",
+        "Mineral",
+        "Rocha"
       ]
     },
     {
-      "tema": "Componentes do Ouvido Interno",
+      "tema": "Aspectos da Música Clássica",
       "palavras": [
-        "Tímpano",
-        "Cóclea",
-        "Estribo",
-        "Bigorna"
+        "Maestro",
+        "Arco",
+        "Partitura",
+        "Solo"
       ]
     }
   ],
-  "data": "2026-02-14"
+  "data": "2026-02-15"
 }
