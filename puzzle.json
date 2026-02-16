@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos do Xadrez",
+      "tema": "Partes de Instrumentos de Corda",
       "palavras": [
-        "Peão",
-        "Rainha",
-        "Torre",
-        "Cavalo"
+        "BRAÇO",
+        "PESTANA",
+        "CORPO",
+        "CAVALETE"
       ]
     },
     {
-      "tema": "Componentes Elétricos para Iluminação",
+      "tema": "Peças do Jogo de Xadrez",
       "palavras": [
-        "Fio",
-        "Lâmpada",
-        "Soquete",
-        "Interruptor"
+        "REI",
+        "RAINHA",
+        "TORRE",
+        "PEÃO"
       ]
     },
     {
-      "tema": "Formações e Elementos Geológicos",
+      "tema": "Termos e Golpes de Luta",
       "palavras": [
-        "Dobra",
-        "Falha",
-        "Mineral",
-        "Rocha"
+        "GANCHO",
+        "DIRETO",
+        "QUEDA",
+        "CHAVE"
       ]
     },
     {
-      "tema": "Aspectos da Música Clássica",
+      "tema": "Alimentos em \"Doces de...\" Populares",
       "palavras": [
-        "Maestro",
-        "Arco",
-        "Partitura",
-        "Solo"
+        "LEITE",
+        "MAMÃO",
+        "ABÓBORA",
+        "BANANA"
       ]
     }
   ],
-  "data": "2026-02-15"
+  "data": "2026-02-16"
 }
