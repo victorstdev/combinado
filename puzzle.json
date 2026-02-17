@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de Instrumentos de Corda",
+      "tema": "Formações Geográficas Naturais",
       "palavras": [
-        "BRAÇO",
-        "PESTANA",
-        "CORPO",
-        "CAVALETE"
+        "Serra",
+        "Cabo",
+        "Pico",
+        "Mata"
       ]
     },
     {
-      "tema": "Peças do Jogo de Xadrez",
+      "tema": "Partes de Peças de Roupa",
       "palavras": [
-        "REI",
-        "RAINHA",
-        "TORRE",
-        "PEÃO"
+        "Manga",
+        "Botão",
+        "Barra",
+        "Linha"
       ]
     },
     {
-      "tema": "Termos e Golpes de Luta",
+      "tema": "Termos Relacionados a Finanças e Dívidas",
       "palavras": [
-        "GANCHO",
-        "DIRETO",
-        "QUEDA",
-        "CHAVE"
+        "Banco",
+        "Caixa",
+        "Leão",
+        "Cobra"
       ]
     },
     {
-      "tema": "Alimentos em \"Doces de...\" Populares",
+      "tema": "Palavras que Precedem o Verbo 'Dar' (sentido figurado)",
       "palavras": [
-        "LEITE",
-        "MAMÃO",
-        "ABÓBORA",
-        "BANANA"
+        "Pena",
+        "Mão",
+        "Bolo",
+        "Nó"
       ]
     }
   ],
-  "data": "2026-02-16"
+  "data": "2026-02-17"
 }
