@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Formações Geográficas Naturais",
+      "tema": "Cidades Brasileiras que são também substantivos comuns",
       "palavras": [
-        "Serra",
-        "Cabo",
-        "Pico",
-        "Mata"
+        "NATAL",
+        "VITÓRIA",
+        "FORTALEZA",
+        "SANTOS"
       ]
     },
     {
-      "tema": "Partes de Peças de Roupa",
+      "tema": "Animais com múltiplos significados (além do bicho)",
       "palavras": [
-        "Manga",
-        "Botão",
-        "Barra",
-        "Linha"
+        "GATO",
+        "MACACO",
+        "CAVALO",
+        "LEÃO"
       ]
     },
     {
-      "tema": "Termos Relacionados a Finanças e Dívidas",
+      "tema": "Termos relacionados a Café (com outros significados)",
       "palavras": [
-        "Banco",
-        "Caixa",
-        "Leão",
-        "Cobra"
+        "MOER",
+        "COAR",
+        "TORRAR",
+        "BORRA"
       ]
     },
     {
-      "tema": "Palavras que Precedem o Verbo 'Dar' (sentido figurado)",
+      "tema": "Partes do corpo com outros significados",
       "palavras": [
-        "Pena",
-        "Mão",
-        "Bolo",
-        "Nó"
+        "CABEÇA",
+        "PÉ",
+        "MÃO",
+        "OLHO"
       ]
     }
   ],
-  "data": "2026-02-17"
+  "data": "2026-02-18"
 }
