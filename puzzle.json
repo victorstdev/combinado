@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Cidades Brasileiras que são também substantivos comuns",
+      "tema": "Ações Relacionadas a Tramas e Tecidos",
       "palavras": [
-        "NATAL",
-        "VITÓRIA",
-        "FORTALEZA",
-        "SANTOS"
+        "Tecer",
+        "Bordar",
+        "Desfiar",
+        "Ponto"
       ]
     },
     {
-      "tema": "Animais com múltiplos significados (além do bicho)",
+      "tema": "Sons Sutis e Discretos",
       "palavras": [
-        "GATO",
-        "MACACO",
-        "CAVALO",
-        "LEÃO"
+        "Murmurar",
+        "Sussurrar",
+        "Folear",
+        "Rangido"
       ]
     },
     {
-      "tema": "Termos relacionados a Café (com outros significados)",
+      "tema": "Expressões Idiomáticas com 'Leite'",
       "palavras": [
-        "MOER",
-        "COAR",
-        "TORRAR",
-        "BORRA"
+        "Leite de pedra",
+        "Derramar o leite",
+        "Ao pé do leite",
+        "Dente de leite"
       ]
     },
     {
-      "tema": "Partes do corpo com outros significados",
+      "tema": "Itens Naturalmente Amarelos ou Dourados",
       "palavras": [
-        "CABEÇA",
-        "PÉ",
-        "MÃO",
-        "OLHO"
+        "Açafrão",
+        "Gema",
+        "Ouro",
+        "Manteiga"
       ]
     }
   ],
-  "data": "2026-02-18"
+  "data": "2026-02-19"
 }
