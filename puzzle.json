@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes Despedaçadas ou Separadas",
+      "tema": "Termos e Ações Culinárias",
       "palavras": [
-        "Caco",
-        "Estilhaço",
-        "Lasca",
-        "Fragmento"
+        "Saltear",
+        "Marinar",
+        "Escalope",
+        "Grelhar"
       ]
     },
     {
-      "tema": "Verbo \"Bater\" em Expressões Idiomáticas",
+      "tema": "Componentes de um Relógio Analógico",
       "palavras": [
-        "Recorde",
-        "Ponto",
-        "Palma",
-        "Carteira"
+        "Ponteiro",
+        "Coroa",
+        "Mostrador",
+        "Mecanismo"
       ]
     },
     {
-      "tema": "Instrumentos Essenciais à Navegação",
+      "tema": "Formações e Acidentes Geográficos",
       "palavras": [
-        "Bússola",
-        "Sestante",
-        "Astrolábio",
-        "Cronômetro"
+        "Afluente",
+        "Estuário",
+        "Planície",
+        "Platô"
       ]
     },
     {
-      "tema": "Adjetivos/Substantivos Comuns que Nomeiam Rios Brasileiros",
+      "tema": "Qualidades e Medidas Físicas do Som",
       "palavras": [
-        "Pardo",
-        "Verde",
-        "Doce",
-        "Claro"
+        "Ressonância",
+        "Timbre",
+        "Decibel",
+        "Frequência"
       ]
     }
   ],
-  "data": "2026-02-20"
+  "data": "2026-02-21"
 }
