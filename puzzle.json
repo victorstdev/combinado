@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos e Ações Culinárias",
+      "tema": "Unidades de Agrupamento",
       "palavras": [
-        "Saltear",
-        "Marinar",
-        "Escalope",
-        "Grelhar"
+        "Dúzia",
+        "Resma",
+        "Par",
+        "Centena"
       ]
     },
     {
-      "tema": "Componentes de um Relógio Analógico",
+      "tema": "Verbos de Observação Focada",
       "palavras": [
-        "Ponteiro",
-        "Coroa",
-        "Mostrador",
-        "Mecanismo"
+        "Fitava",
+        "Contemplava",
+        "Mirava",
+        "Espiava"
       ]
     },
     {
-      "tema": "Formações e Acidentes Geográficos",
+      "tema": "Elementos de Estrutura Narrativa",
       "palavras": [
-        "Afluente",
-        "Estuário",
-        "Planície",
-        "Platô"
+        "Enredo",
+        "Protagonista",
+        "Clímax",
+        "Desfecho"
       ]
     },
     {
-      "tema": "Qualidades e Medidas Físicas do Som",
+      "tema": "Situações de Problema ou Dificuldade",
       "palavras": [
-        "Ressonância",
-        "Timbre",
-        "Decibel",
-        "Frequência"
+        "Empecilho",
+        "Beco",
+        "Rascada",
+        "Sarilho"
       ]
     }
   ],
-  "data": "2026-02-21"
+  "data": "2026-02-22"
 }
