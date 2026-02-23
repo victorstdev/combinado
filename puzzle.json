@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Unidades de Agrupamento",
+      "tema": "Verbos e substantivos de mesma forma",
       "palavras": [
-        "Dúzia",
-        "Resma",
-        "Par",
-        "Centena"
+        "Canto",
+        "Corte",
+        "Estudo",
+        "Combate"
       ]
     },
     {
-      "tema": "Verbos de Observação Focada",
+      "tema": "Expressões populares com a palavra 'Pé'",
       "palavras": [
-        "Fitava",
-        "Contemplava",
-        "Mirava",
-        "Espiava"
+        "Pé de moleque",
+        "Pé de galinha",
+        "Pé de serra",
+        "Pé direito"
       ]
     },
     {
-      "tema": "Elementos de Estrutura Narrativa",
+      "tema": "Verbos de observação atenta ou intencional",
       "palavras": [
-        "Enredo",
-        "Protagonista",
-        "Clímax",
-        "Desfecho"
+        "Espiar",
+        "Contemplar",
+        "Fitar",
+        "Perscrutar"
       ]
     },
     {
-      "tema": "Situações de Problema ou Dificuldade",
+      "tema": "Frutas ou flores que dão nome a cores",
       "palavras": [
-        "Empecilho",
-        "Beco",
-        "Rascada",
-        "Sarilho"
+        "Laranja",
+        "Rosa",
+        "Lima",
+        "Cereja"
       ]
     }
   ],
-  "data": "2026-02-22"
+  "data": "2026-02-23"
 }
