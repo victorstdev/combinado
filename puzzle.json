@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Verbos e substantivos de mesma forma",
+      "tema": "Elementos do café",
       "palavras": [
-        "Canto",
-        "Corte",
-        "Estudo",
-        "Combate"
+        "BORRA",
+        "COADOR",
+        "PÓ",
+        "XÍCARA"
       ]
     },
     {
-      "tema": "Expressões populares com a palavra 'Pé'",
+      "tema": "Termos da cultura sertaneja",
       "palavras": [
-        "Pé de moleque",
-        "Pé de galinha",
-        "Pé de serra",
-        "Pé direito"
+        "MODÃO",
+        "VIOLA",
+        "BUTECO",
+        "CAIPIRA"
       ]
     },
     {
-      "tema": "Verbos de observação atenta ou intencional",
+      "tema": "Partes e componentes de um livro",
       "palavras": [
-        "Espiar",
-        "Contemplar",
-        "Fitar",
-        "Perscrutar"
+        "LOMBADA",
+        "ORELHA",
+        "PREFÁCIO",
+        "ENCADERNAÇÃO"
       ]
     },
     {
-      "tema": "Frutas ou flores que dão nome a cores",
+      "tema": "Coisas que se podem 'virar'",
       "palavras": [
-        "Laranja",
-        "Rosa",
-        "Lima",
-        "Cereja"
+        "MESA",
+        "PÁGINA",
+        "COPO",
+        "JOGO"
       ]
     }
   ],
-  "data": "2026-02-23"
+  "data": "2026-02-24"
 }
