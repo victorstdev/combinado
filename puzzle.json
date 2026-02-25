@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos do café",
+      "tema": "Metais Comuns",
       "palavras": [
-        "BORRA",
-        "COADOR",
-        "PÓ",
-        "XÍCARA"
+        "Chumbo",
+        "Cobre",
+        "Platina",
+        "Estanho"
       ]
     },
     {
-      "tema": "Termos da cultura sertaneja",
+      "tema": "Acidentes Geográficos Naturais",
       "palavras": [
-        "MODÃO",
-        "VIOLA",
-        "BUTECO",
-        "CAIPIRA"
+        "Duna",
+        "Atol",
+        "Fiorde",
+        "Pampa"
       ]
     },
     {
-      "tema": "Partes e componentes de um livro",
+      "tema": "Termos Associados à Música",
       "palavras": [
-        "LOMBADA",
-        "ORELHA",
-        "PREFÁCIO",
-        "ENCADERNAÇÃO"
+        "Lira",
+        "Batuta",
+        "Pauta",
+        "Maestro"
       ]
     },
     {
-      "tema": "Coisas que se podem 'virar'",
+      "tema": "Cores com Múltiplos Significados",
       "palavras": [
-        "MESA",
-        "PÁGINA",
-        "COPO",
-        "JOGO"
+        "Verde",
+        "Rosa",
+        "Cinza",
+        "Preto"
       ]
     }
   ],
-  "data": "2026-02-24"
+  "data": "2026-02-25"
 }
