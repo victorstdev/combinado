@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Animais Cujas Nomenclaturas Têm Usos Figurados Populares",
+      "tema": "Termos de Jogos de Cartas",
       "palavras": [
-        "Cobra",
-        "Gato",
-        "Lobo",
-        "Sapo"
+        "Mão",
+        "Naipe",
+        "Vaza",
+        "Manilha"
       ]
     },
     {
-      "tema": "Porções ou Unidades Informais",
+      "tema": "Elementos da Notação Musical",
       "palavras": [
-        "Grão",
-        "Gomo",
-        "Molho",
-        "Talo"
+        "Clave",
+        "Pauta",
+        "Compasso",
+        "Semitom"
       ]
     },
     {
-      "tema": "Palavras Homônimas Com Sentidos Diversos (Verbo/Substantivo)",
+      "tema": "Formações Geográficas (Nomes Comuns)",
       "palavras": [
-        "Vaga",
-        "Pia",
-        "Barra",
-        "Canto"
+        "Serra",
+        "Cabo",
+        "Mata",
+        "Delta"
       ]
     },
     {
-      "tema": "Elementos Associados a Veículos ou Mecânica (com Outras Conotações)",
+      "tema": "Cortes de Carne Bovina",
       "palavras": [
-        "Eixo",
-        "Manga",
-        "Vela",
-        "Arranque"
+        "Filé",
+        "Paleta",
+        "Alcatra",
+        "Costela"
       ]
     }
   ],
-  "data": "2026-02-26"
+  "data": "2026-02-27"
 }
