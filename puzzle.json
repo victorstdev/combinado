@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Jogos de Cartas",
+      "tema": "Partes de Instrumentos Musicais (com outros sentidos)",
       "palavras": [
-        "Mão",
-        "Naipe",
-        "Vaza",
-        "Manilha"
+        "Cravo",
+        "Braço",
+        "Traste",
+        "Cavalete"
       ]
     },
     {
-      "tema": "Elementos da Notação Musical",
+      "tema": "Elementos que Podem Ser Rompidos ou Separados",
       "palavras": [
-        "Clave",
-        "Pauta",
-        "Compasso",
-        "Semitom"
-      ]
-    },
-    {
-      "tema": "Formações Geográficas (Nomes Comuns)",
-      "palavras": [
-        "Serra",
         "Cabo",
-        "Mata",
-        "Delta"
+        "Nó",
+        "Ramo",
+        "Veia"
       ]
     },
     {
-      "tema": "Cortes de Carne Bovina",
+      "tema": "Partes de Plantas com Significados Figurados",
       "palavras": [
-        "Filé",
-        "Paleta",
-        "Alcatra",
-        "Costela"
+        "Raiz",
+        "Broto",
+        "Gema",
+        "Seiva"
+      ]
+    },
+    {
+      "tema": "Fenômenos que se Propagam ou Respondem",
+      "palavras": [
+        "Corrente",
+        "Onda",
+        "Sopro",
+        "Eco"
       ]
     }
   ],
-  "data": "2026-02-27"
+  "data": "2026-02-28"
 }
