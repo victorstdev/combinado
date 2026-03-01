@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de Instrumentos Musicais (com outros sentidos)",
+      "tema": "Termos do Meio Judicial",
       "palavras": [
-        "Cravo",
-        "Braço",
-        "Traste",
-        "Cavalete"
+        "Recurso",
+        "Apelação",
+        "Júri",
+        "Fórum"
       ]
     },
     {
-      "tema": "Elementos que Podem Ser Rompidos ou Separados",
+      "tema": "Ações na Cozinha",
       "palavras": [
-        "Cabo",
-        "Nó",
-        "Ramo",
-        "Veia"
+        "Refogar",
+        "Empanar",
+        "Marinar",
+        "Brasear"
       ]
     },
     {
-      "tema": "Partes de Plantas com Significados Figurados",
+      "tema": "Partes de um Relógio Antigo",
       "palavras": [
-        "Raiz",
-        "Broto",
-        "Gema",
-        "Seiva"
+        "Corda",
+        "Mostrador",
+        "Ponteiro",
+        "Balanço"
       ]
     },
     {
-      "tema": "Fenômenos que se Propagam ou Respondem",
+      "tema": "Fundamentos da Construção Civil",
       "palavras": [
-        "Corrente",
-        "Onda",
-        "Sopro",
-        "Eco"
+        "Alicerce",
+        "Viga",
+        "Pilar",
+        "Fachada"
       ]
     }
   ],
-  "data": "2026-02-28"
+  "data": "2026-03-01"
 }
