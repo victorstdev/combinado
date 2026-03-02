@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos do Meio Judicial",
+      "tema": "Frutas",
       "palavras": [
-        "Recurso",
-        "Apelação",
-        "Júri",
-        "Fórum"
+        "Manga",
+        "Laranja",
+        "Caqui",
+        "Pera"
       ]
     },
     {
-      "tema": "Ações na Cozinha",
+      "tema": "Formas Verbais (3ª pessoa singular, presente do indicativo)",
       "palavras": [
-        "Refogar",
-        "Empanar",
-        "Marinar",
-        "Brasear"
+        "Cobra",
+        "Vara",
+        "Lima",
+        "Toca"
       ]
     },
     {
-      "tema": "Partes de um Relógio Antigo",
+      "tema": "Termos Geográficos ou Naturais",
       "palavras": [
-        "Corda",
-        "Mostrador",
-        "Ponteiro",
-        "Balanço"
+        "Serra",
+        "Barra",
+        "Boca",
+        "Mina"
       ]
     },
     {
-      "tema": "Fundamentos da Construção Civil",
+      "tema": "Elementos e Componentes",
       "palavras": [
-        "Alicerce",
-        "Viga",
-        "Pilar",
-        "Fachada"
+        "Pé",
+        "Prego",
+        "Pena",
+        "Canto"
       ]
     }
   ],
-  "data": "2026-03-01"
+  "data": "2026-03-02"
 }
