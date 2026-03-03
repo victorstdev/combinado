@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Frutas",
+      "tema": "CORTES E PREPAROS DE CARNE",
       "palavras": [
-        "Manga",
-        "Laranja",
-        "Caqui",
-        "Pera"
+        "Talho",
+        "Posta",
+        "Bife",
+        "Picado"
       ]
     },
     {
-      "tema": "Formas Verbais (3ª pessoa singular, presente do indicativo)",
+      "tema": "COISAS QUE \"ESTOURAM\" OU SE ROMPEM",
       "palavras": [
-        "Cobra",
-        "Vara",
-        "Lima",
-        "Toca"
+        "Pipoca",
+        "Champanhe",
+        "Bolha",
+        "Vulcão"
       ]
     },
     {
-      "tema": "Termos Geográficos ou Naturais",
+      "tema": "COMPONENTES DE PUBLICAÇÕES (com outros significados)",
       "palavras": [
-        "Serra",
-        "Barra",
-        "Boca",
-        "Mina"
-      ]
-    },
-    {
-      "tema": "Elementos e Componentes",
-      "palavras": [
-        "Pé",
-        "Prego",
-        "Pena",
+        "Capa",
+        "Índice",
+        "Volume",
         "Canto"
+      ]
+    },
+    {
+      "tema": "FORMAS OU PONTOS MAIS ALTOS/EXTREMOS",
+      "palavras": [
+        "Bico",
+        "Cume",
+        "Ângulo",
+        "Pico"
       ]
     }
   ],
-  "data": "2026-03-02"
+  "data": "2026-03-03"
 }
