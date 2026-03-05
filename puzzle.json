@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos do Mercado Financeiro",
+      "tema": "Expressões com \"Pé\" (ex: pé de moleque)",
       "palavras": [
-        "Ação",
-        "Fundo",
-        "Derivativo",
-        "Ativo"
+        "Galinha",
+        "Moleque",
+        "D'água",
+        "Direito"
       ]
     },
     {
-      "tema": "Partes de um Livro",
+      "tema": "Verbos que significam \"repreender\"",
       "palavras": [
-        "Capa",
-        "Orelha",
-        "Lombada",
-        "Sumário"
+        "Admoestar",
+        "Censurar",
+        "Recriminar",
+        "Argüir"
       ]
     },
     {
-      "tema": "Conceitos Gramaticais",
+      "tema": "Expressões com \"Cabeça de...\" (ex: cabeça de vento)",
       "palavras": [
-        "Flexão",
-        "Voz",
-        "Regência",
-        "Concordância"
+        "Vento",
+        "Alho",
+        "Nego",
+        "Bagre"
       ]
     },
     {
-      "tema": "Peças do Xadrez",
+      "tema": "Termos da pesca",
       "palavras": [
-        "Peão",
-        "Torre",
-        "Dama",
-        "Rei"
+        "Anzol",
+        "Isca",
+        "Linha",
+        "Arrasto"
       ]
     }
   ],
-  "data": "2026-03-04"
+  "data": "2026-03-05"
 }
