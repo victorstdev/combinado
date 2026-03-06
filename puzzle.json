@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Expressões com \"Pé\" (ex: pé de moleque)",
+      "tema": "ELEMENTOS DE ENGENHARIA CIVIL",
       "palavras": [
-        "Galinha",
-        "Moleque",
-        "D'água",
-        "Direito"
+        "Viga",
+        "Sapata",
+        "Pilar",
+        "Laje"
       ]
     },
     {
-      "tema": "Verbos que significam \"repreender\"",
+      "tema": "PRATOS TÍPICOS DE RUA DO BRASIL",
       "palavras": [
-        "Admoestar",
-        "Censurar",
-        "Recriminar",
-        "Argüir"
+        "Acarajé",
+        "Pastel",
+        "Coxinha",
+        "Pamonha"
       ]
     },
     {
-      "tema": "Expressões com \"Cabeça de...\" (ex: cabeça de vento)",
+      "tema": "PARTES DE UM RELÓGIO ANALÓGICO",
       "palavras": [
-        "Vento",
-        "Alho",
-        "Nego",
-        "Bagre"
+        "Ponteiro",
+        "Coroa",
+        "Mostrador",
+        "Caixa"
       ]
     },
     {
-      "tema": "Termos da pesca",
+      "tema": "CONCEITOS BÁSICOS DE TEORIA MUSICAL",
       "palavras": [
-        "Anzol",
-        "Isca",
-        "Linha",
-        "Arrasto"
+        "Clave",
+        "Pauta",
+        "Compasso",
+        "Escala"
       ]
     }
   ],
-  "data": "2026-03-05"
+  "data": "2026-03-06"
 }
