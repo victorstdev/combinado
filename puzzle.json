@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "ELEMENTOS DE ENGENHARIA CIVIL",
+      "tema": "Técnicas e Termos Culinários Específicos",
+      "palavras": [
+        "Mise",
+        "Deglaçar",
+        "Brunoise",
+        "Confitar"
+      ]
+    },
+    {
+      "tema": "Elementos Estruturais da Construção",
       "palavras": [
         "Viga",
-        "Sapata",
         "Pilar",
-        "Laje"
+        "Baldrame",
+        "Sapata"
       ]
     },
     {
-      "tema": "PRATOS TÍPICOS DE RUA DO BRASIL",
+      "tema": "Figuras de Linguagem",
       "palavras": [
-        "Acarajé",
-        "Pastel",
-        "Coxinha",
-        "Pamonha"
+        "Hipérbole",
+        "Sinestesia",
+        "Eufemismo",
+        "Anáfora"
       ]
     },
     {
-      "tema": "PARTES DE UM RELÓGIO ANALÓGICO",
+      "tema": "Tipos de Marca, Ponto ou Sinal Gráfico",
       "palavras": [
-        "Ponteiro",
-        "Coroa",
-        "Mostrador",
-        "Caixa"
-      ]
-    },
-    {
-      "tema": "CONCEITOS BÁSICOS DE TEORIA MUSICAL",
-      "palavras": [
-        "Clave",
-        "Pauta",
-        "Compasso",
-        "Escala"
+        "Retícula",
+        "Pináculo",
+        "Nódoa",
+        "Grifo"
       ]
     }
   ],
-  "data": "2026-03-06"
+  "data": "2026-03-07"
 }
