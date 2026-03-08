@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Técnicas e Termos Culinários Específicos",
+      "tema": "CONCEITOS DE COORDENADAS GEOGRÁFICAS",
       "palavras": [
-        "Mise",
-        "Deglaçar",
-        "Brunoise",
-        "Confitar"
+        "Meridiano",
+        "Paralelo",
+        "Latitude",
+        "Trópico"
       ]
     },
     {
-      "tema": "Elementos Estruturais da Construção",
+      "tema": "CORPOS CELESTES (NÃO PLANETAS)",
       "palavras": [
-        "Viga",
-        "Pilar",
-        "Baldrame",
-        "Sapata"
+        "Cometa",
+        "Asteroide",
+        "Nebulosa",
+        "Galáxia"
       ]
     },
     {
-      "tema": "Figuras de Linguagem",
+      "tema": "OBJETOS QUE GIRAM OU RODAM",
       "palavras": [
-        "Hipérbole",
-        "Sinestesia",
-        "Eufemismo",
-        "Anáfora"
+        "Catraca",
+        "Roda",
+        "Peão",
+        "Cata-vento"
       ]
     },
     {
-      "tema": "Tipos de Marca, Ponto ou Sinal Gráfico",
+      "tema": "TERMOS RELACIONADOS A ENGANO, ERRO OU FALSIDADE",
       "palavras": [
-        "Retícula",
-        "Pináculo",
-        "Nódoa",
-        "Grifo"
+        "Ilusão",
+        "Falácia",
+        "Equívoco",
+        "Dolo"
       ]
     }
   ],
-  "data": "2026-03-07"
+  "data": "2026-03-08"
 }
