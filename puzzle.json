@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "CONCEITOS DE COORDENADAS GEOGRÁFICAS",
+      "tema": "COMPLEXIDADES DA VIDA (Gírias)",
       "palavras": [
-        "Meridiano",
-        "Paralelo",
-        "Latitude",
-        "Trópico"
+        "MICO",
+        "BUCHA",
+        "BARRA",
+        "ABACAXI"
       ]
     },
     {
-      "tema": "CORPOS CELESTES (NÃO PLANETAS)",
+      "tema": "PARTES DE EMBARCAÇÃO",
       "palavras": [
-        "Cometa",
-        "Asteroide",
-        "Nebulosa",
-        "Galáxia"
+        "PROA",
+        "POPA",
+        "MASTRO",
+        "CASCO"
       ]
     },
     {
-      "tema": "OBJETOS QUE GIRAM OU RODAM",
+      "tema": "PEÇAS COM MOVIMENTO GIRATÓRIO",
       "palavras": [
-        "Catraca",
-        "Roda",
-        "Peão",
-        "Cata-vento"
+        "EIXO",
+        "ROTOR",
+        "POLIA",
+        "VOLANTE"
       ]
     },
     {
-      "tema": "TERMOS RELACIONADOS A ENGANO, ERRO OU FALSIDADE",
+      "tema": "PALAVRAS QUE SÃO VERBO E SUBSTANTIVO",
       "palavras": [
-        "Ilusão",
-        "Falácia",
-        "Equívoco",
-        "Dolo"
+        "PULO",
+        "COLA",
+        "SAQUE",
+        "MANGA"
       ]
     }
   ],
-  "data": "2026-03-08"
+  "data": "2026-03-09"
 }
