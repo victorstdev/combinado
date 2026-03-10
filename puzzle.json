@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "COMPLEXIDADES DA VIDA (Gírias)",
+      "tema": "INSTRUMENTOS DE SOPRO DE METAL",
       "palavras": [
-        "MICO",
-        "BUCHA",
-        "BARRA",
-        "ABACAXI"
+        "Trompa",
+        "Trombone",
+        "Trompete",
+        "Tuba"
       ]
     },
     {
-      "tema": "PARTES DE EMBARCAÇÃO",
+      "tema": "FIGURAS DE LINGUAGEM",
       "palavras": [
-        "PROA",
-        "POPA",
-        "MASTRO",
-        "CASCO"
+        "Ironia",
+        "Hipérbole",
+        "Metáfora",
+        "Eufemismo"
       ]
     },
     {
-      "tema": "PEÇAS COM MOVIMENTO GIRATÓRIO",
+      "tema": "UNIDADES DE MEDIDA NÃO-MÉTRICAS",
       "palavras": [
-        "EIXO",
-        "ROTOR",
-        "POLIA",
-        "VOLANTE"
+        "Braça",
+        "Légua",
+        "Palmo",
+        "Jarda"
       ]
     },
     {
-      "tema": "PALAVRAS QUE SÃO VERBO E SUBSTANTIVO",
+      "tema": "EXPRESSÕES COM A PALAVRA \"PÉ\"",
       "palavras": [
-        "PULO",
-        "COLA",
-        "SAQUE",
-        "MANGA"
+        "Pé-de-moleque",
+        "Pé-d'água",
+        "Pé-de-cabra",
+        "Pé-direito"
       ]
     }
   ],
-  "data": "2026-03-09"
+  "data": "2026-03-10"
 }
