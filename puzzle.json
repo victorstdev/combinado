@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "INSTRUMENTOS DE SOPRO DE METAL",
+      "tema": "Instrumentos de Percussão Brasileiros",
       "palavras": [
-        "Trompa",
-        "Trombone",
-        "Trompete",
-        "Tuba"
+        "Caixa",
+        "Caxixi",
+        "Ganzá",
+        "Agogô"
       ]
     },
     {
-      "tema": "FIGURAS DE LINGUAGEM",
+      "tema": "Formações Geológicas Irregulares",
       "palavras": [
-        "Ironia",
-        "Hipérbole",
-        "Metáfora",
-        "Eufemismo"
+        "Duna",
+        "Ravina",
+        "Gruta",
+        "Despenhadeiro"
       ]
     },
     {
-      "tema": "UNIDADES DE MEDIDA NÃO-MÉTRICAS",
+      "tema": "Termos de Jogos de Cartas",
       "palavras": [
-        "Braça",
-        "Légua",
-        "Palmo",
-        "Jarda"
+        "Trunfo",
+        "Naipe",
+        "Blefe",
+        "Manilha"
       ]
     },
     {
-      "tema": "EXPRESSÕES COM A PALAVRA \"PÉ\"",
+      "tema": "Elementos e Processos da Tecelagem",
       "palavras": [
-        "Pé-de-moleque",
-        "Pé-d'água",
-        "Pé-de-cabra",
-        "Pé-direito"
+        "Fio",
+        "Tecer",
+        "Urdume",
+        "Trama"
       ]
     }
   ],
-  "data": "2026-03-10"
+  "data": "2026-03-11"
 }
