@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Instrumentos de Percussão Brasileiros",
+      "tema": "Componentes de Instrumentos de Corda (Musicais)",
       "palavras": [
-        "Caixa",
-        "Caxixi",
-        "Ganzá",
-        "Agogô"
+        "Braço",
+        "Corpo",
+        "Trastes",
+        "Pestana"
       ]
     },
     {
-      "tema": "Formações Geológicas Irregulares",
+      "tema": "Adjetivos de Sabor com Aplicação Figurativa",
       "palavras": [
-        "Duna",
-        "Ravina",
-        "Gruta",
-        "Despenhadeiro"
+        "Ácido",
+        "Amargo",
+        "Salgado",
+        "Picante"
       ]
     },
     {
-      "tema": "Termos de Jogos de Cartas",
+      "tema": "Elementos de Instrumentos de Escrita",
       "palavras": [
-        "Trunfo",
-        "Naipe",
-        "Blefe",
-        "Manilha"
+        "Ponta",
+        "Tinta",
+        "Mina",
+        "Pena"
       ]
     },
     {
-      "tema": "Elementos e Processos da Tecelagem",
+      "tema": "Termos Náuticos Usados em Sentido Abstrato/Figurado",
       "palavras": [
-        "Fio",
-        "Tecer",
-        "Urdume",
-        "Trama"
+        "Bordo",
+        "Porto",
+        "Ancorar",
+        "Rumo"
       ]
     }
   ],
-  "data": "2026-03-11"
+  "data": "2026-03-12"
 }
