@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes de Instrumentos de Corda (Musicais)",
+      "tema": "PALAVRAS QUE SÃO SUBSTANTIVO E VERBO (OU SUAS FORMAS)",
       "palavras": [
-        "Braço",
-        "Corpo",
-        "Trastes",
-        "Pestana"
+        "Cobra",
+        "Serra",
+        "Vela",
+        "Ponto"
       ]
     },
     {
-      "tema": "Adjetivos de Sabor com Aplicação Figurativa",
+      "tema": "ITENS QUE SERVEM COMO INSTRUMENTOS OU FERRAMENTAS (E OUTRAS COISAS)",
       "palavras": [
-        "Ácido",
-        "Amargo",
-        "Salgado",
-        "Picante"
+        "Chave",
+        "Pena",
+        "Lima",
+        "Nota"
       ]
     },
     {
-      "tema": "Elementos de Instrumentos de Escrita",
+      "tema": "OBJETOS OU CONCEITOS COM FORMAS GEOMÉTRICAS (E OUTROS SIGNIFICADOS)",
       "palavras": [
-        "Ponta",
-        "Tinta",
-        "Mina",
-        "Pena"
+        "Caixa",
+        "Barra",
+        "Linha",
+        "Planta"
       ]
     },
     {
-      "tema": "Termos Náuticos Usados em Sentido Abstrato/Figurado",
+      "tema": "HOMÔNIMOS E POLISSEMIA DIVERSA",
       "palavras": [
-        "Bordo",
-        "Porto",
-        "Ancorar",
-        "Rumo"
+        "Manga",
+        "Laranja",
+        "Palma",
+        "Banco"
       ]
     }
   ],
-  "data": "2026-03-12"
+  "data": "2026-03-13"
 }
