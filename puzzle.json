@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PALAVRAS QUE SÃO SUBSTANTIVO E VERBO (OU SUAS FORMAS)",
-      "palavras": [
-        "Cobra",
-        "Serra",
-        "Vela",
-        "Ponto"
-      ]
-    },
-    {
-      "tema": "ITENS QUE SERVEM COMO INSTRUMENTOS OU FERRAMENTAS (E OUTRAS COISAS)",
-      "palavras": [
-        "Chave",
-        "Pena",
-        "Lima",
-        "Nota"
-      ]
-    },
-    {
-      "tema": "OBJETOS OU CONCEITOS COM FORMAS GEOMÉTRICAS (E OUTROS SIGNIFICADOS)",
-      "palavras": [
-        "Caixa",
-        "Barra",
-        "Linha",
-        "Planta"
-      ]
-    },
-    {
-      "tema": "HOMÔNIMOS E POLISSEMIA DIVERSA",
+      "tema": "Componentes de Vestuário com Homônimos",
       "palavras": [
         "Manga",
-        "Laranja",
-        "Palma",
-        "Banco"
+        "Gola",
+        "Pala",
+        "Punho"
+      ]
+    },
+    {
+      "tema": "Coisas que 'Dão' ou 'Geram' (Produzem/Causam)",
+      "palavras": [
+        "Árvore",
+        "Terra",
+        "Mão",
+        "Azar"
+      ]
+    },
+    {
+      "tema": "Elementos de Estrutura ou Enredo (Concreto e Abstrato)",
+      "palavras": [
+        "Armação",
+        "Esqueleto",
+        "Trama",
+        "Fio"
+      ]
+    },
+    {
+      "tema": "Conceitos de Transição ou Ponto de Referência",
+      "palavras": [
+        "Porta",
+        "Limiar",
+        "Marco",
+        "Ponte"
       ]
     }
   ],
-  "data": "2026-03-13"
+  "data": "2026-03-14"
 }
