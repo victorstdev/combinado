@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes de Vestuário com Homônimos",
+      "tema": "Coisas que se Quebram no Sentido Figurado",
       "palavras": [
-        "Manga",
-        "Gola",
-        "Pala",
-        "Punho"
+        "Silêncio",
+        "Paradigma",
+        "Encanto",
+        "Promessa"
       ]
     },
     {
-      "tema": "Coisas que 'Dão' ou 'Geram' (Produzem/Causam)",
+      "tema": "Termos que Precedem 'Água'",
       "palavras": [
-        "Árvore",
-        "Terra",
-        "Mão",
-        "Azar"
+        "Doce",
+        "Tônica",
+        "Benta",
+        "Viva"
       ]
     },
     {
-      "tema": "Elementos de Estrutura ou Enredo (Concreto e Abstrato)",
+      "tema": "Componentes do Jogo de Sinuca",
       "palavras": [
-        "Armação",
-        "Esqueleto",
-        "Trama",
-        "Fio"
+        "Caçapa",
+        "Taco",
+        "Bola",
+        "Efeito"
       ]
     },
     {
-      "tema": "Conceitos de Transição ou Ponto de Referência",
+      "tema": "Algo que Pode 'Passar'",
       "palavras": [
-        "Porta",
-        "Limiar",
-        "Marco",
-        "Ponte"
+        "Moda",
+        "Tempo",
+        "Febre",
+        "Vergonha"
       ]
     }
   ],
-  "data": "2026-03-14"
+  "data": "2026-03-15"
 }
