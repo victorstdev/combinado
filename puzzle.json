@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Coisas que se Quebram no Sentido Figurado",
+      "tema": "ELEMENTOS QUÍMICOS (NOMES DE CORPOS CELESTES)",
       "palavras": [
-        "Silêncio",
-        "Paradigma",
-        "Encanto",
-        "Promessa"
+        "URÂNIO",
+        "NETÚNIO",
+        "PLUTÔNIO",
+        "CÉRIO"
       ]
     },
     {
-      "tema": "Termos que Precedem 'Água'",
+      "tema": "TERMOS DE FUNDAÇÃO E ESTRUTURA NA CONSTRUÇÃO CIVIL",
       "palavras": [
-        "Doce",
-        "Tônica",
-        "Benta",
-        "Viva"
+        "VIGA",
+        "SAPATA",
+        "BALDRAME",
+        "PILAR"
       ]
     },
     {
-      "tema": "Componentes do Jogo de Sinuca",
+      "tema": "COMPONENTES DE UM SISTEMA BLOCKCHAIN",
       "palavras": [
-        "Caçapa",
-        "Taco",
-        "Bola",
-        "Efeito"
+        "NÓ",
+        "BLOCO",
+        "CARTEIRA",
+        "MINERAÇÃO"
       ]
     },
     {
-      "tema": "Algo que Pode 'Passar'",
+      "tema": "EXPRESSÕES IDIOMÁTICAS OU TÉCNICAS COM A PALAVRA \"MÃO\"",
       "palavras": [
-        "Moda",
-        "Tempo",
-        "Febre",
-        "Vergonha"
+        "MÃO-FRANCESA",
+        "MÃO-DE-VACA",
+        "MÃO-ABERTA",
+        "MÃO-INGLESA"
       ]
     }
   ],
-  "data": "2026-03-15"
+  "data": "2026-03-16"
 }
