@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "ELEMENTOS QUÍMICOS (NOMES DE CORPOS CELESTES)",
+      "tema": "Termos de Jogos de Cartas",
       "palavras": [
-        "URÂNIO",
-        "NETÚNIO",
-        "PLUTÔNIO",
-        "CÉRIO"
+        "Blefe",
+        "Truque",
+        "Rodada",
+        "Manilha"
       ]
     },
     {
-      "tema": "TERMOS DE FUNDAÇÃO E ESTRUTURA NA CONSTRUÇÃO CIVIL",
+      "tema": "Tipos de Vento ou Correntes de Ar",
       "palavras": [
-        "VIGA",
-        "SAPATA",
-        "BALDRAME",
-        "PILAR"
+        "Brisa",
+        "Vendaval",
+        "Rajada",
+        "Ciclone"
       ]
     },
     {
-      "tema": "COMPONENTES DE UM SISTEMA BLOCKCHAIN",
+      "tema": "Divisões ou Partes de um Conjunto",
       "palavras": [
-        "NÓ",
-        "BLOCO",
-        "CARTEIRA",
-        "MINERAÇÃO"
+        "Gomo",
+        "Treliça",
+        "Módulo",
+        "Segmento"
       ]
     },
     {
-      "tema": "EXPRESSÕES IDIOMÁTICAS OU TÉCNICAS COM A PALAVRA \"MÃO\"",
+      "tema": "Conceitos Relacionados ao Tempo",
       "palavras": [
-        "MÃO-FRANCESA",
-        "MÃO-DE-VACA",
-        "MÃO-ABERTA",
-        "MÃO-INGLESA"
+        "Eternidade",
+        "Efêmero",
+        "Precedente",
+        "Lapso"
       ]
     }
   ],
-  "data": "2026-03-16"
+  "data": "2026-03-17"
 }
