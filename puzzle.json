@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Jogos de Cartas",
+      "tema": "Períodos ou Conceitos de Tempo",
       "palavras": [
-        "Blefe",
-        "Truque",
-        "Rodada",
-        "Manilha"
+        "DURAÇÃO",
+        "MOMENTO",
+        "ÉPOCA",
+        "PLANTÃO"
       ]
     },
     {
-      "tema": "Tipos de Vento ou Correntes de Ar",
+      "tema": "Termos de Baralho (com Duplo Sentido)",
       "palavras": [
-        "Brisa",
-        "Vendaval",
-        "Rajada",
-        "Ciclone"
+        "MANILHA",
+        "CORINGA",
+        "BARALHO",
+        "NAIPE"
       ]
     },
     {
-      "tema": "Divisões ou Partes de um Conjunto",
+      "tema": "Coisas que Podem Ser Cortadas",
       "palavras": [
-        "Gomo",
-        "Treliça",
-        "Módulo",
-        "Segmento"
+        "FIO",
+        "SAQUE",
+        "LENHA",
+        "VERBA"
       ]
     },
     {
-      "tema": "Conceitos Relacionados ao Tempo",
+      "tema": "Termos Musicais (com Duplo Sentido)",
       "palavras": [
-        "Eternidade",
-        "Efêmero",
-        "Precedente",
-        "Lapso"
+        "PAUTA",
+        "TOM",
+        "ACORDE",
+        "ESCALA"
       ]
     }
   ],
-  "data": "2026-03-17"
+  "data": "2026-03-18"
 }
