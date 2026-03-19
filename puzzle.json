@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Períodos ou Conceitos de Tempo",
+      "tema": "ANATOMIA ANIMAL ESPECÍFICA",
       "palavras": [
-        "DURAÇÃO",
-        "MOMENTO",
-        "ÉPOCA",
-        "PLANTÃO"
+        "GUELRA",
+        "CRINA",
+        "BARBATANA",
+        "GALHADA"
       ]
     },
     {
-      "tema": "Termos de Baralho (com Duplo Sentido)",
+      "tema": "PUBLICAÇÕES E REGISTROS DOCUMENTAIS",
       "palavras": [
-        "MANILHA",
-        "CORINGA",
-        "BARALHO",
-        "NAIPE"
+        "ALMANAQUE",
+        "EFEMÉRIDE",
+        "ANUÁRIO",
+        "HEMEROTECA"
       ]
     },
     {
-      "tema": "Coisas que Podem Ser Cortadas",
+      "tema": "ELEMENTOS CELESTES E ESPACIAIS",
       "palavras": [
-        "FIO",
-        "SAQUE",
-        "LENHA",
-        "VERBA"
+        "ÓRBITA",
+        "COMETA",
+        "SATÉLITE",
+        "METEORO"
       ]
     },
     {
-      "tema": "Termos Musicais (com Duplo Sentido)",
+      "tema": "PALAVRAS COM MÚLTIPLOS SIGNIFICADOS",
       "palavras": [
-        "PAUTA",
-        "TOM",
-        "ACORDE",
-        "ESCALA"
+        "MANGA",
+        "COCO",
+        "LIMA",
+        "MINA"
       ]
     }
   ],
-  "data": "2026-03-18"
+  "data": "2026-03-19"
 }
