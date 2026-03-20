@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "ANATOMIA ANIMAL ESPECÍFICA",
+      "tema": "Termos de Baralho e Estratégia",
       "palavras": [
-        "GUELRA",
-        "CRINA",
-        "BARBATANA",
-        "GALHADA"
+        "Valete",
+        "Blefe",
+        "Naipe",
+        "Trunfo"
       ]
     },
     {
-      "tema": "PUBLICAÇÕES E REGISTROS DOCUMENTAIS",
+      "tema": "Formas e Gêneros Literários",
       "palavras": [
-        "ALMANAQUE",
-        "EFEMÉRIDE",
-        "ANUÁRIO",
-        "HEMEROTECA"
+        "Soneto",
+        "Epopeia",
+        "Alegoria",
+        "Fábula"
       ]
     },
     {
-      "tema": "ELEMENTOS CELESTES E ESPACIAIS",
+      "tema": "Características do Relevo Terrestre",
       "palavras": [
-        "ÓRBITA",
-        "COMETA",
-        "SATÉLITE",
-        "METEORO"
+        "Duna",
+        "Vertente",
+        "Planalto",
+        "Cume"
       ]
     },
     {
-      "tema": "PALAVRAS COM MÚLTIPLOS SIGNIFICADOS",
+      "tema": "Qualidades e Fenômenos Acústicos",
       "palavras": [
-        "MANGA",
-        "COCO",
-        "LIMA",
-        "MINA"
+        "Timbre",
+        "Eco",
+        "Ressonância",
+        "Volume"
       ]
     }
   ],
-  "data": "2026-03-19"
+  "data": "2026-03-20"
 }
