@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Baralho e Estratégia",
+      "tema": "Figuras de Linguagem",
       "palavras": [
-        "Valete",
-        "Blefe",
-        "Naipe",
-        "Trunfo"
+        "Eufemismo",
+        "Hipérbole",
+        "Metonímia",
+        "Onomatopeia"
       ]
     },
     {
-      "tema": "Formas e Gêneros Literários",
+      "tema": "Partes da Cabeça ou Pescoço de Animais",
       "palavras": [
-        "Soneto",
-        "Epopeia",
-        "Alegoria",
-        "Fábula"
+        "Chifre",
+        "Focinho",
+        "Barbela",
+        "Crina"
       ]
     },
     {
-      "tema": "Características do Relevo Terrestre",
+      "tema": "Verbos de Movimento Aéreo ou Suspensão",
       "palavras": [
-        "Duna",
-        "Vertente",
-        "Planalto",
-        "Cume"
+        "Planar",
+        "Flutuar",
+        "Pairar",
+        "Alçar"
       ]
     },
     {
-      "tema": "Qualidades e Fenômenos Acústicos",
+      "tema": "Termos de Costura e Tecelagem",
       "palavras": [
-        "Timbre",
-        "Eco",
-        "Ressonância",
-        "Volume"
+        "Urdume",
+        "Trama",
+        "Bainha",
+        "Ponto"
       ]
     }
   ],
-  "data": "2026-03-20"
+  "data": "2026-03-21"
 }
