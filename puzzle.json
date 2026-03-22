@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Figuras de Linguagem",
+      "tema": "QUALIDADES DE MASSAS CULINÁRIAS",
       "palavras": [
-        "Eufemismo",
-        "Hipérbole",
-        "Metonímia",
-        "Onomatopeia"
+        "Folhada",
+        "Podre",
+        "Levedada",
+        "Quebradiça"
       ]
     },
     {
-      "tema": "Partes da Cabeça ou Pescoço de Animais",
+      "tema": "VERBOS DE DESLOCAMENTO OU MOVIMENTO",
       "palavras": [
-        "Chifre",
-        "Focinho",
-        "Barbela",
-        "Crina"
+        "Navegar",
+        "Rodar",
+        "Pousar",
+        "Flutuar"
       ]
     },
     {
-      "tema": "Verbos de Movimento Aéreo ou Suspensão",
+      "tema": "VERBOS DE QUANTIFICAÇÃO OU AVALIAÇÃO",
       "palavras": [
-        "Planar",
-        "Flutuar",
-        "Pairar",
-        "Alçar"
+        "Cortar",
+        "Pesar",
+        "Contar",
+        "Estimar"
       ]
     },
     {
-      "tema": "Termos de Costura e Tecelagem",
+      "tema": "TERMOS DE MOEDAS OU VALORES MONETÁRIOS (ANTIGOS/GÍRIAS)",
       "palavras": [
-        "Urdume",
-        "Trama",
-        "Bainha",
-        "Ponto"
+        "Cruzeiro",
+        "Conto",
+        "Grana",
+        "Vintém"
       ]
     }
   ],
-  "data": "2026-03-21"
+  "data": "2026-03-22"
 }
