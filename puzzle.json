@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Materiais e Ferramentas de Artista Plástico",
+      "tema": "Aeronaves ou Artefatos Voadores",
       "palavras": [
-        "Paleta",
-        "Pincel",
-        "Cavalete",
-        "Tela"
+        "DIRIGÍVEL",
+        "PARAPENTE",
+        "PIPA",
+        "BALÃO"
       ]
     },
     {
-      "tema": "Metais com Nomes Homônimos",
+      "tema": "Períodos de Tempo Específicos",
       "palavras": [
-        "Prata",
-        "Cobre",
-        "Ferro",
-        "Chumbo"
+        "DECÊNIO",
+        "QUINZENA",
+        "BIÊNIO",
+        "LUSTRO"
       ]
     },
     {
-      "tema": "Gêneros Musicais de Raiz Brasileira",
+      "tema": "Tipos de Tecido",
       "palavras": [
-        "Choro",
-        "Baião",
-        "Frevo",
-        "Maxixe"
+        "CREPE",
+        "CETIM",
+        "BROCADO",
+        "SARJA"
       ]
     },
     {
-      "tema": "Partes de Vegetais com Uso Figurado ou Outras Conotações",
+      "tema": "Termos da Botânica",
       "palavras": [
-        "Raiz",
-        "Tronco",
-        "Galho",
-        "Folha"
+        "RIZOMA",
+        "ESTÍPULA",
+        "PÓLEN",
+        "SÉPALAS"
       ]
     }
   ],
-  "data": "2026-03-26"
+  "data": "2026-03-27"
 }
