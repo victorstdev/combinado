@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Aeronaves ou Artefatos Voadores",
+      "tema": "LINHAS IMAGINÁRIAS E CURVAS DE NÍVEL",
       "palavras": [
-        "DIRIGÍVEL",
-        "PARAPENTE",
-        "PIPA",
-        "BALÃO"
+        "Isóbaras",
+        "Isoípsas",
+        "Equador",
+        "Trópico"
       ]
     },
     {
-      "tema": "Períodos de Tempo Específicos",
+      "tema": "ELEMENTOS DO TRAJE FORMAL MASCULINO",
       "palavras": [
-        "DECÊNIO",
-        "QUINZENA",
-        "BIÊNIO",
-        "LUSTRO"
+        "Lapela",
+        "Colete",
+        "Punho",
+        "Barra"
       ]
     },
     {
-      "tema": "Tipos de Tecido",
+      "tema": "RECURSOS ESTILÍSTICOS DA RETÓRICA",
       "palavras": [
-        "CREPE",
-        "CETIM",
-        "BROCADO",
-        "SARJA"
+        "Metáfora",
+        "Sinédoque",
+        "Hipérbole",
+        "Ironia"
       ]
     },
     {
-      "tema": "Termos da Botânica",
+      "tema": "AÇÕES TÍPICAS DE AVES",
       "palavras": [
-        "RIZOMA",
-        "ESTÍPULA",
-        "PÓLEN",
-        "SÉPALAS"
+        "Grasnar",
+        "Gorjear",
+        "Bicar",
+        "Chocar"
       ]
     }
   ],
-  "data": "2026-03-27"
+  "data": "2026-03-28"
 }
