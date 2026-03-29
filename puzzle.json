@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "LINHAS IMAGINÁRIAS E CURVAS DE NÍVEL",
+      "tema": "Métodos de Cocção (Culinária)",
       "palavras": [
-        "Isóbaras",
-        "Isoípsas",
-        "Equador",
-        "Trópico"
+        "Saltear",
+        "Refogar",
+        "Brasear",
+        "Marinar"
       ]
     },
     {
-      "tema": "ELEMENTOS DO TRAJE FORMAL MASCULINO",
+      "tema": "Peças de Vestuário Formal Masculino",
       "palavras": [
-        "Lapela",
+        "Casaca",
+        "Fraque",
         "Colete",
-        "Punho",
-        "Barra"
+        "Cartola"
       ]
     },
     {
-      "tema": "RECURSOS ESTILÍSTICOS DA RETÓRICA",
+      "tema": "Sinais de Pontuação",
       "palavras": [
-        "Metáfora",
-        "Sinédoque",
-        "Hipérbole",
-        "Ironia"
+        "Ponto",
+        "Vírgula",
+        "Travessão",
+        "Aspas"
       ]
     },
     {
-      "tema": "AÇÕES TÍPICAS DE AVES",
+      "tema": "Elementos Estruturais da Arquitetura",
       "palavras": [
-        "Grasnar",
-        "Gorjear",
-        "Bicar",
-        "Chocar"
+        "Alicerce",
+        "Viga",
+        "Pilar",
+        "Arco"
       ]
     }
   ],
-  "data": "2026-03-28"
+  "data": "2026-03-29"
 }
