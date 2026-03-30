@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Métodos de Cocção (Culinária)",
+      "tema": "Componentes da Flor",
       "palavras": [
-        "Saltear",
-        "Refogar",
-        "Brasear",
-        "Marinar"
+        "Cálice",
+        "Estame",
+        "Estigma",
+        "Óvulo"
       ]
     },
     {
-      "tema": "Peças de Vestuário Formal Masculino",
+      "tema": "Peças do Xadrez",
       "palavras": [
-        "Casaca",
-        "Fraque",
-        "Colete",
-        "Cartola"
+        "Torre",
+        "Peão",
+        "Bispo",
+        "Rainha"
       ]
     },
     {
-      "tema": "Sinais de Pontuação",
+      "tema": "Unidades de Massa Históricas",
       "palavras": [
-        "Ponto",
-        "Vírgula",
-        "Travessão",
-        "Aspas"
+        "Arrátel",
+        "Onça",
+        "Libra",
+        "Quilate"
       ]
     },
     {
-      "tema": "Elementos Estruturais da Arquitetura",
+      "tema": "Verbos Sinônimos de Enganar",
       "palavras": [
-        "Alicerce",
-        "Viga",
-        "Pilar",
-        "Arco"
+        "Mistificar",
+        "Lograr",
+        "Ludibriar",
+        "Tapear"
       ]
     }
   ],
-  "data": "2026-03-29"
+  "data": "2026-03-30"
 }
