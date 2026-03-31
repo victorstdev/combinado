@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes da Flor",
+      "tema": "Entidades do Folclore Brasileiro",
       "palavras": [
-        "Cálice",
-        "Estame",
-        "Estigma",
-        "Óvulo"
+        "Saci",
+        "Iara",
+        "Curupira",
+        "Boto"
       ]
     },
     {
-      "tema": "Peças do Xadrez",
+      "tema": "Tipos de Massa Culinária",
       "palavras": [
-        "Torre",
-        "Peão",
-        "Bispo",
-        "Rainha"
+        "Brioche",
+        "Choux",
+        "Filo",
+        "Folhada"
       ]
     },
     {
-      "tema": "Unidades de Massa Históricas",
+      "tema": "Unidades de Medida Antigas",
       "palavras": [
+        "Alqueire",
+        "Légua",
         "Arrátel",
-        "Onça",
-        "Libra",
-        "Quilate"
+        "Braça"
       ]
     },
     {
-      "tema": "Verbos Sinônimos de Enganar",
+      "tema": "Partes do Corpo que Também Nomeiam Objetos",
       "palavras": [
-        "Mistificar",
-        "Lograr",
-        "Ludibriar",
-        "Tapear"
+        "Punho",
+        "Gomo",
+        "Costa",
+        "Olho"
       ]
     }
   ],
-  "data": "2026-03-30"
+  "data": "2026-03-31"
 }
