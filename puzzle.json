@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Entidades do Folclore Brasileiro",
+      "tema": "Objetos de Sorte e Destino",
       "palavras": [
-        "Saci",
-        "Iara",
-        "Curupira",
-        "Boto"
+        "Dado",
+        "Moeda",
+        "Búzios",
+        "Estrela"
       ]
     },
     {
-      "tema": "Tipos de Massa Culinária",
+      "tema": "\"Ponto\" em diferentes contextos",
       "palavras": [
-        "Brioche",
-        "Choux",
-        "Filo",
-        "Folhada"
+        "Costura",
+        "Vista",
+        "Ônibus",
+        "Gatilho"
       ]
     },
     {
-      "tema": "Unidades de Medida Antigas",
+      "tema": "Elementos de Estrutura e Base",
       "palavras": [
-        "Alqueire",
-        "Légua",
-        "Arrátel",
-        "Braça"
+        "Coluna",
+        "Viga",
+        "Base",
+        "Fundação"
       ]
     },
     {
-      "tema": "Partes do Corpo que Também Nomeiam Objetos",
+      "tema": "Associados à Noite",
       "palavras": [
-        "Punho",
-        "Gomo",
-        "Costa",
-        "Olho"
+        "Meio",
+        "Coruja",
+        "Dama",
+        "Morcego"
       ]
     }
   ],
-  "data": "2026-03-31"
+  "data": "2026-04-01"
 }
