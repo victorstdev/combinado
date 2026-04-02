@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Objetos de Sorte e Destino",
+      "tema": "Caminhos, Trajetos ou Conduções",
       "palavras": [
-        "Dado",
-        "Moeda",
-        "Búzios",
-        "Estrela"
+        "Linha",
+        "Cano",
+        "Veia",
+        "Rota"
       ]
     },
     {
-      "tema": "\"Ponto\" em diferentes contextos",
+      "tema": "Termos do Direito",
       "palavras": [
-        "Costura",
-        "Vista",
-        "Ônibus",
-        "Gatilho"
+        "Ação",
+        "Citação",
+        "Recurso",
+        "Sentença"
       ]
     },
     {
-      "tema": "Elementos de Estrutura e Base",
+      "tema": "Nomes para Alturas e Encostas",
       "palavras": [
-        "Coluna",
-        "Viga",
-        "Base",
-        "Fundação"
+        "Cume",
+        "Pico",
+        "Vertente",
+        "Serro"
       ]
     },
     {
-      "tema": "Associados à Noite",
+      "tema": "Técnicas Culinárias de Preparo",
       "palavras": [
-        "Meio",
-        "Coruja",
-        "Dama",
-        "Morcego"
+        "Confitar",
+        "Brasear",
+        "Emulsionar",
+        "Reduzir"
       ]
     }
   ],
-  "data": "2026-04-01"
+  "data": "2026-04-02"
 }
