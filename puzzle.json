@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Caminhos, Trajetos ou Conduções",
+      "tema": "Elementos Essenciais de uma Narrativa Ficcional",
       "palavras": [
-        "Linha",
-        "Cano",
-        "Veia",
-        "Rota"
+        "Protagonista",
+        "Antagonista",
+        "Clímax",
+        "Enredo"
       ]
     },
     {
-      "tema": "Termos do Direito",
+      "tema": "Cães com Funções Específicas e Históricas",
       "palavras": [
-        "Ação",
-        "Citação",
-        "Recurso",
-        "Sentença"
+        "Pastor",
+        "Caçador",
+        "Farejador",
+        "Guia"
       ]
     },
     {
-      "tema": "Nomes para Alturas e Encostas",
+      "tema": "Técnicas Culinárias de Preparo Lento",
       "palavras": [
-        "Cume",
-        "Pico",
-        "Vertente",
-        "Serro"
-      ]
-    },
-    {
-      "tema": "Técnicas Culinárias de Preparo",
-      "palavras": [
-        "Confitar",
-        "Brasear",
         "Emulsionar",
-        "Reduzir"
+        "Deglaçar",
+        "Brasear",
+        "Confitar"
+      ]
+    },
+    {
+      "tema": "Unidades de Medida Não-Métricas (Tradicionais ou Imperiais)",
+      "palavras": [
+        "Polegada",
+        "Braça",
+        "Légua",
+        "Jarda"
       ]
     }
   ],
-  "data": "2026-04-02"
+  "data": "2026-04-03"
 }
