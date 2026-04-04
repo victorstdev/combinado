@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos Essenciais de uma Narrativa Ficcional",
+      "tema": "Peças do Jogo de Xadrez",
       "palavras": [
-        "Protagonista",
-        "Antagonista",
-        "Clímax",
-        "Enredo"
+        "Torre",
+        "Bispo",
+        "Cavalo",
+        "Peão"
       ]
     },
     {
-      "tema": "Cães com Funções Específicas e Históricas",
+      "tema": "Adjetivos para Tipos de Massa Culinária",
       "palavras": [
-        "Pastor",
-        "Caçador",
-        "Farejador",
-        "Guia"
+        "Podre",
+        "Folhada",
+        "Fermentada",
+        "Tenra"
       ]
     },
     {
-      "tema": "Técnicas Culinárias de Preparo Lento",
+      "tema": "Expressões com a Palavra 'Mão'",
       "palavras": [
-        "Emulsionar",
-        "Deglaçar",
-        "Brasear",
-        "Confitar"
+        "Única",
+        "Livre",
+        "Pesada",
+        "Aberta"
       ]
     },
     {
-      "tema": "Unidades de Medida Não-Métricas (Tradicionais ou Imperiais)",
+      "tema": "Termos que se 'Pegam'",
       "palavras": [
-        "Polegada",
-        "Braça",
-        "Légua",
-        "Jarda"
+        "Nojo",
+        "Ar",
+        "Fogo",
+        "Pesado"
       ]
     }
   ],
-  "data": "2026-04-03"
+  "data": "2026-04-04"
 }
