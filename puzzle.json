@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Peças do Jogo de Xadrez",
+      "tema": "Processos e Elementos da Panificação",
       "palavras": [
-        "Torre",
-        "Bispo",
-        "Cavalo",
-        "Peão"
+        "Massa",
+        "Fermento",
+        "Glúten",
+        "Sovar"
       ]
     },
     {
-      "tema": "Adjetivos para Tipos de Massa Culinária",
+      "tema": "Componentes Internos de Hardware",
       "palavras": [
-        "Podre",
-        "Folhada",
-        "Fermentada",
-        "Tenra"
+        "Placa",
+        "Chip",
+        "Memória",
+        "Barramento"
       ]
     },
     {
-      "tema": "Expressões com a Palavra 'Mão'",
+      "tema": "Propriedades Físicas da Luz",
       "palavras": [
-        "Única",
-        "Livre",
-        "Pesada",
-        "Aberta"
+        "Refração",
+        "Difração",
+        "Dispersão",
+        "Polarização"
       ]
     },
     {
-      "tema": "Termos que se 'Pegam'",
+      "tema": "Termos Relacionados a Autenticação e Marcas",
       "palavras": [
-        "Nojo",
-        "Ar",
-        "Fogo",
-        "Pesado"
+        "Rubrica",
+        "Firma",
+        "Selo",
+        "Signatura"
       ]
     }
   ],
-  "data": "2026-04-04"
+  "data": "2026-04-05"
 }
