@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Processos e Elementos da Panificação",
+      "tema": "CORES COM NOMES DE SUBSTANTIVOS",
       "palavras": [
-        "Massa",
-        "Fermento",
-        "Glúten",
-        "Sovar"
+        "Laranja",
+        "Rosa",
+        "Roxo",
+        "Verde"
       ]
     },
     {
-      "tema": "Componentes Internos de Hardware",
+      "tema": "ELEMENTOS NÁUTICOS",
       "palavras": [
-        "Placa",
-        "Chip",
-        "Memória",
-        "Barramento"
+        "Âncora",
+        "Bússola",
+        "Porto",
+        "Vela"
       ]
     },
     {
-      "tema": "Propriedades Físicas da Luz",
+      "tema": "TERMOS DE JOGOS DE CARTAS",
       "palavras": [
-        "Refração",
-        "Difração",
-        "Dispersão",
-        "Polarização"
+        "Naipe",
+        "Blefe",
+        "Baralho",
+        "Trunfo"
       ]
     },
     {
-      "tema": "Termos Relacionados a Autenticação e Marcas",
+      "tema": "COMPONENTES DE ESTRUTURA",
       "palavras": [
-        "Rubrica",
-        "Firma",
-        "Selo",
-        "Signatura"
+        "Viga",
+        "Pilar",
+        "Planta",
+        "Fundação"
       ]
     }
   ],
-  "data": "2026-04-05"
+  "data": "2026-04-06"
 }
