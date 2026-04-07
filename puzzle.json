@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "CORES COM NOMES DE SUBSTANTIVOS",
+      "tema": "TERMOS DE COSTURA E TECELAGEM",
       "palavras": [
-        "Laranja",
-        "Rosa",
-        "Roxo",
-        "Verde"
+        "Urdume",
+        "Trama",
+        "Fio",
+        "Ponto"
       ]
     },
     {
-      "tema": "ELEMENTOS NÁUTICOS",
+      "tema": "ESTADOS BRASILEIROS SEM SAÍDA PARA O MAR",
       "palavras": [
-        "Âncora",
-        "Bússola",
-        "Porto",
-        "Vela"
+        "Minas Gerais",
+        "Goiás",
+        "Mato Grosso",
+        "Rondônia"
       ]
     },
     {
-      "tema": "TERMOS DE JOGOS DE CARTAS",
+      "tema": "PARTES ESTRUTURAIS DE UM LIVRO",
       "palavras": [
-        "Naipe",
-        "Blefe",
-        "Baralho",
-        "Trunfo"
+        "Prefácio",
+        "Capa",
+        "Lombada",
+        "Sumário"
       ]
     },
     {
-      "tema": "COMPONENTES DE ESTRUTURA",
+      "tema": "UNIDADES DE MEDIDA NÃO-MÉTRICAS OU ANTIGAS",
       "palavras": [
-        "Viga",
-        "Pilar",
-        "Planta",
-        "Fundação"
+        "Jarda",
+        "Alqueire",
+        "Légua",
+        "Onça"
       ]
     }
   ],
-  "data": "2026-04-06"
+  "data": "2026-04-07"
 }
