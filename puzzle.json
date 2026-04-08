@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "TERMOS DE COSTURA E TECELAGEM",
+      "tema": "Sinônimos de 'Confuso' / 'Desorientado'",
       "palavras": [
-        "Urdume",
-        "Trama",
-        "Fio",
-        "Ponto"
+        "Atrapalhado",
+        "Embaraçado",
+        "Perplexo",
+        "Desnorteado"
       ]
     },
     {
-      "tema": "ESTADOS BRASILEIROS SEM SAÍDA PARA O MAR",
+      "tema": "Fenômenos e Movimentos Aquáticos",
       "palavras": [
-        "Minas Gerais",
-        "Goiás",
-        "Mato Grosso",
-        "Rondônia"
+        "Ressaca",
+        "Corrente",
+        "Marola",
+        "Vazante"
       ]
     },
     {
-      "tema": "PARTES ESTRUTURAIS DE UM LIVRO",
+      "tema": "Personagens da Commedia dell'arte",
       "palavras": [
+        "Arlequim",
+        "Colombina",
+        "Pierrô",
+        "Pantaleão"
+      ]
+    },
+    {
+      "tema": "Partes de um Livro ou Obra Escrita",
+      "palavras": [
+        "Epígrafe",
         "Prefácio",
-        "Capa",
-        "Lombada",
-        "Sumário"
-      ]
-    },
-    {
-      "tema": "UNIDADES DE MEDIDA NÃO-MÉTRICAS OU ANTIGAS",
-      "palavras": [
-        "Jarda",
-        "Alqueire",
-        "Légua",
-        "Onça"
+        "Posfácio",
+        "Apêndice"
       ]
     }
   ],
-  "data": "2026-04-07"
+  "data": "2026-04-08"
 }
