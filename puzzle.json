@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos Químicos com Origem em Nomes Celestes",
+      "tema": "Partes de Instrumentos de Corda (Violão/Guitarra)",
       "palavras": [
-        "Hélio",
-        "Selênio",
-        "Telúrio",
-        "Mercúrio"
+        "Pestana",
+        "Rastilho",
+        "Braço",
+        "Trastes"
       ]
     },
     {
-      "tema": "Verbos ou Ações Culinárias Específicas",
+      "tema": "Técnicas Culinárias",
       "palavras": [
-        "Branquear",
-        "Pincelar",
-        "Saltear",
-        "Reduzir"
+        "Brasear",
+        "Deglaçar",
+        "Confitar",
+        "Macerar"
       ]
     },
     {
-      "tema": "Partes de Embarcações (Náuticas)",
+      "tema": "Conceitos da Mitologia Grega",
       "palavras": [
-        "Quilha",
-        "Leme",
-        "Mastros",
-        "Escotilha"
+        "Oráculo",
+        "Quimera",
+        "Labirinto",
+        "Nêmesis"
       ]
     },
     {
-      "tema": "Conceitos da Teoria Musical",
+      "tema": "Elementos Arquitetônicos",
       "palavras": [
-        "Clave",
-        "Diapasão",
-        "Cadência",
-        "Compassos"
+        "Arcada",
+        "Cúpula",
+        "Pórtico",
+        "Alpendre"
       ]
     }
   ],
-  "data": "2026-04-10"
+  "data": "2026-04-11"
 }
