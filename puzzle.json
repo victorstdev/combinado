@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de Instrumentos de Corda (Violão/Guitarra)",
+      "tema": "Partes do Corpo com Sentido Figurado",
       "palavras": [
-        "Pestana",
-        "Rastilho",
-        "Braço",
-        "Trastes"
+        "Língua",
+        "Mão",
+        "Olho",
+        "Pé"
       ]
     },
     {
-      "tema": "Técnicas Culinárias",
+      "tema": "Fenômenos ou Conceitos que se Propagam",
       "palavras": [
-        "Brasear",
-        "Deglaçar",
-        "Confitar",
-        "Macerar"
+        "Boato",
+        "Vírus",
+        "Fogo",
+        "Notícia"
       ]
     },
     {
-      "tema": "Conceitos da Mitologia Grega",
+      "tema": "Termos Relacionados a Fluxo de Ar/Vento",
       "palavras": [
-        "Oráculo",
-        "Quimera",
-        "Labirinto",
-        "Nêmesis"
+        "Brisa",
+        "Furacão",
+        "Sopro",
+        "Corrente"
       ]
     },
     {
-      "tema": "Elementos Arquitetônicos",
+      "tema": "Substantivos que Formam Expressões com 'de Guerra' ou 'de Paz'",
       "palavras": [
-        "Arcada",
-        "Cúpula",
-        "Pórtico",
-        "Alpendre"
+        "Estado",
+        "Tempo",
+        "Pé",
+        "Cenário"
       ]
     }
   ],
-  "data": "2026-04-11"
+  "data": "2026-04-12"
 }
