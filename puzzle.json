@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes do Corpo com Sentido Figurado",
+      "tema": "Técnicas de Cocção",
       "palavras": [
-        "Língua",
-        "Mão",
-        "Olho",
-        "Pé"
+        "Confitar",
+        "Brasear",
+        "Saltear",
+        "Escalfar"
       ]
     },
     {
-      "tema": "Fenômenos ou Conceitos que se Propagam",
+      "tema": "Elementos Fundamentais da Teoria Musical",
       "palavras": [
-        "Boato",
-        "Vírus",
-        "Fogo",
-        "Notícia"
+        "Cifra",
+        "Pauta",
+        "Diapasão",
+        "Tom"
       ]
     },
     {
-      "tema": "Termos Relacionados a Fluxo de Ar/Vento",
+      "tema": "Formações Geológicas Litorâneas",
       "palavras": [
-        "Brisa",
-        "Furacão",
-        "Sopro",
-        "Corrente"
+        "Duna",
+        "Restinga",
+        "Falésia",
+        "Atol"
       ]
     },
     {
-      "tema": "Substantivos que Formam Expressões com 'de Guerra' ou 'de Paz'",
+      "tema": "Partes Essenciais de um Sistema ou Mecanismo",
       "palavras": [
-        "Estado",
-        "Tempo",
-        "Pé",
-        "Cenário"
+        "Engrenagem",
+        "Elo",
+        "Módulo",
+        "Eixo"
       ]
     }
   ],
-  "data": "2026-04-12"
+  "data": "2026-04-13"
 }
