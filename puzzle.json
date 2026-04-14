@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Técnicas de Cocção",
+      "tema": "Fenômenos Sonoros (e sua ausência)",
       "palavras": [
-        "Confitar",
-        "Brasear",
-        "Saltear",
-        "Escalfar"
+        "Eco",
+        "Ressonância",
+        "Zumbido",
+        "Silêncio"
       ]
     },
     {
-      "tema": "Elementos Fundamentais da Teoria Musical",
+      "tema": "Conceitos com Múltiplos Sentidos (comuns em Costura/Desenho)",
       "palavras": [
-        "Cifra",
-        "Pauta",
-        "Diapasão",
-        "Tom"
+        "Ponto",
+        "Linha",
+        "Agulha",
+        "Remendo"
       ]
     },
     {
-      "tema": "Formações Geológicas Litorâneas",
+      "tema": "Expressões e Nomes Compostos com a Palavra 'Pé'",
       "palavras": [
-        "Duna",
-        "Restinga",
-        "Falésia",
-        "Atol"
+        "Pé-de-moleque",
+        "Pé-direito",
+        "Pé-d'água",
+        "Pé-de-cabra"
       ]
     },
     {
-      "tema": "Partes Essenciais de um Sistema ou Mecanismo",
+      "tema": "Termos Relacionados à Navegação Marítima",
       "palavras": [
-        "Engrenagem",
-        "Elo",
-        "Módulo",
-        "Eixo"
+        "Bússola",
+        "Nó",
+        "Âncora",
+        "Marear"
       ]
     }
   ],
-  "data": "2026-04-13"
+  "data": "2026-04-14"
 }
