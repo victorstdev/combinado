@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Fenômenos Sonoros (e sua ausência)",
+      "tema": "Termos Navais de Posição/Orientação",
       "palavras": [
-        "Eco",
-        "Ressonância",
-        "Zumbido",
-        "Silêncio"
+        "Proa",
+        "Popa",
+        "Boreste",
+        "Estibordo"
       ]
     },
     {
-      "tema": "Conceitos com Múltiplos Sentidos (comuns em Costura/Desenho)",
+      "tema": "Expressões Idiomáticas com Nomes de Animais",
       "palavras": [
-        "Ponto",
-        "Linha",
-        "Agulha",
-        "Remendo"
+        "Gato Escalado",
+        "Cavalo de Troia",
+        "Bode Expiatório",
+        "Cobra Fumando"
       ]
     },
     {
-      "tema": "Expressões e Nomes Compostos com a Palavra 'Pé'",
+      "tema": "Palavras Homógrafas Perfeitas",
       "palavras": [
-        "Pé-de-moleque",
-        "Pé-direito",
-        "Pé-d'água",
-        "Pé-de-cabra"
+        "Manga",
+        "Rio",
+        "Serra",
+        "Banco"
       ]
     },
     {
-      "tema": "Termos Relacionados à Navegação Marítima",
+      "tema": "Conceitos de Divisão ou Partição",
       "palavras": [
-        "Bússola",
-        "Nó",
-        "Âncora",
-        "Marear"
+        "Dicotomia",
+        "Segmentar",
+        "Fracionar",
+        "Bifurcar"
       ]
     }
   ],
-  "data": "2026-04-14"
+  "data": "2026-04-15"
 }
