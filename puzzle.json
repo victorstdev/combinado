@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos Navais de Posição/Orientação",
+      "tema": "EXPRESSÕES COM O VERBO 'QUEBRAR'",
       "palavras": [
-        "Proa",
-        "Popa",
-        "Boreste",
-        "Estibordo"
+        "Recorde",
+        "Gelo",
+        "Galho",
+        "Regra"
       ]
     },
     {
-      "tema": "Expressões Idiomáticas com Nomes de Animais",
+      "tema": "PALAVRAS QUE SÃO SUBSTANTIVO E VERBO (COM DIFERENTES SENTIDOS)",
       "palavras": [
-        "Gato Escalado",
-        "Cavalo de Troia",
-        "Bode Expiatório",
-        "Cobra Fumando"
-      ]
-    },
-    {
-      "tema": "Palavras Homógrafas Perfeitas",
-      "palavras": [
+        "Canto",
+        "Selo",
         "Manga",
-        "Rio",
-        "Serra",
-        "Banco"
+        "Porta"
       ]
     },
     {
-      "tema": "Conceitos de Divisão ou Partição",
+      "tema": "PARTES DO LIVRO (COM OUTROS SIGNIFICADOS COMUNS)",
       "palavras": [
-        "Dicotomia",
-        "Segmentar",
-        "Fracionar",
-        "Bifurcar"
+        "Capa",
+        "Folha",
+        "Lombada",
+        "Orelha"
+      ]
+    },
+    {
+      "tema": "SUBSTANTIVOS TERMINADOS EM '-ÃO' QUE NÃO SÃO AUMENTATIVOS",
+      "palavras": [
+        "Coração",
+        "Reunião",
+        "Camarão",
+        "Feijão"
       ]
     }
   ],
-  "data": "2026-04-15"
+  "data": "2026-04-16"
 }
