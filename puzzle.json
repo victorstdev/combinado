@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "EXPRESSÕES COM O VERBO 'QUEBRAR'",
+      "tema": "ELEMENTOS DE COMPOSIÇÃO",
       "palavras": [
-        "Recorde",
-        "Gelo",
-        "Galho",
-        "Regra"
+        "Peça",
+        "Corda",
+        "Barra",
+        "Tala"
       ]
     },
     {
-      "tema": "PALAVRAS QUE SÃO SUBSTANTIVO E VERBO (COM DIFERENTES SENTIDOS)",
+      "tema": "ELEMENTOS MUSICAIS",
       "palavras": [
+        "Lira",
+        "Baixo",
         "Canto",
-        "Selo",
+        "Arco"
+      ]
+    },
+    {
+      "tema": "COBERTURAS NATURAIS OU ARTIFICIAIS",
+      "palavras": [
+        "Seda",
         "Manga",
-        "Porta"
+        "Crina",
+        "Pena"
       ]
     },
     {
-      "tema": "PARTES DO LIVRO (COM OUTROS SIGNIFICADOS COMUNS)",
+      "tema": "PALAVRAS POLISSÊMICAS: OBJETO/AÇÃO/CONCEITO",
       "palavras": [
-        "Capa",
-        "Folha",
-        "Lombada",
-        "Orelha"
-      ]
-    },
-    {
-      "tema": "SUBSTANTIVOS TERMINADOS EM '-ÃO' QUE NÃO SÃO AUMENTATIVOS",
-      "palavras": [
-        "Coração",
-        "Reunião",
-        "Camarão",
-        "Feijão"
+        "Bala",
+        "Vaga",
+        "Serra",
+        "Coroa"
       ]
     }
   ],
-  "data": "2026-04-16"
+  "data": "2026-04-17"
 }
