@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "ELEMENTOS DE COMPOSIÇÃO",
+      "tema": "BIOMAS BRASILEIROS",
       "palavras": [
-        "Peça",
-        "Corda",
-        "Barra",
-        "Tala"
+        "CERRADO",
+        "PAMPA",
+        "CAATINGA",
+        "PANTANAL"
       ]
     },
     {
-      "tema": "ELEMENTOS MUSICAIS",
+      "tema": "PERSONAGENS DO FOLCLORE BRASILEIRO",
       "palavras": [
-        "Lira",
-        "Baixo",
-        "Canto",
-        "Arco"
+        "SACIPERERÊ",
+        "BOITATÁ",
+        "CURUPIRA",
+        "MULA-SEM-CABEÇA"
       ]
     },
     {
-      "tema": "COBERTURAS NATURAIS OU ARTIFICIAIS",
+      "tema": "PARTES DE UMA EMBARCAÇÃO",
       "palavras": [
-        "Seda",
-        "Manga",
-        "Crina",
-        "Pena"
+        "PROA",
+        "POPA",
+        "MASTRO",
+        "LEME"
       ]
     },
     {
-      "tema": "PALAVRAS POLISSÊMICAS: OBJETO/AÇÃO/CONCEITO",
+      "tema": "MATERIAIS E TÉCNICAS ARTÍSTICAS",
       "palavras": [
-        "Bala",
-        "Vaga",
-        "Serra",
-        "Coroa"
+        "AQUARELA",
+        "GRAFITE",
+        "PASTEL",
+        "VERNIZ"
       ]
     }
   ],
-  "data": "2026-04-17"
+  "data": "2026-04-18"
 }
