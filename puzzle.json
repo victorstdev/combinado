@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "BIOMAS BRASILEIROS",
+      "tema": "Coisas que \"Correm\" ou \"Passam\" (Figurado)",
       "palavras": [
-        "CERRADO",
-        "PAMPA",
-        "CAATINGA",
-        "PANTANAL"
+        "Água",
+        "Tempo",
+        "Notícia",
+        "Sangue"
       ]
     },
     {
-      "tema": "PERSONAGENS DO FOLCLORE BRASILEIRO",
+      "tema": "Termos de Expressões Idiomáticas com \"Pé\"",
       "palavras": [
-        "SACIPERERÊ",
-        "BOITATÁ",
-        "CURUPIRA",
-        "MULA-SEM-CABEÇA"
+        "Atleta",
+        "Galinha",
+        "Moleque",
+        "Serra"
       ]
     },
     {
-      "tema": "PARTES DE UMA EMBARCAÇÃO",
+      "tema": "Unidades de Medida",
       "palavras": [
-        "PROA",
-        "POPA",
-        "MASTRO",
-        "LEME"
+        "Nó",
+        "Quilate",
+        "Acre",
+        "Ohm"
       ]
     },
     {
-      "tema": "MATERIAIS E TÉCNICAS ARTÍSTICAS",
+      "tema": "Verbos \"Quebrar\" ou \"Romper\" (Literal e Metafórico)",
       "palavras": [
-        "AQUARELA",
-        "GRAFITE",
-        "PASTEL",
-        "VERNIZ"
+        "Onda",
+        "Silêncio",
+        "Gelo",
+        "Recorde"
       ]
     }
   ],
-  "data": "2026-04-18"
+  "data": "2026-04-19"
 }
