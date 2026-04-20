@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Coisas que \"Correm\" ou \"Passam\" (Figurado)",
+      "tema": "Partes Físicas de um Livro",
       "palavras": [
+        "Capa",
+        "Lombo",
+        "Miolo",
+        "Folha"
+      ]
+    },
+    {
+      "tema": "Conectados ao Verbo 'Correr'",
+      "palavras": [
+        "Risco",
         "Água",
-        "Tempo",
-        "Notícia",
-        "Sangue"
+        "Pista",
+        "Boato"
       ]
     },
     {
-      "tema": "Termos de Expressões Idiomáticas com \"Pé\"",
+      "tema": "Conectados ao Verbo 'Quebrar'",
       "palavras": [
-        "Atleta",
-        "Galinha",
-        "Moleque",
-        "Serra"
-      ]
-    },
-    {
-      "tema": "Unidades de Medida",
-      "palavras": [
-        "Nó",
-        "Quilate",
-        "Acre",
-        "Ohm"
-      ]
-    },
-    {
-      "tema": "Verbos \"Quebrar\" ou \"Romper\" (Literal e Metafórico)",
-      "palavras": [
-        "Onda",
-        "Silêncio",
         "Gelo",
+        "Silêncio",
+        "Regra",
         "Recorde"
+      ]
+    },
+    {
+      "tema": "Períodos ou Ciclos",
+      "palavras": [
+        "Ciclo",
+        "Fase",
+        "Geração",
+        "Estação"
       ]
     }
   ],
-  "data": "2026-04-19"
+  "data": "2026-04-20"
 }
