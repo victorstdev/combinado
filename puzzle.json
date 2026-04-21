@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes Físicas de um Livro",
+      "tema": "Instrumentos de Percussão Brasileiros",
       "palavras": [
-        "Capa",
-        "Lombo",
-        "Miolo",
-        "Folha"
+        "GANZÁ",
+        "CUÍCA",
+        "REPIQUE",
+        "TAMBORIM"
       ]
     },
     {
-      "tema": "Conectados ao Verbo 'Correr'",
+      "tema": "Nomes de Peixes Usados Como Ofensas ou Gírias",
       "palavras": [
-        "Risco",
-        "Água",
-        "Pista",
-        "Boato"
+        "BAGRE",
+        "PIAU",
+        "PIRANHA",
+        "MERLUZA"
       ]
     },
     {
-      "tema": "Conectados ao Verbo 'Quebrar'",
+      "tema": "Partes do Corpo com Outros Significados Comuns",
       "palavras": [
-        "Gelo",
-        "Silêncio",
-        "Regra",
-        "Recorde"
+        "LÍNGUA",
+        "MÃO",
+        "OLHO",
+        "BOCA"
       ]
     },
     {
-      "tema": "Períodos ou Ciclos",
+      "tema": "Termos de Baralho com Sentidos Figurados",
       "palavras": [
-        "Ciclo",
-        "Fase",
-        "Geração",
-        "Estação"
+        "MANILHA",
+        "CORINGA",
+        "TRUCO",
+        "ÁS"
       ]
     }
   ],
-  "data": "2026-04-20"
+  "data": "2026-04-21"
 }
