@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Instrumentos de Percussão Brasileiros",
+      "tema": "Termos da Sintaxe",
       "palavras": [
-        "GANZÁ",
-        "CUÍCA",
-        "REPIQUE",
-        "TAMBORIM"
+        "Oração",
+        "Sujeito",
+        "Predicado",
+        "Artigo"
       ]
     },
     {
-      "tema": "Nomes de Peixes Usados Como Ofensas ou Gírias",
+      "tema": "Palavras Relacionadas a Conteúdo/Ausência",
       "palavras": [
-        "BAGRE",
-        "PIAU",
-        "PIRANHA",
-        "MERLUZA"
+        "Vazio",
+        "Cheio",
+        "Oco",
+        "Recheio"
       ]
     },
     {
-      "tema": "Partes do Corpo com Outros Significados Comuns",
+      "tema": "Unidades e Medidas Variadas",
       "palavras": [
-        "LÍNGUA",
-        "MÃO",
-        "OLHO",
-        "BOCA"
+        "Calibre",
+        "Quilate",
+        "Grau",
+        "Pé"
       ]
     },
     {
-      "tema": "Termos de Baralho com Sentidos Figurados",
+      "tema": "Partes de Árvore (com Sentido Figurativo)",
       "palavras": [
-        "MANILHA",
-        "CORINGA",
-        "TRUCO",
-        "ÁS"
+        "Raiz",
+        "Tronco",
+        "Galho",
+        "Folha"
       ]
     }
   ],
-  "data": "2026-04-21"
+  "data": "2026-04-22"
 }
