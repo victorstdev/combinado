@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos da Sintaxe",
+      "tema": "Elementos da Tecelagem (e suas ambiguidades)",
       "palavras": [
-        "Oração",
-        "Sujeito",
-        "Predicado",
-        "Artigo"
+        "Trama",
+        "Urdume",
+        "Linha",
+        "Malha"
       ]
     },
     {
-      "tema": "Palavras Relacionadas a Conteúdo/Ausência",
+      "tema": "Termos que completam \"Ponto de...\"",
       "palavras": [
-        "Vazio",
-        "Cheio",
-        "Oco",
-        "Recheio"
+        "Final",
+        "Vício",
+        "Chegada",
+        "Apoio"
       ]
     },
     {
-      "tema": "Unidades e Medidas Variadas",
+      "tema": "Objetos/Ferramentas com Duplo Sentido",
       "palavras": [
-        "Calibre",
-        "Quilate",
-        "Grau",
-        "Pé"
+        "Torno",
+        "Fio",
+        "Tábua",
+        "Agulha"
       ]
     },
     {
-      "tema": "Partes de Árvore (com Sentido Figurativo)",
+      "tema": "Gírias para Situações Difíceis ou Conflitantes",
       "palavras": [
-        "Raiz",
-        "Tronco",
-        "Galho",
-        "Folha"
+        "Barra",
+        "Corda",
+        "Gelo",
+        "Boca"
       ]
     }
   ],
-  "data": "2026-04-22"
+  "data": "2026-04-23"
 }
