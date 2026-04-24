@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos da Tecelagem (e suas ambiguidades)",
+      "tema": "Tons de Cores Específicas",
       "palavras": [
-        "Trama",
-        "Urdume",
-        "Linha",
-        "Malha"
+        "Bege",
+        "Ocre",
+        "Turquesa",
+        "Magenta"
       ]
     },
     {
-      "tema": "Termos que completam \"Ponto de...\"",
+      "tema": "Partes de uma Árvore",
       "palavras": [
-        "Final",
-        "Vício",
-        "Chegada",
-        "Apoio"
+        "Tronco",
+        "Raiz",
+        "Copa",
+        "Seiva"
       ]
     },
     {
-      "tema": "Objetos/Ferramentas com Duplo Sentido",
+      "tema": "Elementos de Embarcação",
       "palavras": [
-        "Torno",
-        "Fio",
-        "Tábua",
-        "Agulha"
+        "Quilha",
+        "Leme",
+        "Mastro",
+        "Convés"
       ]
     },
     {
-      "tema": "Gírias para Situações Difíceis ou Conflitantes",
+      "tema": "Termos de Jogos de Tabuleiro",
       "palavras": [
-        "Barra",
-        "Corda",
-        "Gelo",
-        "Boca"
+        "Peão",
+        "Tabuleiro",
+        "Dado",
+        "Rodada"
       ]
     }
   ],
-  "data": "2026-04-23"
+  "data": "2026-04-24"
 }
