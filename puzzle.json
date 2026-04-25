@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Tons de Cores Específicas",
+      "tema": "Partes de uma Arma de Fogo",
       "palavras": [
-        "Bege",
-        "Ocre",
-        "Turquesa",
-        "Magenta"
+        "Cão",
+        "Coronha",
+        "Gatilho",
+        "Cano"
       ]
     },
     {
-      "tema": "Partes de uma Árvore",
+      "tema": "Componentes de um Barco ou Navio",
       "palavras": [
-        "Tronco",
-        "Raiz",
-        "Copa",
-        "Seiva"
+        "Proa",
+        "Popa",
+        "Vela",
+        "Mastro"
       ]
     },
     {
-      "tema": "Elementos de Embarcação",
+      "tema": "Termos Relacionados a Luz ou Visão",
       "palavras": [
-        "Quilha",
-        "Leme",
-        "Mastro",
-        "Convés"
+        "Foco",
+        "Cintilante",
+        "Aurora",
+        "Mira"
       ]
     },
     {
-      "tema": "Termos de Jogos de Tabuleiro",
+      "tema": "Verbos Culinários Usados em Sentido Figurado",
       "palavras": [
-        "Peão",
-        "Tabuleiro",
-        "Dado",
-        "Rodada"
+        "Temperar",
+        "Apimentar",
+        "Saltear",
+        "Reduzir"
       ]
     }
   ],
-  "data": "2026-04-24"
+  "data": "2026-04-25"
 }
