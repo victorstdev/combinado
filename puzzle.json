@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de uma Arma de Fogo",
+      "tema": "PARTES DE EMBARCAÇÕES",
       "palavras": [
-        "Cão",
-        "Coronha",
-        "Gatilho",
-        "Cano"
+        "Quilha",
+        "Leme",
+        "Mastros",
+        "Proa"
       ]
     },
     {
-      "tema": "Componentes de um Barco ou Navio",
+      "tema": "ASPECTOS VERBAIS",
       "palavras": [
-        "Proa",
-        "Popa",
-        "Vela",
-        "Mastro"
+        "Perfeito",
+        "Imperfeito",
+        "Mais-que-perfeito",
+        "Futuro"
       ]
     },
     {
-      "tema": "Termos Relacionados a Luz ou Visão",
+      "tema": "PEÇAS DE XADREZ",
       "palavras": [
-        "Foco",
-        "Cintilante",
-        "Aurora",
-        "Mira"
+        "Cavalo",
+        "Torre",
+        "Bispo",
+        "Peão"
       ]
     },
     {
-      "tema": "Verbos Culinários Usados em Sentido Figurado",
+      "tema": "TIPOS DE RUÍDOS",
       "palavras": [
-        "Temperar",
-        "Apimentar",
-        "Saltear",
-        "Reduzir"
+        "Estrondo",
+        "Sibilo",
+        "Sussurro",
+        "Zumbido"
       ]
     }
   ],
-  "data": "2026-04-25"
+  "data": "2026-04-26"
 }
