@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PARTES DE EMBARCAÇÕES",
+      "tema": "NUANCES DE CORES",
       "palavras": [
-        "Quilha",
-        "Leme",
-        "Mastros",
-        "Proa"
+        "Ciano",
+        "Magenta",
+        "Ocre",
+        "Carmim"
       ]
     },
     {
-      "tema": "ASPECTOS VERBAIS",
+      "tema": "PARTES DE UMA ARMA DE FOGO",
       "palavras": [
-        "Perfeito",
-        "Imperfeito",
-        "Mais-que-perfeito",
-        "Futuro"
+        "Ferrolho",
+        "Cão",
+        "Coronha",
+        "Gatilho"
       ]
     },
     {
-      "tema": "PEÇAS DE XADREZ",
+      "tema": "TERMOS SINTÁTICOS",
       "palavras": [
-        "Cavalo",
-        "Torre",
-        "Bispo",
-        "Peão"
+        "Adjunto",
+        "Objeto",
+        "Predicado",
+        "Conjunção"
       ]
     },
     {
-      "tema": "TIPOS DE RUÍDOS",
+      "tema": "TIPOS DE CALÇADOS",
       "palavras": [
-        "Estrondo",
-        "Sibilo",
-        "Sussurro",
-        "Zumbido"
+        "Mocassim",
+        "Alpargata",
+        "Tamanco",
+        "Sapatilha"
       ]
     }
   ],
-  "data": "2026-04-26"
+  "data": "2026-04-27"
 }
