@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "NUANCES DE CORES",
+      "tema": "Partes de Árvores (e outros significados)",
       "palavras": [
-        "Ciano",
-        "Magenta",
-        "Ocre",
-        "Carmim"
+        "TRONCO",
+        "GALHO",
+        "RAIZ",
+        "FOLHA"
       ]
     },
     {
-      "tema": "PARTES DE UMA ARMA DE FOGO",
+      "tema": "Unidades de Medida Não-Padronizadas",
       "palavras": [
-        "Ferrolho",
-        "Cão",
-        "Coronha",
-        "Gatilho"
+        "PALMO",
+        "PÉ",
+        "COPO",
+        "PUNHADO"
       ]
     },
     {
-      "tema": "TERMOS SINTÁTICOS",
+      "tema": "Termos de Divisão ou Segmentação",
       "palavras": [
-        "Adjunto",
-        "Objeto",
-        "Predicado",
-        "Conjunção"
+        "RAMO",
+        "SEÇÃO",
+        "DIVISÃO",
+        "ÁREA"
       ]
     },
     {
-      "tema": "TIPOS DE CALÇADOS",
+      "tema": "Cores (com outro sentido ou expressão)",
       "palavras": [
-        "Mocassim",
-        "Alpargata",
-        "Tamanco",
-        "Sapatilha"
+        "AZUL",
+        "ROXO",
+        "BRANCO",
+        "VERMELHO"
       ]
     }
   ],
-  "data": "2026-04-27"
+  "data": "2026-04-28"
 }
