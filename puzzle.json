@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de Árvores (e outros significados)",
+      "tema": "Componentes Internos de Computador",
       "palavras": [
-        "TRONCO",
-        "GALHO",
-        "RAIZ",
-        "FOLHA"
+        "Memória",
+        "Placa",
+        "Processador",
+        "Gabinete"
       ]
     },
     {
-      "tema": "Unidades de Medida Não-Padronizadas",
+      "tema": "Palavras que Formam Expressões com 'da Noite'",
       "palavras": [
-        "PALMO",
-        "PÉ",
-        "COPO",
-        "PUNHADO"
+        "Estrela",
+        "Fada",
+        "Dama",
+        "Coruja"
       ]
     },
     {
-      "tema": "Termos de Divisão ou Segmentação",
+      "tema": "Sinônimos de Enganar / Iludir",
       "palavras": [
-        "RAMO",
-        "SEÇÃO",
-        "DIVISÃO",
-        "ÁREA"
+        "Lograr",
+        "Burlar",
+        "Ludibriar",
+        "Mistificar"
       ]
     },
     {
-      "tema": "Cores (com outro sentido ou expressão)",
+      "tema": "Conceitos Relacionados ao Acaso e Destino",
       "palavras": [
-        "AZUL",
-        "ROXO",
-        "BRANCO",
-        "VERMELHO"
+        "Fortuna",
+        "Destino",
+        "Azar",
+        "Sorteio"
       ]
     }
   ],
-  "data": "2026-04-28"
+  "data": "2026-04-29"
 }
