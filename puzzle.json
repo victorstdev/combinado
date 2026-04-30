@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes Internos de Computador",
+      "tema": "ELEMENTOS DA AVIAÇÃO",
       "palavras": [
-        "Memória",
-        "Placa",
-        "Processador",
-        "Gabinete"
+        "Pista",
+        "Cabine",
+        "Hélice",
+        "Altitude"
       ]
     },
     {
-      "tema": "Palavras que Formam Expressões com 'da Noite'",
+      "tema": "ESTADOS OU PROCESSOS CULINÁRIOS",
       "palavras": [
-        "Estrela",
-        "Fada",
-        "Dama",
-        "Coruja"
+        "Emulsão",
+        "Defumar",
+        "Marinar",
+        "Granular"
       ]
     },
     {
-      "tema": "Sinônimos de Enganar / Iludir",
+      "tema": "PARTES DO CORPO COM OUTROS USOS",
       "palavras": [
-        "Lograr",
-        "Burlar",
-        "Ludibriar",
-        "Mistificar"
+        "Pescoço",
+        "Corpo",
+        "Mão",
+        "Língua"
       ]
     },
     {
-      "tema": "Conceitos Relacionados ao Acaso e Destino",
+      "tema": "TERMOS COM DUPLO SENTIDO (MÚSICA/COTIDIANO)",
       "palavras": [
-        "Fortuna",
-        "Destino",
-        "Azar",
-        "Sorteio"
+        "Pauta",
+        "Ritmo",
+        "Tonalidade",
+        "Acorde"
       ]
     }
   ],
-  "data": "2026-04-29"
+  "data": "2026-04-30"
 }
