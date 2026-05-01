@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "ELEMENTOS DA AVIAÇÃO",
+      "tema": "Unidades de Medida (Culinárias ou de Quantidade)",
       "palavras": [
-        "Pista",
-        "Cabine",
-        "Hélice",
-        "Altitude"
+        "Xícara",
+        "Colher",
+        "Pitada",
+        "Grama"
       ]
     },
     {
-      "tema": "ESTADOS OU PROCESSOS CULINÁRIOS",
+      "tema": "Expressões e Termos que Contêm a Palavra 'Pé'",
       "palavras": [
-        "Emulsão",
-        "Defumar",
-        "Marinar",
-        "Granular"
+        "Pé-direito",
+        "Pé de moleque",
+        "Pé-de-cabra",
+        "Pé-quente"
       ]
     },
     {
-      "tema": "PARTES DO CORPO COM OUTROS USOS",
+      "tema": "Palavras Homógrafas/Homófonas com Múltiplos Sentidos",
       "palavras": [
-        "Pescoço",
-        "Corpo",
-        "Mão",
-        "Língua"
+        "Manga",
+        "Serra",
+        "Banco",
+        "Canto"
       ]
     },
     {
-      "tema": "TERMOS COM DUPLO SENTIDO (MÚSICA/COTIDIANO)",
+      "tema": "Conceitos Fundamentais da Lógica e Argumentação",
       "palavras": [
-        "Pauta",
-        "Ritmo",
-        "Tonalidade",
-        "Acorde"
+        "Premissa",
+        "Conclusão",
+        "Falácia",
+        "Silogismo"
       ]
     }
   ],
-  "data": "2026-04-30"
+  "data": "2026-05-01"
 }
