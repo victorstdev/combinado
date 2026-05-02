@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Unidades de Medida (Culinárias ou de Quantidade)",
+      "tema": "Adjetivos para Qualificar a Voz",
       "palavras": [
-        "Xícara",
-        "Colher",
-        "Pitada",
-        "Grama"
+        "Rouca",
+        "Estridente",
+        "Aveludada",
+        "Gutural"
       ]
     },
     {
-      "tema": "Expressões e Termos que Contêm a Palavra 'Pé'",
+      "tema": "Elementos de Navegação Marítima",
       "palavras": [
-        "Pé-direito",
-        "Pé de moleque",
-        "Pé-de-cabra",
-        "Pé-quente"
+        "Sextante",
+        "Quilha",
+        "Bússola",
+        "Âncora"
       ]
     },
     {
-      "tema": "Palavras Homógrafas/Homófonas com Múltiplos Sentidos",
+      "tema": "Termos Geológicos",
       "palavras": [
-        "Manga",
-        "Serra",
-        "Banco",
-        "Canto"
+        "Duna",
+        "Cratera",
+        "Falha",
+        "Erosão"
       ]
     },
     {
-      "tema": "Conceitos Fundamentais da Lógica e Argumentação",
+      "tema": "Verbos de Escultura e Modelagem",
       "palavras": [
-        "Premissa",
-        "Conclusão",
-        "Falácia",
-        "Silogismo"
+        "Talhar",
+        "Entalhar",
+        "Esculpir",
+        "Cinzelar"
       ]
     }
   ],
-  "data": "2026-05-01"
+  "data": "2026-05-02"
 }
