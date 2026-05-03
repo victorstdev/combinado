@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Adjetivos para Qualificar a Voz",
+      "tema": "Expressões populares com \"Pé\"",
       "palavras": [
-        "Rouca",
-        "Estridente",
-        "Aveludada",
-        "Gutural"
+        "Pé-quente",
+        "Pé-frio",
+        "Pé-de-moleque",
+        "Pé-direito"
       ]
     },
     {
-      "tema": "Elementos de Navegação Marítima",
+      "tema": "Peças do tabuleiro de xadrez",
       "palavras": [
-        "Sextante",
-        "Quilha",
-        "Bússola",
-        "Âncora"
+        "Cavalo",
+        "Bispo",
+        "Torre",
+        "Rainha"
       ]
     },
     {
-      "tema": "Termos Geológicos",
+      "tema": "Verbos irregulares da língua portuguesa",
       "palavras": [
-        "Duna",
-        "Cratera",
-        "Falha",
-        "Erosão"
+        "Pôr",
+        "Trazer",
+        "Fazer",
+        "Dizer"
       ]
     },
     {
-      "tema": "Verbos de Escultura e Modelagem",
+      "tema": "Metais e ligas usadas em moedas brasileiras",
       "palavras": [
-        "Talhar",
-        "Entalhar",
-        "Esculpir",
-        "Cinzelar"
+        "Cobre",
+        "Bronze",
+        "Níquel",
+        "Aço"
       ]
     }
   ],
-  "data": "2026-05-02"
+  "data": "2026-05-03"
 }
