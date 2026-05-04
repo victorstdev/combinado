@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Expressões populares com \"Pé\"",
+      "tema": "Termos de Navegação ou Marinha",
       "palavras": [
-        "Pé-quente",
-        "Pé-frio",
-        "Pé-de-moleque",
-        "Pé-direito"
+        "Vaga",
+        "Maré",
+        "Ancorar",
+        "Bússola"
       ]
     },
     {
-      "tema": "Peças do tabuleiro de xadrez",
+      "tema": "Partes de um Livro",
       "palavras": [
-        "Cavalo",
-        "Bispo",
-        "Torre",
-        "Rainha"
+        "Capa",
+        "Miolo",
+        "Orelha",
+        "Sumário"
       ]
     },
     {
-      "tema": "Verbos irregulares da língua portuguesa",
+      "tema": "Verbos de Estado ou Permanência",
       "palavras": [
-        "Pôr",
-        "Trazer",
-        "Fazer",
-        "Dizer"
+        "Ser",
+        "Estar",
+        "Jazer",
+        "Permanecer"
       ]
     },
     {
-      "tema": "Metais e ligas usadas em moedas brasileiras",
+      "tema": "Elementos de um Trem ou Ferrovia",
       "palavras": [
-        "Cobre",
-        "Bronze",
-        "Níquel",
-        "Aço"
+        "Trilho",
+        "Vagão",
+        "Dormente",
+        "Engate"
       ]
     }
   ],
-  "data": "2026-05-03"
+  "data": "2026-05-04"
 }
