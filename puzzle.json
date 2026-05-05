@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Navegação ou Marinha",
+      "tema": "Sinais Corporais Involuntários ou Reflexos",
       "palavras": [
-        "Vaga",
-        "Maré",
-        "Ancorar",
-        "Bússola"
+        "BOCEJAR",
+        "ARREPIAR",
+        "LACRIMEJAR",
+        "PESTANEJAR"
       ]
     },
     {
-      "tema": "Partes de um Livro",
+      "tema": "Coisas que se 'quebram' (sentido figurado ou específico)",
       "palavras": [
-        "Capa",
-        "Miolo",
-        "Orelha",
-        "Sumário"
+        "GELO",
+        "SILÊNCIO",
+        "FEITIÇO",
+        "RECORDE"
       ]
     },
     {
-      "tema": "Verbos de Estado ou Permanência",
+      "tema": "Expressões populares com 'MÃO'",
       "palavras": [
-        "Ser",
-        "Estar",
-        "Jazer",
-        "Permanecer"
+        "DE VACA",
+        "NA RODA",
+        "BENTA",
+        "PESADA"
       ]
     },
     {
-      "tema": "Elementos de um Trem ou Ferrovia",
+      "tema": "Termos relacionados a Jogos ou Apostas",
       "palavras": [
-        "Trilho",
-        "Vagão",
-        "Dormente",
-        "Engate"
+        "BLEFE",
+        "CARTADA",
+        "RODA",
+        "LANCE"
       ]
     }
   ],
-  "data": "2026-05-04"
+  "data": "2026-05-05"
 }
