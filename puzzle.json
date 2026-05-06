@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Sinais Corporais Involuntários ou Reflexos",
+      "tema": "Medidas Informais de Quantidade",
       "palavras": [
-        "BOCEJAR",
-        "ARREPIAR",
-        "LACRIMEJAR",
-        "PESTANEJAR"
+        "PINGO",
+        "FIO",
+        "MÃO",
+        "DOSE"
       ]
     },
     {
-      "tema": "Coisas que se 'quebram' (sentido figurado ou específico)",
+      "tema": "Componentes de Jogos (Tabuleiro/Cartas)",
       "palavras": [
-        "GELO",
-        "SILÊNCIO",
-        "FEITIÇO",
-        "RECORDE"
+        "PEÃO",
+        "DAMA",
+        "VALETE",
+        "CORINGA"
       ]
     },
     {
-      "tema": "Expressões populares com 'MÃO'",
+      "tema": "Preparos Líquidos ou Cremosos da Culinária Brasileira",
       "palavras": [
-        "DE VACA",
-        "NA RODA",
-        "BENTA",
-        "PESADA"
+        "VINAGRETE",
+        "CALDO",
+        "MOQUECA",
+        "PIRÃO"
       ]
     },
     {
-      "tema": "Termos relacionados a Jogos ou Apostas",
+      "tema": "Partes de Embarcações (Náutica)",
       "palavras": [
-        "BLEFE",
-        "CARTADA",
-        "RODA",
-        "LANCE"
+        "MASTRO",
+        "VELA",
+        "QUILHA",
+        "LEME"
       ]
     }
   ],
-  "data": "2026-05-05"
+  "data": "2026-05-06"
 }
