@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Medidas Informais de Quantidade",
+      "tema": "Afiados e Cortantes",
       "palavras": [
-        "PINGO",
-        "FIO",
-        "MÃO",
-        "DOSE"
+        "Lâmina",
+        "Gume",
+        "Talho",
+        "Fio"
       ]
     },
     {
-      "tema": "Componentes de Jogos (Tabuleiro/Cartas)",
+      "tema": "Caminhos e Fluxos",
       "palavras": [
-        "PEÃO",
-        "DAMA",
-        "VALETE",
-        "CORINGA"
+        "Corrente",
+        "Veia",
+        "Mina",
+        "Regato"
       ]
     },
     {
-      "tema": "Preparos Líquidos ou Cremosos da Culinária Brasileira",
+      "tema": "Medidas e Intensidades",
       "palavras": [
-        "VINAGRETE",
-        "CALDO",
-        "MOQUECA",
-        "PIRÃO"
+        "Calibre",
+        "Grau",
+        "Escala",
+        "Peso"
       ]
     },
     {
-      "tema": "Partes de Embarcações (Náutica)",
+      "tema": "Porções e Fragmentos",
       "palavras": [
-        "MASTRO",
-        "VELA",
-        "QUILHA",
-        "LEME"
+        "Lasca",
+        "Caco",
+        "Fatia",
+        "Amostra"
       ]
     }
   ],
-  "data": "2026-05-06"
+  "data": "2026-05-07"
 }
