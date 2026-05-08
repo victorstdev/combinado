@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Afiados e Cortantes",
+      "tema": "Ações Culinárias",
       "palavras": [
-        "Lâmina",
-        "Gume",
-        "Talho",
-        "Fio"
+        "Ralar",
+        "Pisar",
+        "Sovar",
+        "Temperar"
       ]
     },
     {
-      "tema": "Caminhos e Fluxos",
+      "tema": "Partes de Instrumentos Musicais",
       "palavras": [
-        "Corrente",
-        "Veia",
-        "Mina",
-        "Regato"
+        "Traste",
+        "Bocal",
+        "Pedal",
+        "Pele"
       ]
     },
     {
-      "tema": "Medidas e Intensidades",
+      "tema": "Conceitos que se 'Pegam' (Metafórico)",
       "palavras": [
-        "Calibre",
-        "Grau",
-        "Escala",
-        "Peso"
+        "Sono",
+        "Jeito",
+        "Ritmo",
+        "Fôlego"
       ]
     },
     {
-      "tema": "Porções e Fragmentos",
+      "tema": "Fenômenos Ópticos ou Luminosos",
       "palavras": [
-        "Lasca",
-        "Caco",
-        "Fatia",
-        "Amostra"
+        "Espectro",
+        "Refração",
+        "Miragem",
+        "Fosforescência"
       ]
     }
   ],
-  "data": "2026-05-07"
+  "data": "2026-05-08"
 }
