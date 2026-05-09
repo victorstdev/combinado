@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Ações Culinárias",
+      "tema": "Conceitos da Notação Musical",
       "palavras": [
-        "Ralar",
-        "Pisar",
-        "Sovar",
-        "Temperar"
+        "Clave",
+        "Pauta",
+        "Compasso",
+        "Sustenido"
       ]
     },
     {
-      "tema": "Partes de Instrumentos Musicais",
+      "tema": "Fenômenos Meteorológicos",
       "palavras": [
-        "Traste",
-        "Bocal",
-        "Pedal",
-        "Pele"
+        "Garoa",
+        "Cerração",
+        "Geada",
+        "Brisa"
       ]
     },
     {
-      "tema": "Conceitos que se 'Pegam' (Metafórico)",
+      "tema": "Termos do Mercado Financeiro",
       "palavras": [
-        "Sono",
-        "Jeito",
-        "Ritmo",
-        "Fôlego"
+        "Renda",
+        "Cota",
+        "Fluxo",
+        "Margem"
       ]
     },
     {
-      "tema": "Fenômenos Ópticos ou Luminosos",
+      "tema": "Tipos de Chapéu",
       "palavras": [
-        "Espectro",
-        "Refração",
-        "Miragem",
-        "Fosforescência"
+        "Cartola",
+        "Boina",
+        "Quepe",
+        "Panamá"
       ]
     }
   ],
-  "data": "2026-05-08"
+  "data": "2026-05-09"
 }
