@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Conceitos da Notação Musical",
+      "tema": "Elementos de editoração e tipografia",
       "palavras": [
-        "Clave",
-        "Pauta",
-        "Compasso",
-        "Sustenido"
+        "Caractere",
+        "Margem",
+        "Entrelinha",
+        "Rodapé"
       ]
     },
     {
-      "tema": "Fenômenos Meteorológicos",
+      "tema": "Coisas que podem 'estourar' ou 'irromper'",
       "palavras": [
-        "Garoa",
-        "Cerração",
-        "Geada",
-        "Brisa"
+        "Bolha",
+        "Pipoca",
+        "Pneu",
+        "Vulcão"
       ]
     },
     {
-      "tema": "Termos do Mercado Financeiro",
+      "tema": "Partes físicas ou sinônimos de 'cabeça'",
       "palavras": [
-        "Renda",
-        "Cota",
-        "Fluxo",
-        "Margem"
+        "Testa",
+        "Coroa",
+        "Juízo",
+        "Cuca"
       ]
     },
     {
-      "tema": "Tipos de Chapéu",
+      "tema": "Verbos que indicam perda ou diminuição",
       "palavras": [
-        "Cartola",
-        "Boina",
-        "Quepe",
-        "Panamá"
+        "Murchar",
+        "Escorrer",
+        "Desbotar",
+        "Mingar"
       ]
     }
   ],
-  "data": "2026-05-09"
+  "data": "2026-05-10"
 }
