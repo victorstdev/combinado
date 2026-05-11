@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos de editoração e tipografia",
+      "tema": "Estruturas de Suporte ou Elementos Centrais",
       "palavras": [
-        "Caractere",
-        "Margem",
-        "Entrelinha",
-        "Rodapé"
+        "ESPIGÃO",
+        "COLUNA",
+        "EIXO",
+        "HASTE"
       ]
     },
     {
-      "tema": "Coisas que podem 'estourar' ou 'irromper'",
+      "tema": "Termos Musicais com Outros Sentidos Comuns",
       "palavras": [
-        "Bolha",
-        "Pipoca",
-        "Pneu",
-        "Vulcão"
+        "ACORDE",
+        "TOM",
+        "CLAVE",
+        "PAUTA"
       ]
     },
     {
-      "tema": "Partes físicas ou sinônimos de 'cabeça'",
+      "tema": "Verbos de Movimento com Aceção de Influência",
       "palavras": [
-        "Testa",
-        "Coroa",
-        "Juízo",
-        "Cuca"
+        "EMPURRAR",
+        "TRAZER",
+        "CONDUZIR",
+        "DIRIGIR"
       ]
     },
     {
-      "tema": "Verbos que indicam perda ou diminuição",
+      "tema": "Componentes com Múltiplas Interpretações",
       "palavras": [
-        "Murchar",
-        "Escorrer",
-        "Desbotar",
-        "Mingar"
+        "LÂMINA",
+        "CÉLULA",
+        "VEIA",
+        "SEIO"
       ]
     }
   ],
-  "data": "2026-05-10"
+  "data": "2026-05-11"
 }
