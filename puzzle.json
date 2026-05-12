@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Estruturas de Suporte ou Elementos Centrais",
+      "tema": "Partes ou Termos de Navegação",
       "palavras": [
-        "ESPIGÃO",
-        "COLUNA",
-        "EIXO",
-        "HASTE"
+        "ÂNCORA",
+        "LEME",
+        "MASTRO",
+        "QUILHA"
       ]
     },
     {
-      "tema": "Termos Musicais com Outros Sentidos Comuns",
+      "tema": "Sinônimos de Divisão ou Fragmentação",
       "palavras": [
-        "ACORDE",
-        "TOM",
-        "CLAVE",
-        "PAUTA"
+        "GOLPE",
+        "SEÇÃO",
+        "CISÃO",
+        "RACHA"
       ]
     },
     {
-      "tema": "Verbos de Movimento com Aceção de Influência",
+      "tema": "Peças do Jogo de Xadrez",
       "palavras": [
-        "EMPURRAR",
-        "TRAZER",
-        "CONDUZIR",
-        "DIRIGIR"
+        "TORRE",
+        "PEÃO",
+        "CAVALO",
+        "RAINHA"
       ]
     },
     {
-      "tema": "Componentes com Múltiplas Interpretações",
+      "tema": "Termos Relacionados à Luz/Brilho",
       "palavras": [
-        "LÂMINA",
-        "CÉLULA",
-        "VEIA",
-        "SEIO"
+        "CLARO",
+        "RAIO",
+        "FOCO",
+        "LAMPEJO"
       ]
     }
   ],
-  "data": "2026-05-11"
+  "data": "2026-05-12"
 }
