@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes ou Termos de Navegação",
+      "tema": "Componentes Biológicos com Múltiplos Contextos",
       "palavras": [
-        "ÂNCORA",
-        "LEME",
-        "MASTRO",
-        "QUILHA"
+        "Córtex",
+        "Medula",
+        "Folículo",
+        "Cutícula"
       ]
     },
     {
-      "tema": "Sinônimos de Divisão ou Fragmentação",
+      "tema": "Expressões Idiomáticas com a Palavra 'Pé'",
       "palavras": [
-        "GOLPE",
-        "SEÇÃO",
-        "CISÃO",
-        "RACHA"
+        "Pé-direito",
+        "Pé de vento",
+        "Pé quebrado",
+        "Pé na cova"
       ]
     },
     {
-      "tema": "Peças do Jogo de Xadrez",
+      "tema": "Partes Estruturais ou Gráficas do Livro",
       "palavras": [
-        "TORRE",
-        "PEÃO",
-        "CAVALO",
-        "RAINHA"
+        "Lombada",
+        "Guarda",
+        "Fólio",
+        "Frontispício"
       ]
     },
     {
-      "tema": "Termos Relacionados à Luz/Brilho",
+      "tema": "Ferramentas de Escultura e Marcenaria (manuais)",
       "palavras": [
-        "CLARO",
-        "RAIO",
-        "FOCO",
-        "LAMPEJO"
+        "Talhadeira",
+        "Escopro",
+        "Goiva",
+        "Maço"
       ]
     }
   ],
-  "data": "2026-05-12"
+  "data": "2026-05-13"
 }
