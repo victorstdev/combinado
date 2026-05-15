@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "SINÔNIMOS DE \"EXCELENTE\" (GÍRIAS E EXPRESSÕES)",
+      "tema": "Períodos de Tempo Específicos",
       "palavras": [
-        "Massa",
-        "Fera",
-        "Bárbaro",
-        "Animal"
+        "LUSTRO",
+        "BIÊNIO",
+        "LUA",
+        "QUADRIÊNIO"
       ]
     },
     {
-      "tema": "ELEMENTOS DE TECELAGEM E COSTURA",
+      "tema": "Componentes da Árvore",
       "palavras": [
-        "Urdume",
-        "Trama",
-        "Bainha",
-        "Ponto"
+        "COPA",
+        "CERNE",
+        "SEIVA",
+        "RAIZ"
       ]
     },
     {
-      "tema": "UNIDADES DE MEDIDA NÃO-MÉTRICAS OU POPULARES",
+      "tema": "Unidades de Medida Não-Métricas ou Específicas",
       "palavras": [
-        "Légua",
-        "Palmo",
-        "Braça",
-        "Quilate"
+        "QUILATE",
+        "NÓ",
+        "ACRE",
+        "BRAÇA"
       ]
     },
     {
-      "tema": "COISAS QUE \"CORREM\" (VERBO)",
+      "tema": "Elementos Gráficos e Tipográficos",
       "palavras": [
-        "Rio",
-        "Moda",
-        "Sangue",
-        "Notícia"
+        "VINHETA",
+        "CORPO",
+        "MANCHETE",
+        "CAPA"
       ]
     }
   ],
-  "data": "2026-05-14"
+  "data": "2026-05-15"
 }
