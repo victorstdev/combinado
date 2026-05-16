@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Períodos de Tempo Específicos",
+      "tema": "UNIDADES DE MEDIDA (DIVERSAS)",
       "palavras": [
-        "LUSTRO",
-        "BIÊNIO",
-        "LUA",
-        "QUADRIÊNIO"
+        "Jarda",
+        "Légua",
+        "Palma",
+        "Quilate"
       ]
     },
     {
-      "tema": "Componentes da Árvore",
+      "tema": "PARTES DE INSTRUMENTOS DE CORDA",
       "palavras": [
-        "COPA",
-        "CERNE",
-        "SEIVA",
-        "RAIZ"
+        "Braço",
+        "Cravelha",
+        "Traste",
+        "Palheta"
       ]
     },
     {
-      "tema": "Unidades de Medida Não-Métricas ou Específicas",
+      "tema": "TIPOS DE CAMINHO OU PERCURSO",
       "palavras": [
-        "QUILATE",
-        "NÓ",
-        "ACRE",
-        "BRAÇA"
+        "Senda",
+        "Vereda",
+        "Trilha",
+        "Rota"
       ]
     },
     {
-      "tema": "Elementos Gráficos e Tipográficos",
+      "tema": "TERMOS NÁUTICOS (PARTES DE EMBARCAÇÃO)",
       "palavras": [
-        "VINHETA",
-        "CORPO",
-        "MANCHETE",
-        "CAPA"
+        "Proa",
+        "Popa",
+        "Âncora",
+        "Estibordo"
       ]
     }
   ],
-  "data": "2026-05-15"
+  "data": "2026-05-16"
 }
