@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "UNIDADES DE MEDIDA (DIVERSAS)",
+      "tema": "Topônimos Que Também Designam Objetos/Conceitos",
       "palavras": [
-        "Jarda",
-        "Légua",
-        "Palma",
-        "Quilate"
+        "Serra",
+        "Cabo",
+        "Barra",
+        "Ponta"
       ]
     },
     {
-      "tema": "PARTES DE INSTRUMENTOS DE CORDA",
+      "tema": "Termos Para Conjuntos Ou Agrupamentos",
       "palavras": [
-        "Braço",
-        "Cravelha",
-        "Traste",
-        "Palheta"
+        "Molho",
+        "Maço",
+        "Ramo",
+        "Penca"
       ]
     },
     {
-      "tema": "TIPOS DE CAMINHO OU PERCURSO",
+      "tema": "Verbos Que Indicam Estado (e Seus Outros Sentidos)",
       "palavras": [
-        "Senda",
-        "Vereda",
-        "Trilha",
-        "Rota"
+        "Ser",
+        "Estar",
+        "Parecer",
+        "Ficar"
       ]
     },
     {
-      "tema": "TERMOS NÁUTICOS (PARTES DE EMBARCAÇÃO)",
+      "tema": "Elementos De Apoio Ou Sustentação",
       "palavras": [
-        "Proa",
-        "Popa",
-        "Âncora",
-        "Estibordo"
+        "Estaca",
+        "Base",
+        "Pilar",
+        "Escora"
       ]
     }
   ],
-  "data": "2026-05-16"
+  "data": "2026-05-17"
 }
