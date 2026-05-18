@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Topônimos Que Também Designam Objetos/Conceitos",
+      "tema": "PALAVRAS QUE INDICAM UM RETORNO OU MUDANÇA DE SENTIDO",
       "palavras": [
-        "Serra",
-        "Cabo",
-        "Barra",
-        "Ponta"
+        "Reviravolta",
+        "Retrocesso",
+        "Recuo",
+        "Repercussão"
       ]
     },
     {
-      "tema": "Termos Para Conjuntos Ou Agrupamentos",
+      "tema": "PARTES DA FLOR",
       "palavras": [
-        "Molho",
-        "Maço",
-        "Ramo",
-        "Penca"
+        "Estigma",
+        "Ovário",
+        "Pistilo",
+        "Estame"
       ]
     },
     {
-      "tema": "Verbos Que Indicam Estado (e Seus Outros Sentidos)",
+      "tema": "VOCABULÁRIO DE JOGOS DE CARTAS",
       "palavras": [
-        "Ser",
-        "Estar",
-        "Parecer",
-        "Ficar"
+        "Naipe",
+        "Blefe",
+        "Trunfo",
+        "Mão"
       ]
     },
     {
-      "tema": "Elementos De Apoio Ou Sustentação",
+      "tema": "TIPOS DE ASSENTO",
       "palavras": [
-        "Estaca",
-        "Base",
-        "Pilar",
-        "Escora"
+        "Banco",
+        "Sela",
+        "Mocho",
+        "Puff"
       ]
     }
   ],
-  "data": "2026-05-17"
+  "data": "2026-05-18"
 }
