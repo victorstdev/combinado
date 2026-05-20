@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos da Geometria Plana",
+      "tema": "TIPOS DE QUEBRA-CABEÇAS OU DESAFIOS MENTAIS",
       "palavras": [
-        "Vértice",
-        "Tangente",
-        "Corda",
-        "Secante"
+        "Enigma",
+        "Labirinto",
+        "Cifra",
+        "Charada"
       ]
     },
     {
-      "tema": "Partes Estruturais de Embarcações",
+      "tema": "ELEMENTOS DA NOTAÇÃO MUSICAL",
       "palavras": [
-        "Amurada",
-        "Quilha",
-        "Verga",
-        "Borda"
+        "Partitura",
+        "Pauta",
+        "Clave",
+        "Compasso"
       ]
     },
     {
-      "tema": "Qualidades ou Estados de Espírito que Podem Ser Abalados",
+      "tema": "PERÍODOS DO DIA COM POUCA LUZ",
       "palavras": [
-        "Firmeza",
-        "Serenidade",
-        "Convicção",
-        "Otimismo"
+        "Alvorada",
+        "Crepúsculo",
+        "Lusco-fusco",
+        "Aurora"
       ]
     },
     {
-      "tema": "Figuras de Linguagem ou Termos Gramaticais",
+      "tema": "PARTES DE UMA FORTALEZA OU CASTELO",
       "palavras": [
-        "Pleonasmo",
-        "Elipse",
-        "Anacoluto",
-        "Apóstrofe"
+        "Fosso",
+        "Muralha",
+        "Torre",
+        "Portão"
       ]
     }
   ],
-  "data": "2026-05-19"
+  "data": "2026-05-20"
 }
