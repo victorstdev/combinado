@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "TIPOS DE QUEBRA-CABEÇAS OU DESAFIOS MENTAIS",
+      "tema": "Técnicas Culinárias",
       "palavras": [
-        "Enigma",
-        "Labirinto",
-        "Cifra",
-        "Charada"
+        "Branquear",
+        "Marinar",
+        "Saltear",
+        "Reduzir"
       ]
     },
     {
-      "tema": "ELEMENTOS DA NOTAÇÃO MUSICAL",
+      "tema": "Instrumentos de Sopro de Madeira",
       "palavras": [
-        "Partitura",
-        "Pauta",
-        "Clave",
-        "Compasso"
+        "Oboé",
+        "Fagote",
+        "Clarinete",
+        "Saxofone"
       ]
     },
     {
-      "tema": "PERÍODOS DO DIA COM POUCA LUZ",
+      "tema": "Conceitos Fundamentais da Metafísica",
       "palavras": [
-        "Alvorada",
-        "Crepúsculo",
-        "Lusco-fusco",
-        "Aurora"
+        "Essência",
+        "Substância",
+        "Existência",
+        "Nada"
       ]
     },
     {
-      "tema": "PARTES DE UMA FORTALEZA OU CASTELO",
+      "tema": "Peças do Xadrez",
       "palavras": [
-        "Fosso",
-        "Muralha",
         "Torre",
-        "Portão"
+        "Bispo",
+        "Cavalo",
+        "Peão"
       ]
     }
   ],
-  "data": "2026-05-20"
+  "data": "2026-05-21"
 }
