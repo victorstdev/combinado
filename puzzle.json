@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Técnicas Culinárias",
+      "tema": "Termos de Engenharia Civil e Arquitetura",
       "palavras": [
-        "Branquear",
-        "Marinar",
-        "Saltear",
-        "Reduzir"
+        "Planta",
+        "Alvenaria",
+        "Andaime",
+        "Canteiro"
       ]
     },
     {
-      "tema": "Instrumentos de Sopro de Madeira",
+      "tema": "Verbos de Ligação (Gramática)",
       "palavras": [
-        "Oboé",
-        "Fagote",
-        "Clarinete",
-        "Saxofone"
+        "Ser",
+        "Estar",
+        "Parecer",
+        "Permanecer"
       ]
     },
     {
-      "tema": "Conceitos Fundamentais da Metafísica",
+      "tema": "Tipos de Impostos Brasileiros",
       "palavras": [
-        "Essência",
-        "Substância",
-        "Existência",
-        "Nada"
+        "IPI",
+        "ICMS",
+        "ISS",
+        "IPVA"
       ]
     },
     {
-      "tema": "Peças do Xadrez",
+      "tema": "Elementos da Orquestra",
       "palavras": [
-        "Torre",
-        "Bispo",
-        "Cavalo",
-        "Peão"
+        "Regente",
+        "Spalla",
+        "Cordas",
+        "Metais"
       ]
     }
   ],
-  "data": "2026-05-21"
+  "data": "2026-05-22"
 }
