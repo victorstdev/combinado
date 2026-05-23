@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Engenharia Civil e Arquitetura",
+      "tema": "PARTES DO LIVRO",
       "palavras": [
-        "Planta",
-        "Alvenaria",
-        "Andaime",
-        "Canteiro"
+        "Capa",
+        "Lombada",
+        "Orelha",
+        "Prefácio"
       ]
     },
     {
-      "tema": "Verbos de Ligação (Gramática)",
+      "tema": "FRUTAS TROPICAIS BRASILEIRAS",
       "palavras": [
-        "Ser",
-        "Estar",
-        "Parecer",
-        "Permanecer"
+        "Jabuticaba",
+        "Cajá",
+        "Pitanga",
+        "Graviola"
       ]
     },
     {
-      "tema": "Tipos de Impostos Brasileiros",
+      "tema": "ELEMENTOS DE UMA EMBARCAÇÃO",
       "palavras": [
-        "IPI",
-        "ICMS",
-        "ISS",
-        "IPVA"
+        "Proa",
+        "Popa",
+        "Âncora",
+        "Leme"
       ]
     },
     {
-      "tema": "Elementos da Orquestra",
+      "tema": "TERMOS JURÍDICOS ESSENCIAIS",
       "palavras": [
-        "Regente",
-        "Spalla",
-        "Cordas",
-        "Metais"
+        "Réu",
+        "Testemunha",
+        "Defesa",
+        "Sentença"
       ]
     }
   ],
-  "data": "2026-05-22"
+  "data": "2026-05-23"
 }
