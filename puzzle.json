@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PARTES DO LIVRO",
+      "tema": "Palavras que são substantivos e verbos homônimos",
       "palavras": [
-        "Capa",
-        "Lombada",
-        "Orelha",
-        "Prefácio"
+        "FORMA",
+        "MANGA",
+        "CANTO",
+        "SERRA"
       ]
     },
     {
-      "tema": "FRUTAS TROPICAIS BRASILEIRAS",
+      "tema": "Expressões para 'situação complicada' ou 'problema'",
       "palavras": [
-        "Jabuticaba",
-        "Cajá",
-        "Pitanga",
-        "Graviola"
+        "BOMBA",
+        "FURO",
+        "SINUCA",
+        "PREGO"
       ]
     },
     {
-      "tema": "ELEMENTOS DE UMA EMBARCAÇÃO",
+      "tema": "Epônimos (nomes próprios que viraram substantivos comuns)",
       "palavras": [
-        "Proa",
-        "Popa",
-        "Âncora",
-        "Leme"
+        "ATLAS",
+        "GUILHOTINA",
+        "SANDUÍCHE",
+        "NARCISO"
       ]
     },
     {
-      "tema": "TERMOS JURÍDICOS ESSENCIAIS",
+      "tema": "Termos musicais com outro significado comum",
       "palavras": [
-        "Réu",
-        "Testemunha",
-        "Defesa",
-        "Sentença"
+        "ARMADILHA",
+        "PONTES",
+        "CAIXA",
+        "PÉ"
       ]
     }
   ],
-  "data": "2026-05-23"
+  "data": "2026-05-24"
 }
