@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Palavras que são substantivos e verbos homônimos",
+      "tema": "Componentes Internos de Motor",
       "palavras": [
-        "FORMA",
-        "MANGA",
-        "CANTO",
-        "SERRA"
+        "Biela",
+        "Pistão",
+        "Virabrequim",
+        "Válvula"
       ]
     },
     {
-      "tema": "Expressões para 'situação complicada' ou 'problema'",
+      "tema": "Termos Gramaticais",
       "palavras": [
-        "BOMBA",
-        "FURO",
-        "SINUCA",
-        "PREGO"
+        "Artigo",
+        "Sujeito",
+        "Objeto",
+        "Regência"
       ]
     },
     {
-      "tema": "Epônimos (nomes próprios que viraram substantivos comuns)",
+      "tema": "Acessórios de Costura",
       "palavras": [
-        "ATLAS",
-        "GUILHOTINA",
-        "SANDUÍCHE",
-        "NARCISO"
+        "Linha",
+        "Dedal",
+        "Agulha",
+        "Alfinete"
       ]
     },
     {
-      "tema": "Termos musicais com outro significado comum",
+      "tema": "Palavras Polissêmicas Comuns",
       "palavras": [
-        "ARMADILHA",
-        "PONTES",
-        "CAIXA",
-        "PÉ"
+        "Chave",
+        "Mola",
+        "Palma",
+        "Pena"
       ]
     }
   ],
-  "data": "2026-05-24"
+  "data": "2026-05-25"
 }
