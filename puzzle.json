@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes Internos de Motor",
+      "tema": "Ações e estados de 'passar'",
       "palavras": [
-        "Biela",
-        "Pistão",
-        "Virabrequim",
-        "Válvula"
+        "Vento",
+        "Tempo",
+        "Marcha",
+        "Bola"
       ]
     },
     {
-      "tema": "Termos Gramaticais",
+      "tema": "Termos da Dança Clássica",
       "palavras": [
-        "Artigo",
-        "Sujeito",
-        "Objeto",
-        "Regência"
+        "Plié",
+        "Pirueta",
+        "Fouetté",
+        "Arabesque"
       ]
     },
     {
-      "tema": "Acessórios de Costura",
+      "tema": "Etapas e Conceitos do Processo Legislativo",
       "palavras": [
-        "Linha",
-        "Dedal",
-        "Agulha",
-        "Alfinete"
+        "Ementa",
+        "Veto",
+        "Sanção",
+        "Emenda"
       ]
     },
     {
-      "tema": "Palavras Polissêmicas Comuns",
+      "tema": "Unidades de Medida Antigas",
       "palavras": [
-        "Chave",
-        "Mola",
-        "Palma",
-        "Pena"
+        "Légua",
+        "Braça",
+        "Arrátel",
+        "Alqueire"
       ]
     }
   ],
-  "data": "2026-05-25"
+  "data": "2026-05-26"
 }
