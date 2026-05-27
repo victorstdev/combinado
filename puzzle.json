@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Ações e estados de 'passar'",
+      "tema": "Elementos do Xadrez",
       "palavras": [
-        "Vento",
-        "Tempo",
-        "Marcha",
-        "Bola"
+        "Rei",
+        "Dama",
+        "Torre",
+        "Peão"
       ]
     },
     {
-      "tema": "Termos da Dança Clássica",
+      "tema": "Termos Teatrais",
       "palavras": [
-        "Plié",
-        "Pirueta",
-        "Fouetté",
-        "Arabesque"
+        "Palco",
+        "Ato",
+        "Cena",
+        "Elenco"
       ]
     },
     {
-      "tema": "Etapas e Conceitos do Processo Legislativo",
+      "tema": "Termos Financeiros com Múltiplos Sentidos",
       "palavras": [
-        "Ementa",
-        "Veto",
-        "Sanção",
-        "Emenda"
+        "Câmbio",
+        "Moeda",
+        "Caixa",
+        "Trocado"
       ]
     },
     {
-      "tema": "Unidades de Medida Antigas",
+      "tema": "Materiais de Escrita e Arte",
       "palavras": [
-        "Légua",
-        "Braça",
-        "Arrátel",
-        "Alqueire"
+        "Pena",
+        "Grafite",
+        "Pincel",
+        "Tinta"
       ]
     }
   ],
-  "data": "2026-05-26"
+  "data": "2026-05-27"
 }
