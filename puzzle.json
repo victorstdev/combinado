@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos do Xadrez",
-      "palavras": [
-        "Rei",
-        "Dama",
-        "Torre",
-        "Peão"
-      ]
-    },
-    {
-      "tema": "Termos Teatrais",
-      "palavras": [
-        "Palco",
-        "Ato",
-        "Cena",
-        "Elenco"
-      ]
-    },
-    {
-      "tema": "Termos Financeiros com Múltiplos Sentidos",
-      "palavras": [
-        "Câmbio",
-        "Moeda",
-        "Caixa",
-        "Trocado"
-      ]
-    },
-    {
-      "tema": "Materiais de Escrita e Arte",
+      "tema": "PARTES DE AVES",
       "palavras": [
         "Pena",
-        "Grafite",
-        "Pincel",
-        "Tinta"
+        "Asa",
+        "Bico",
+        "Pluma"
+      ]
+    },
+    {
+      "tema": "METAIS",
+      "palavras": [
+        "Cobre",
+        "Prata",
+        "Ouro",
+        "Ferro"
+      ]
+    },
+    {
+      "tema": "INSTRUMENTOS MUSICAIS",
+      "palavras": [
+        "Bateria",
+        "Pandeiro",
+        "Tambor",
+        "Gaita"
+      ]
+    },
+    {
+      "tema": "ELEMENTOS DE COMPOSIÇÃO OU ESTRUTURA",
+      "palavras": [
+        "Linha",
+        "Barra",
+        "Ritmo",
+        "Tom"
       ]
     }
   ],
-  "data": "2026-05-27"
+  "data": "2026-05-28"
 }
