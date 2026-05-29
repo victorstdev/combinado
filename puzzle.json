@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PARTES DE AVES",
+      "tema": "VERBOS EM TÍTULOS OU FRASES DE MÚSICAS DO CHICO BUARQUE",
       "palavras": [
-        "Pena",
-        "Asa",
-        "Bico",
-        "Pluma"
+        "CONSTRUIR",
+        "ACORDAR",
+        "APAGAR",
+        "CHAMAR"
       ]
     },
     {
-      "tema": "METAIS",
+      "tema": "AÇÕES CULINÁRIAS",
       "palavras": [
-        "Cobre",
-        "Prata",
-        "Ouro",
-        "Ferro"
+        "REFOGAR",
+        "TEMPERAR",
+        "FRITAR",
+        "RALAR"
       ]
     },
     {
-      "tema": "INSTRUMENTOS MUSICAIS",
+      "tema": "PEÇAS DE XADREZ COM OUTRO SIGNIFICADO COMUM",
       "palavras": [
-        "Bateria",
-        "Pandeiro",
-        "Tambor",
-        "Gaita"
+        "TORRE",
+        "BISPO",
+        "CAVALO",
+        "RAINHA"
       ]
     },
     {
-      "tema": "ELEMENTOS DE COMPOSIÇÃO OU ESTRUTURA",
+      "tema": "UNIDADES DE MEDIDA NÃO-MÉTRICAS",
       "palavras": [
-        "Linha",
-        "Barra",
-        "Ritmo",
-        "Tom"
+        "ARROBA",
+        "LÉGUA",
+        "BRAÇA",
+        "PALMO"
       ]
     }
   ],
-  "data": "2026-05-28"
+  "data": "2026-05-29"
 }
