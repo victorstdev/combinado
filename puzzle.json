@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "VERBOS EM TÍTULOS OU FRASES DE MÚSICAS DO CHICO BUARQUE",
+      "tema": "Instrumentos Musicais de Corda",
       "palavras": [
-        "CONSTRUIR",
-        "ACORDAR",
-        "APAGAR",
-        "CHAMAR"
+        "Alaúde",
+        "Cítara",
+        "Viola",
+        "Harpa"
       ]
     },
     {
-      "tema": "AÇÕES CULINÁRIAS",
+      "tema": "Componentes do Sistema de Transmissão Automotiva",
       "palavras": [
-        "REFOGAR",
-        "TEMPERAR",
-        "FRITAR",
-        "RALAR"
+        "Coroa",
+        "Embreagem",
+        "Diferencial",
+        "Caixa"
       ]
     },
     {
-      "tema": "PEÇAS DE XADREZ COM OUTRO SIGNIFICADO COMUM",
+      "tema": "Termos de Artes Marciais Japonesas",
       "palavras": [
-        "TORRE",
-        "BISPO",
-        "CAVALO",
-        "RAINHA"
+        "Kata",
+        "Dojo",
+        "Quimono",
+        "Nunchaku"
       ]
     },
     {
-      "tema": "UNIDADES DE MEDIDA NÃO-MÉTRICAS",
+      "tema": "Criaturas Mitológicas/Mágicas",
       "palavras": [
-        "ARROBA",
-        "LÉGUA",
-        "BRAÇA",
-        "PALMO"
+        "Grifo",
+        "Elfo",
+        "Duende",
+        "Fada"
       ]
     }
   ],
-  "data": "2026-05-29"
+  "data": "2026-05-30"
 }
