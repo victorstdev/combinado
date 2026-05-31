@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Instrumentos Musicais de Corda",
+      "tema": "Palavras Polissêmicas (Múltiplos Significados Comuns)",
       "palavras": [
-        "Alaúde",
-        "Cítara",
-        "Viola",
-        "Harpa"
+        "Manga",
+        "Cabo",
+        "Serra",
+        "Banco"
       ]
     },
     {
-      "tema": "Componentes do Sistema de Transmissão Automotiva",
+      "tema": "Coisas que se 'Pega' (usando o verbo 'pegar')",
       "palavras": [
-        "Coroa",
-        "Embreagem",
-        "Diferencial",
-        "Caixa"
+        "Gripe",
+        "Bronze",
+        "Ônibus",
+        "Fogo"
       ]
     },
     {
-      "tema": "Termos de Artes Marciais Japonesas",
+      "tema": "Elementos Essenciais da Música Clássica (não instrumentos)",
       "palavras": [
-        "Kata",
-        "Dojo",
-        "Quimono",
-        "Nunchaku"
+        "Maestro",
+        "Partitura",
+        "Ensaio",
+        "Concerto"
       ]
     },
     {
-      "tema": "Criaturas Mitológicas/Mágicas",
+      "tema": "Palavras que Podem Ser Precedidas por 'De Casa' ou 'Do Lar'",
       "palavras": [
-        "Grifo",
-        "Elfo",
-        "Duende",
-        "Fada"
+        "Trabalho",
+        "Tarefa",
+        "Artigo",
+        "Utensílio"
       ]
     }
   ],
-  "data": "2026-05-30"
+  "data": "2026-05-31"
 }
