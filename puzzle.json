@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Palavras Polissêmicas (Múltiplos Significados Comuns)",
+      "tema": "Termos de Navegação",
       "palavras": [
-        "Manga",
-        "Cabo",
-        "Serra",
-        "Banco"
+        "Convés",
+        "Quilha",
+        "Bujarrona",
+        "Calado"
       ]
     },
     {
-      "tema": "Coisas que se 'Pega' (usando o verbo 'pegar')",
+      "tema": "Técnicas Culinárias",
       "palavras": [
-        "Gripe",
-        "Bronze",
-        "Ônibus",
-        "Fogo"
+        "Branquear",
+        "Reduzir",
+        "Confitar",
+        "Emulsionar"
       ]
     },
     {
-      "tema": "Elementos Essenciais da Música Clássica (não instrumentos)",
+      "tema": "Expressões com 'Mão'",
       "palavras": [
-        "Maestro",
-        "Partitura",
-        "Ensaio",
-        "Concerto"
+        "Mão-de-obra",
+        "Mão-franca",
+        "Mão-pesada",
+        "Mão-beijada"
       ]
     },
     {
-      "tema": "Palavras que Podem Ser Precedidas por 'De Casa' ou 'Do Lar'",
+      "tema": "Tipos de Vento ou Brisa",
       "palavras": [
-        "Trabalho",
-        "Tarefa",
-        "Artigo",
-        "Utensílio"
+        "Minuano",
+        "Viração",
+        "Aragem",
+        "Brisa"
       ]
     }
   ],
-  "data": "2026-05-31"
+  "data": "2026-06-01"
 }
