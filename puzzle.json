@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Navegação",
+      "tema": "Animais Brasileiros de 'Mata'",
       "palavras": [
-        "Convés",
-        "Quilha",
-        "Bujarrona",
-        "Calado"
+        "Anta",
+        "Jaguatirica",
+        "Bugio",
+        "Mico"
       ]
     },
     {
-      "tema": "Técnicas Culinárias",
+      "tema": "Verbos de Emissão ou Fluxo",
       "palavras": [
-        "Branquear",
-        "Reduzir",
-        "Confitar",
-        "Emulsionar"
+        "Verter",
+        "Irromper",
+        "Manar",
+        "Emanar"
       ]
     },
     {
-      "tema": "Expressões com 'Mão'",
+      "tema": "Termos Precedidos por 'Pé de...'",
       "palavras": [
-        "Mão-de-obra",
-        "Mão-franca",
-        "Mão-pesada",
-        "Mão-beijada"
+        "Cana",
+        "Galinha",
+        "Frango",
+        "Moleque"
       ]
     },
     {
-      "tema": "Tipos de Vento ou Brisa",
+      "tema": "Categorias Gramaticais Verbais",
       "palavras": [
-        "Minuano",
-        "Viração",
-        "Aragem",
-        "Brisa"
+        "Voz",
+        "Modo",
+        "Tempo",
+        "Pessoa"
       ]
     }
   ],
-  "data": "2026-06-01"
+  "data": "2026-06-02"
 }
