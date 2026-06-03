@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Animais Brasileiros de 'Mata'",
+      "tema": "Componentes de Escola de Samba",
       "palavras": [
-        "Anta",
-        "Jaguatirica",
-        "Bugio",
-        "Mico"
+        "Passista",
+        "Ala",
+        "Harmonia",
+        "Bateria"
       ]
     },
     {
-      "tema": "Verbos de Emissão ou Fluxo",
+      "tema": "Nomes de Pássaros (também com outros significados)",
       "palavras": [
-        "Verter",
-        "Irromper",
-        "Manar",
-        "Emanar"
+        "Pardal",
+        "Corvo",
+        "Gaivota",
+        "Andorinha"
       ]
     },
     {
-      "tema": "Termos Precedidos por 'Pé de...'",
+      "tema": "Termos Culinários (Técnicos/Estrangeiros)",
       "palavras": [
-        "Cana",
-        "Galinha",
-        "Frango",
-        "Moleque"
+        "Coulis",
+        "Rondelle",
+        "Mirepoix",
+        "Zest"
       ]
     },
     {
-      "tema": "Categorias Gramaticais Verbais",
+      "tema": "Elementos da Arquitetura/Construção Civil",
       "palavras": [
-        "Voz",
-        "Modo",
-        "Tempo",
-        "Pessoa"
+        "Cumeeira",
+        "Baldrame",
+        "Platibanda",
+        "Rodapé"
       ]
     }
   ],
-  "data": "2026-06-02"
+  "data": "2026-06-03"
 }
