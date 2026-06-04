@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes de Escola de Samba",
+      "tema": "Verbos que Indicam Desvio de Trajetória ou Posição",
       "palavras": [
-        "Passista",
-        "Ala",
-        "Harmonia",
-        "Bateria"
+        "Divergir",
+        "Deslocar",
+        "Infletir",
+        "Refratar"
       ]
     },
     {
-      "tema": "Nomes de Pássaros (também com outros significados)",
+      "tema": "Conceitos de Movimento Contínuo ou Cíclico",
       "palavras": [
-        "Pardal",
-        "Corvo",
-        "Gaivota",
-        "Andorinha"
+        "Fluxo",
+        "Vortex",
+        "Corrente",
+        "Maré"
       ]
     },
     {
-      "tema": "Termos Culinários (Técnicos/Estrangeiros)",
+      "tema": "Camadas ou Revestimentos Finos",
       "palavras": [
-        "Coulis",
-        "Rondelle",
-        "Mirepoix",
-        "Zest"
+        "Manto",
+        "Película",
+        "Verniz",
+        "Casca"
       ]
     },
     {
-      "tema": "Elementos da Arquitetura/Construção Civil",
+      "tema": "Estruturas que Delimitam ou Contêm",
       "palavras": [
-        "Cumeeira",
-        "Baldrame",
-        "Platibanda",
-        "Rodapé"
+        "Caixa",
+        "Moldura",
+        "Gabarito",
+        "Cercado"
       ]
     }
   ],
-  "data": "2026-06-03"
+  "data": "2026-06-04"
 }
