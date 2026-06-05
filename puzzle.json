@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Verbos que Indicam Desvio de Trajetória ou Posição",
+      "tema": "Componentes de Arma de Fogo",
       "palavras": [
-        "Divergir",
-        "Deslocar",
-        "Infletir",
-        "Refratar"
+        "Gatilho",
+        "Coronha",
+        "Cano",
+        "Carregador"
       ]
     },
     {
-      "tema": "Conceitos de Movimento Contínuo ou Cíclico",
+      "tema": "Técnicas Culinárias",
       "palavras": [
-        "Fluxo",
-        "Vortex",
-        "Corrente",
-        "Maré"
+        "Deglaçar",
+        "Branquear",
+        "Emulsionar",
+        "Saltear"
       ]
     },
     {
-      "tema": "Camadas ou Revestimentos Finos",
+      "tema": "Seres Míticos Tupi-Guarani",
       "palavras": [
-        "Manto",
-        "Película",
-        "Verniz",
-        "Casca"
+        "Iara",
+        "Jaci",
+        "Curupira",
+        "Guaraci"
       ]
     },
     {
-      "tema": "Estruturas que Delimitam ou Contêm",
+      "tema": "Verbo 'Quebrar' (Sentido Figurado)",
       "palavras": [
-        "Caixa",
-        "Moldura",
-        "Gabarito",
-        "Cercado"
+        "Gelo",
+        "Recorde",
+        "Barreiras",
+        "Silêncio"
       ]
     }
   ],
-  "data": "2026-06-04"
+  "data": "2026-06-05"
 }
