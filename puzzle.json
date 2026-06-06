@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes de Arma de Fogo",
-      "palavras": [
-        "Gatilho",
-        "Coronha",
-        "Cano",
-        "Carregador"
-      ]
-    },
-    {
       "tema": "Técnicas Culinárias",
       "palavras": [
-        "Deglaçar",
         "Branquear",
-        "Emulsionar",
-        "Saltear"
+        "Saltear",
+        "Reduzir",
+        "Empratar"
       ]
     },
     {
-      "tema": "Seres Míticos Tupi-Guarani",
+      "tema": "Termos Contábeis",
       "palavras": [
-        "Iara",
-        "Jaci",
-        "Curupira",
-        "Guaraci"
+        "Ativo",
+        "Passivo",
+        "Débito",
+        "Crédito"
       ]
     },
     {
-      "tema": "Verbo 'Quebrar' (Sentido Figurado)",
+      "tema": "Grandes Períodos de Tempo",
       "palavras": [
-        "Gelo",
-        "Recorde",
-        "Barreiras",
-        "Silêncio"
+        "Época",
+        "Era",
+        "Século",
+        "Milênio"
+      ]
+    },
+    {
+      "tema": "Seções de um Jornal",
+      "palavras": [
+        "Editorial",
+        "Manchete",
+        "Coluna",
+        "Caderno"
       ]
     }
   ],
-  "data": "2026-06-05"
+  "data": "2026-06-06"
 }
