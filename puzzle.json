@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Técnicas Culinárias",
+      "tema": "Fenômenos Atmosféricos e Naturais",
       "palavras": [
-        "Branquear",
-        "Saltear",
-        "Reduzir",
-        "Empratar"
+        "CICLONE",
+        "MONÇÃO",
+        "BRISA",
+        "AURORA"
       ]
     },
     {
-      "tema": "Termos Contábeis",
+      "tema": "Termos de Tecelagem e Costura",
       "palavras": [
-        "Ativo",
-        "Passivo",
-        "Débito",
-        "Crédito"
+        "TRAMA",
+        "URDIDURA",
+        "BAINHA",
+        "FIAPO"
       ]
     },
     {
-      "tema": "Grandes Períodos de Tempo",
+      "tema": "Verbos de Separar/Dividir",
       "palavras": [
-        "Época",
-        "Era",
-        "Século",
-        "Milênio"
+        "DISSOCIAR",
+        "SEGREGAR",
+        "RAMIFICAR",
+        "DESMEMBRAR"
       ]
     },
     {
-      "tema": "Seções de um Jornal",
+      "tema": "Elementos da Teoria Musical",
       "palavras": [
-        "Editorial",
-        "Manchete",
-        "Coluna",
-        "Caderno"
+        "ACORDE",
+        "PAUTA",
+        "DIAPASÃO",
+        "CADÊNCIA"
       ]
     }
   ],
-  "data": "2026-06-06"
+  "data": "2026-06-08"
 }
