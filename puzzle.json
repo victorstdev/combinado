@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Fenômenos Atmosféricos e Naturais",
+      "tema": "Componentes Estruturais Verticais",
       "palavras": [
-        "CICLONE",
-        "MONÇÃO",
-        "BRISA",
-        "AURORA"
+        "Esteio",
+        "Pilar",
+        "Fuste",
+        "Moirão"
       ]
     },
     {
-      "tema": "Termos de Tecelagem e Costura",
+      "tema": "Termos de Embarcações Antigas ou Vela",
       "palavras": [
-        "TRAMA",
-        "URDIDURA",
-        "BAINHA",
-        "FIAPO"
+        "Sextante",
+        "Adriça",
+        "Verga",
+        "Leme"
       ]
     },
     {
-      "tema": "Verbos de Separar/Dividir",
+      "tema": "Palavras com Sufixo Amplificativo ou Depreciativo (-aço/-aça)",
       "palavras": [
-        "DISSOCIAR",
-        "SEGREGAR",
-        "RAMIFICAR",
-        "DESMEMBRAR"
+        "Barcaça",
+        "Corpaço",
+        "Rolaço",
+        "Mulheraça"
       ]
     },
     {
-      "tema": "Elementos da Teoria Musical",
+      "tema": "Elementos Característicos de Biomas Áridos",
       "palavras": [
-        "ACORDE",
-        "PAUTA",
-        "DIAPASÃO",
-        "CADÊNCIA"
+        "Oásis",
+        "Duna",
+        "Miragem",
+        "Cacto"
       ]
     }
   ],
-  "data": "2026-06-08"
+  "data": "2026-06-09"
 }
