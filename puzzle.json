@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes Estruturais Verticais",
+      "tema": "Coisas que se Quebram (sentido figurado ou literal)",
       "palavras": [
-        "Esteio",
-        "Pilar",
-        "Fuste",
-        "Moirão"
+        "Gelo",
+        "Silêncio",
+        "Onda",
+        "Galho"
       ]
     },
     {
-      "tema": "Termos de Embarcações Antigas ou Vela",
+      "tema": "Qualidades da Voz ou do Som",
       "palavras": [
-        "Sextante",
-        "Adriça",
-        "Verga",
-        "Leme"
+        "Agudo",
+        "Rauca",
+        "Baixo",
+        "Tenor"
       ]
     },
     {
-      "tema": "Palavras com Sufixo Amplificativo ou Depreciativo (-aço/-aça)",
+      "tema": "Conceitos de Duração e Constância",
       "palavras": [
-        "Barcaça",
-        "Corpaço",
-        "Rolaço",
-        "Mulheraça"
+        "Instantâneo",
+        "Prorrogação",
+        "Efêmero",
+        "Perene"
       ]
     },
     {
-      "tema": "Elementos Característicos de Biomas Áridos",
+      "tema": "Fenômenos de Propagação ou Alastramento",
       "palavras": [
-        "Oásis",
-        "Duna",
-        "Miragem",
-        "Cacto"
+        "Vírus",
+        "Boato",
+        "Mancha",
+        "Fogo"
       ]
     }
   ],
-  "data": "2026-06-09"
+  "data": "2026-06-10"
 }
