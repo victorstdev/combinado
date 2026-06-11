@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Coisas que se Quebram (sentido figurado ou literal)",
+      "tema": "Partes de Instrumentos de Corda",
       "palavras": [
-        "Gelo",
-        "Silêncio",
-        "Onda",
-        "Galho"
+        "Traste",
+        "Pestana",
+        "Cavalete",
+        "Tarraxa"
       ]
     },
     {
-      "tema": "Qualidades da Voz ou do Som",
+      "tema": "Verbos de Manipulação de Materiais",
       "palavras": [
-        "Agudo",
-        "Rauca",
-        "Baixo",
-        "Tenor"
+        "Amassar",
+        "Sovar",
+        "Modelar",
+        "Compactar"
       ]
     },
     {
-      "tema": "Conceitos de Duração e Constância",
+      "tema": "Termos do Jogo de Xadrez",
       "palavras": [
-        "Instantâneo",
-        "Prorrogação",
-        "Efêmero",
-        "Perene"
+        "Roque",
+        "Gambito",
+        "Xeque",
+        "Afogado"
       ]
     },
     {
-      "tema": "Fenômenos de Propagação ou Alastramento",
+      "tema": "Conceitos de Direção ou Percurso",
       "palavras": [
-        "Vírus",
-        "Boato",
-        "Mancha",
-        "Fogo"
+        "Trilho",
+        "Rumo",
+        "Vereda",
+        "Traço"
       ]
     }
   ],
-  "data": "2026-06-10"
+  "data": "2026-06-11"
 }
