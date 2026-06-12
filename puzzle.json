@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de Instrumentos de Corda",
+      "tema": "Estruturas Navais Essenciais",
       "palavras": [
-        "Traste",
-        "Pestana",
-        "Cavalete",
-        "Tarraxa"
+        "Proa",
+        "Popa",
+        "Quilha",
+        "Leme"
       ]
     },
     {
-      "tema": "Verbos de Manipulação de Materiais",
+      "tema": "Pilares da Lógica Formal",
       "palavras": [
-        "Amassar",
-        "Sovar",
-        "Modelar",
-        "Compactar"
+        "Silogismo",
+        "Sofisma",
+        "Paradoxo",
+        "Falácia"
       ]
     },
     {
-      "tema": "Termos do Jogo de Xadrez",
+      "tema": "Elementos Fundamentais da Música",
       "palavras": [
-        "Roque",
-        "Gambito",
-        "Xeque",
-        "Afogado"
+        "Compasso",
+        "Harmonia",
+        "Melodia",
+        "Ritmo"
       ]
     },
     {
-      "tema": "Conceitos de Direção ou Percurso",
+      "tema": "Componentes de Armas de Fogo",
       "palavras": [
-        "Trilho",
-        "Rumo",
-        "Vereda",
-        "Traço"
+        "Cano",
+        "Gatilho",
+        "Culatra",
+        "Tambor"
       ]
     }
   ],
-  "data": "2026-06-11"
+  "data": "2026-06-12"
 }
