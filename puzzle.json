@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Estruturas Navais Essenciais",
+      "tema": "Unidades de Medida Não-Métricas",
       "palavras": [
-        "Proa",
-        "Popa",
-        "Quilha",
-        "Leme"
+        "Braça",
+        "Alqueire",
+        "Jarda",
+        "Quilate"
       ]
     },
     {
-      "tema": "Pilares da Lógica Formal",
+      "tema": "Conceitos Que Podem Ser Quebrados",
       "palavras": [
-        "Silogismo",
-        "Sofisma",
-        "Paradoxo",
-        "Falácia"
+        "Regra",
+        "Silêncio",
+        "Gelo",
+        "Recorde"
       ]
     },
     {
-      "tema": "Elementos Fundamentais da Música",
+      "tema": "Substantivos Associados à Ação de 'Virar'",
       "palavras": [
-        "Compasso",
-        "Harmonia",
-        "Melodia",
-        "Ritmo"
+        "Vento",
+        "Mar",
+        "Tempo",
+        "Folha"
       ]
     },
     {
-      "tema": "Componentes de Armas de Fogo",
+      "tema": "Termos Relacionados à Água ou Seu Movimento",
       "palavras": [
-        "Cano",
-        "Gatilho",
-        "Culatra",
-        "Tambor"
+        "Vazante",
+        "Verter",
+        "Efluente",
+        "Aguaceiro"
       ]
     }
   ],
-  "data": "2026-06-12"
+  "data": "2026-06-13"
 }
