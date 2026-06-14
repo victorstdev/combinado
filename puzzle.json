@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Unidades de Medida Não-Métricas",
+      "tema": "Partes de Instrumentos Musicais",
       "palavras": [
-        "Braça",
-        "Alqueire",
-        "Jarda",
-        "Quilate"
+        "Braço",
+        "Tampo",
+        "Pele",
+        "Boquilha"
       ]
     },
     {
-      "tema": "Conceitos Que Podem Ser Quebrados",
+      "tema": "Técnicas Culinárias",
       "palavras": [
-        "Regra",
-        "Silêncio",
-        "Gelo",
-        "Recorde"
+        "Saltear",
+        "Branquear",
+        "Reduzir",
+        "Marinar"
       ]
     },
     {
-      "tema": "Substantivos Associados à Ação de 'Virar'",
+      "tema": "Componentes de uma Carta ou Mensagem Formal",
       "palavras": [
-        "Vento",
-        "Mar",
-        "Tempo",
-        "Folha"
+        "Timbre",
+        "Corpo",
+        "Destinatário",
+        "Saudação"
       ]
     },
     {
-      "tema": "Termos Relacionados à Água ou Seu Movimento",
+      "tema": "Expressões Comuns com a Palavra 'Mão'",
       "palavras": [
-        "Vazante",
-        "Verter",
-        "Efluente",
-        "Aguaceiro"
+        "Mão-boba",
+        "Mão-inglesa",
+        "Mão-cheia",
+        "Mão-de-obra"
       ]
     }
   ],
-  "data": "2026-06-13"
+  "data": "2026-06-14"
 }
