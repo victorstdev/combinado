@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de Instrumentos Musicais",
+      "tema": "Partes e Seções de um Livro",
       "palavras": [
-        "Braço",
-        "Tampo",
-        "Pele",
-        "Boquilha"
+        "Prefácio",
+        "Capítulos",
+        "Glossário",
+        "Apêndice"
       ]
     },
     {
-      "tema": "Técnicas Culinárias",
+      "tema": "Doces que Também São Outras Coisas",
       "palavras": [
-        "Saltear",
-        "Branquear",
-        "Reduzir",
-        "Marinar"
+        "Brigadeiro",
+        "Suspiro",
+        "Ambrosia",
+        "Romeu"
       ]
     },
     {
-      "tema": "Componentes de uma Carta ou Mensagem Formal",
+      "tema": "Termos de Jogos de Cartas",
       "palavras": [
-        "Timbre",
-        "Corpo",
-        "Destinatário",
-        "Saudação"
+        "Curinga",
+        "Trunfo",
+        "Vaza",
+        "Naipe"
       ]
     },
     {
-      "tema": "Expressões Comuns com a Palavra 'Mão'",
+      "tema": "Início de Expressões Populares Brasileiras",
       "palavras": [
-        "Mão-boba",
-        "Mão-inglesa",
-        "Mão-cheia",
-        "Mão-de-obra"
+        "Bola",
+        "Sal",
+        "Gato",
+        "Sete"
       ]
     }
   ],
-  "data": "2026-06-14"
+  "data": "2026-06-15"
 }
