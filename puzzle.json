@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes e Seções de um Livro",
+      "tema": "Figuras de Linguagem",
       "palavras": [
-        "Prefácio",
-        "Capítulos",
-        "Glossário",
-        "Apêndice"
+        "Silepse",
+        "Pleonasmo",
+        "Metonímia",
+        "Sinestesia"
       ]
     },
     {
-      "tema": "Doces que Também São Outras Coisas",
+      "tema": "Doces Brasileiros com Nomes Incomuns",
       "palavras": [
-        "Brigadeiro",
-        "Suspiro",
-        "Ambrosia",
-        "Romeu"
+        "Olho-de-sogra",
+        "Beijo-de-moça",
+        "Barriga-de-freira",
+        "Bolo-de-rolo"
       ]
     },
     {
-      "tema": "Termos de Jogos de Cartas",
+      "tema": "Antigas Unidades de Medida",
       "palavras": [
-        "Curinga",
-        "Trunfo",
-        "Vaza",
-        "Naipe"
+        "Légua",
+        "Alqueire",
+        "Braça",
+        "Quintal"
       ]
     },
     {
-      "tema": "Início de Expressões Populares Brasileiras",
+      "tema": "Termos Náuticos Específicos",
       "palavras": [
-        "Bola",
-        "Sal",
-        "Gato",
-        "Sete"
+        "Boça",
+        "Lastro",
+        "Convés",
+        "Sotavento"
       ]
     }
   ],
-  "data": "2026-06-15"
+  "data": "2026-06-16"
 }
