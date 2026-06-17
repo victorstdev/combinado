@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Figuras de Linguagem",
+      "tema": "Ações de Divisão ou Remoção",
       "palavras": [
-        "Silepse",
-        "Pleonasmo",
-        "Metonímia",
-        "Sinestesia"
+        "LASCAR",
+        "FENDER",
+        "DECAPAR",
+        "CINDÍR"
       ]
     },
     {
-      "tema": "Doces Brasileiros com Nomes Incomuns",
+      "tema": "Conceitos de Duração ou Período",
       "palavras": [
-        "Olho-de-sogra",
-        "Beijo-de-moça",
-        "Barriga-de-freira",
-        "Bolo-de-rolo"
+        "ÉON",
+        "LAPSO",
+        "CRONO",
+        "SEGUNDO"
       ]
     },
     {
-      "tema": "Antigas Unidades de Medida",
+      "tema": "Qualidades de Textura e Sabor/Sensação",
       "palavras": [
-        "Légua",
-        "Alqueire",
-        "Braça",
-        "Quintal"
+        "RUGOSO",
+        "VISCOSO",
+        "MELÍFLUO",
+        "ASTRINGENTE"
       ]
     },
     {
-      "tema": "Termos Náuticos Específicos",
+      "tema": "Termos do Universo Aéreo",
       "palavras": [
-        "Boça",
-        "Lastro",
-        "Convés",
-        "Sotavento"
+        "PLANAR",
+        "ZÉFIR",
+        "ESTOL",
+        "AERÓLITO"
       ]
     }
   ],
-  "data": "2026-06-16"
+  "data": "2026-06-17"
 }
