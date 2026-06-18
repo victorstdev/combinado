@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Ações de Divisão ou Remoção",
+      "tema": "Elementos com Nomes Celestes ou Divinos",
       "palavras": [
-        "LASCAR",
-        "FENDER",
-        "DECAPAR",
-        "CINDÍR"
+        "Urânio",
+        "Netúnio",
+        "Plutônio",
+        "Mercúrio"
       ]
     },
     {
-      "tema": "Conceitos de Duração ou Período",
+      "tema": "Componentes de Armas de Fogo",
       "palavras": [
-        "ÉON",
-        "LAPSO",
-        "CRONO",
-        "SEGUNDO"
+        "Coronha",
+        "Cano",
+        "Gatilho",
+        "Tambor"
       ]
     },
     {
-      "tema": "Qualidades de Textura e Sabor/Sensação",
+      "tema": "Expressões Idiomáticas com 'Mão'",
       "palavras": [
-        "RUGOSO",
-        "VISCOSO",
-        "MELÍFLUO",
-        "ASTRINGENTE"
+        "Mão-santa",
+        "Mão-de-ferro",
+        "Mão-aberta",
+        "Mão-na-roda"
       ]
     },
     {
-      "tema": "Termos do Universo Aéreo",
+      "tema": "Partes de uma Embarcação",
       "palavras": [
-        "PLANAR",
-        "ZÉFIR",
-        "ESTOL",
-        "AERÓLITO"
+        "Proa",
+        "Popa",
+        "Quilha",
+        "Leme"
       ]
     }
   ],
-  "data": "2026-06-17"
+  "data": "2026-06-18"
 }
