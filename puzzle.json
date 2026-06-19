@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos com Nomes Celestes ou Divinos",
+      "tema": "AÇÕES CULINÁRIAS",
       "palavras": [
-        "Urânio",
-        "Netúnio",
-        "Plutônio",
-        "Mercúrio"
+        "Assar",
+        "Picar",
+        "Bater",
+        "Cortar"
       ]
     },
     {
-      "tema": "Componentes de Armas de Fogo",
+      "tema": "ELEMENTOS DE NARRATIVA",
       "palavras": [
-        "Coronha",
-        "Cano",
-        "Gatilho",
-        "Tambor"
+        "Enredo",
+        "Clímax",
+        "Personagem",
+        "Conflito"
       ]
     },
     {
-      "tema": "Expressões Idiomáticas com 'Mão'",
+      "tema": "PALAVRAS COM DUPLO SENTIDO (VERBO/SUBSTANTIVO)",
       "palavras": [
-        "Mão-santa",
-        "Mão-de-ferro",
-        "Mão-aberta",
-        "Mão-na-roda"
+        "Canto",
+        "Gosto",
+        "Jogo",
+        "Apoio"
       ]
     },
     {
-      "tema": "Partes de uma Embarcação",
+      "tema": "CONCEITOS DE ORIENTAÇÃO ESPACIAL",
       "palavras": [
-        "Proa",
-        "Popa",
-        "Quilha",
-        "Leme"
+        "Latitude",
+        "Bússola",
+        "Norte",
+        "Rumo"
       ]
     }
   ],
-  "data": "2026-06-18"
+  "data": "2026-06-19"
 }
