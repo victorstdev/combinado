@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "AÇÕES CULINÁRIAS",
+      "tema": "Peças de Xadrez",
       "palavras": [
-        "Assar",
-        "Picar",
-        "Bater",
-        "Cortar"
+        "Rei",
+        "Rainha",
+        "Torre",
+        "Peão"
       ]
     },
     {
-      "tema": "ELEMENTOS DE NARRATIVA",
+      "tema": "Elementos da Realeza e Corte",
       "palavras": [
-        "Enredo",
-        "Clímax",
-        "Personagem",
-        "Conflito"
+        "Coroa",
+        "Cetro",
+        "Trono",
+        "Súdito"
       ]
     },
     {
-      "tema": "PALAVRAS COM DUPLO SENTIDO (VERBO/SUBSTANTIVO)",
+      "tema": "Tipos de Manga (vestuário)",
       "palavras": [
-        "Canto",
-        "Gosto",
-        "Jogo",
-        "Apoio"
+        "Morcego",
+        "Japonesa",
+        "Bufante",
+        "Raglã"
       ]
     },
     {
-      "tema": "CONCEITOS DE ORIENTAÇÃO ESPACIAL",
+      "tema": "Tons de Cores",
       "palavras": [
-        "Latitude",
-        "Bússola",
-        "Norte",
-        "Rumo"
+        "Carmim",
+        "Lilás",
+        "Bordô",
+        "Púrpura"
       ]
     }
   ],
-  "data": "2026-06-19"
+  "data": "2026-06-20"
 }
