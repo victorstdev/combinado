@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Peças de Xadrez",
+      "tema": "Processos Culinários Específicos",
       "palavras": [
-        "Rei",
-        "Rainha",
-        "Torre",
-        "Peão"
+        "Decantar",
+        "Branquear",
+        "Emulsionar",
+        "Macerar"
       ]
     },
     {
-      "tema": "Elementos da Realeza e Corte",
+      "tema": "Elementos Arquitetônicos Clássicos",
       "palavras": [
-        "Coroa",
-        "Cetro",
-        "Trono",
-        "Súdito"
+        "Cornija",
+        "Abóbada",
+        "Frontão",
+        "Pilar"
       ]
     },
     {
-      "tema": "Tipos de Manga (vestuário)",
+      "tema": "Instrumentos Musicais Pouco Convencionais",
       "palavras": [
-        "Morcego",
-        "Japonesa",
-        "Bufante",
-        "Raglã"
+        "Cravo",
+        "Tamborim",
+        "Rabeca",
+        "Birimbau"
       ]
     },
     {
-      "tema": "Tons de Cores",
+      "tema": "Partes e Termos de Embarcações",
       "palavras": [
-        "Carmim",
-        "Lilás",
-        "Bordô",
-        "Púrpura"
+        "Proa",
+        "Quilha",
+        "Calado",
+        "Estibordo"
       ]
     }
   ],
-  "data": "2026-06-20"
+  "data": "2026-06-21"
 }
