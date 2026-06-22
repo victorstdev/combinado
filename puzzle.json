@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Processos Culinários Específicos",
+      "tema": "Elementos de Jogo ou Disputa",
       "palavras": [
-        "Decantar",
-        "Branquear",
-        "Emulsionar",
-        "Macerar"
+        "ÁRBITRO",
+        "CARTADA",
+        "LANCE",
+        "DESEMPATE"
       ]
     },
     {
-      "tema": "Elementos Arquitetônicos Clássicos",
+      "tema": "Verbos de Separação ou Distanciamento",
       "palavras": [
-        "Cornija",
-        "Abóbada",
-        "Frontão",
-        "Pilar"
+        "AFASTAR",
+        "DIVIDIR",
+        "ISOLAR",
+        "DISPERSAR"
       ]
     },
     {
-      "tema": "Instrumentos Musicais Pouco Convencionais",
+      "tema": "Componentes Estruturais de Construção",
       "palavras": [
-        "Cravo",
-        "Tamborim",
-        "Rabeca",
-        "Birimbau"
+        "VIGA",
+        "PILAR",
+        "TELHADO",
+        "ALICERCE"
       ]
     },
     {
-      "tema": "Partes e Termos de Embarcações",
+      "tema": "Expressões Idiomáticas com 'Mão' (ou adjetivos relacionados)",
       "palavras": [
-        "Proa",
-        "Quilha",
-        "Calado",
-        "Estibordo"
+        "DIREITA",
+        "LAVADA",
+        "MORTA",
+        "LEVE"
       ]
     }
   ],
-  "data": "2026-06-21"
+  "data": "2026-06-22"
 }
