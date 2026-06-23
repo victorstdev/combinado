@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos de Jogo ou Disputa",
+      "tema": "Padrões de Interface de Hardware",
       "palavras": [
-        "ÁRBITRO",
-        "CARTADA",
-        "LANCE",
-        "DESEMPATE"
+        "USB",
+        "HDMI",
+        "PCI",
+        "SATA"
       ]
     },
     {
-      "tema": "Verbos de Separação ou Distanciamento",
+      "tema": "Cidades Brasileiras Homônimas de Substantivos Comuns",
       "palavras": [
-        "AFASTAR",
-        "DIVIDIR",
-        "ISOLAR",
-        "DISPERSAR"
+        "Serra",
+        "Cachoeira",
+        "Prata",
+        "Rio"
       ]
     },
     {
-      "tema": "Componentes Estruturais de Construção",
+      "tema": "Unidades de Medida Históricas ou Regionais",
       "palavras": [
-        "VIGA",
-        "PILAR",
-        "TELHADO",
-        "ALICERCE"
+        "Légua",
+        "Arroba",
+        "Alqueire",
+        "Braça"
       ]
     },
     {
-      "tema": "Expressões Idiomáticas com 'Mão' (ou adjetivos relacionados)",
+      "tema": "Termos para Agrupamentos ou Conjuntos",
       "palavras": [
-        "DIREITA",
-        "LAVADA",
-        "MORTA",
-        "LEVE"
+        "Pilha",
+        "Cacho",
+        "Nuvem",
+        "Cardume"
       ]
     }
   ],
-  "data": "2026-06-22"
+  "data": "2026-06-23"
 }
