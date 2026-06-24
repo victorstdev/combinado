@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Padrões de Interface de Hardware",
+      "tema": "Termos de Xadrez",
       "palavras": [
-        "USB",
-        "HDMI",
-        "PCI",
-        "SATA"
+        "Roque",
+        "Xeque",
+        "Gambito",
+        "Mate"
       ]
     },
     {
-      "tema": "Cidades Brasileiras Homônimas de Substantivos Comuns",
+      "tema": "Expressões compostas com 'Pé'",
       "palavras": [
-        "Serra",
-        "Cachoeira",
-        "Prata",
-        "Rio"
+        "Pé-direito",
+        "Pé-de-cabra",
+        "Pé-frio",
+        "Pé-rapado"
       ]
     },
     {
-      "tema": "Unidades de Medida Históricas ou Regionais",
+      "tema": "Coisas que 'Estouram'",
       "palavras": [
-        "Légua",
-        "Arroba",
-        "Alqueire",
-        "Braça"
+        "Bolha",
+        "Bomba",
+        "Pipoca",
+        "Champanhe"
       ]
     },
     {
-      "tema": "Termos para Agrupamentos ou Conjuntos",
+      "tema": "Termos de Construção com Sentido Figurado",
       "palavras": [
-        "Pilha",
-        "Cacho",
-        "Nuvem",
-        "Cardume"
+        "Alicerce",
+        "Viga",
+        "Caibro",
+        "Nível"
       ]
     }
   ],
-  "data": "2026-06-23"
+  "data": "2026-06-24"
 }
