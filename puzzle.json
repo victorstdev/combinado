@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Xadrez",
+      "tema": "Condições de Ausência ou Abertura",
       "palavras": [
-        "Roque",
-        "Xeque",
-        "Gambito",
-        "Mate"
+        "Brecha",
+        "Vazio",
+        "Oco",
+        "Furo"
       ]
     },
     {
-      "tema": "Expressões compostas com 'Pé'",
+      "tema": "Partes de uma Obra ou Composição",
       "palavras": [
-        "Pé-direito",
-        "Pé-de-cabra",
-        "Pé-frio",
-        "Pé-rapado"
+        "Refrão",
+        "Enredo",
+        "Verso",
+        "Estrofe"
       ]
     },
     {
-      "tema": "Coisas que 'Estouram'",
+      "tema": "Marcas Gráficas ou Linhas",
       "palavras": [
-        "Bolha",
-        "Bomba",
-        "Pipoca",
-        "Champanhe"
+        "Traço",
+        "Risco",
+        "Ponto",
+        "Fio"
       ]
     },
     {
-      "tema": "Termos de Construção com Sentido Figurado",
+      "tema": "Superfícies de Apoio ou Estruturas Planas",
       "palavras": [
-        "Alicerce",
-        "Viga",
-        "Caibro",
-        "Nível"
+        "Tábua",
+        "Bandeja",
+        "Chapa",
+        "Base"
       ]
     }
   ],
-  "data": "2026-06-24"
+  "data": "2026-06-25"
 }
