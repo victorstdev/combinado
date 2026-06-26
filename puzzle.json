@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Condições de Ausência ou Abertura",
+      "tema": "Ferramentas e Ações de Jardinagem",
       "palavras": [
-        "Brecha",
-        "Vazio",
-        "Oco",
-        "Furo"
+        "Poda",
+        "Enxada",
+        "Sementeira",
+        "Regador"
       ]
     },
     {
-      "tema": "Partes de uma Obra ou Composição",
+      "tema": "Componentes de uma Obra Musical",
       "palavras": [
         "Refrão",
-        "Enredo",
-        "Verso",
-        "Estrofe"
+        "Estrofe",
+        "Ponte",
+        "Cifra"
       ]
     },
     {
-      "tema": "Marcas Gráficas ou Linhas",
+      "tema": "Estruturas de Captura ou Restrição",
       "palavras": [
-        "Traço",
-        "Risco",
-        "Ponto",
-        "Fio"
+        "Armadilha",
+        "Grade",
+        "Cerca",
+        "Laço"
       ]
     },
     {
-      "tema": "Superfícies de Apoio ou Estruturas Planas",
+      "tema": "Qualidades de Movimento Rápido",
       "palavras": [
-        "Tábua",
-        "Bandeja",
-        "Chapa",
-        "Base"
+        "Arrancada",
+        "Voo",
+        "Disparada",
+        "Ímpeto"
       ]
     }
   ],
-  "data": "2026-06-25"
+  "data": "2026-06-26"
 }
