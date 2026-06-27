@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Ferramentas e Ações de Jardinagem",
+      "tema": "Palavras com Múltiplos Sentidos",
       "palavras": [
-        "Poda",
-        "Enxada",
-        "Sementeira",
-        "Regador"
+        "Manga",
+        "Lima",
+        "Cobra",
+        "Bateria"
       ]
     },
     {
-      "tema": "Componentes de uma Obra Musical",
+      "tema": "Acessórios de Costura",
       "palavras": [
-        "Refrão",
-        "Estrofe",
-        "Ponte",
-        "Cifra"
+        "Linha",
+        "Agulha",
+        "Tecido",
+        "Alfinete"
       ]
     },
     {
-      "tema": "Estruturas de Captura ou Restrição",
+      "tema": "Expressões e Objetos que Incluem 'Pé'",
       "palavras": [
-        "Armadilha",
-        "Grade",
-        "Cerca",
-        "Laço"
+        "Pé de moleque",
+        "Pé de galinha",
+        "Pé-direito",
+        "Pé de pato"
       ]
     },
     {
-      "tema": "Qualidades de Movimento Rápido",
+      "tema": "Ferramentas Manuais Comuns",
       "palavras": [
-        "Arrancada",
-        "Voo",
-        "Disparada",
-        "Ímpeto"
+        "Martelo",
+        "Chave",
+        "Serrote",
+        "Alicate"
       ]
     }
   ],
-  "data": "2026-06-26"
+  "data": "2026-06-27"
 }
