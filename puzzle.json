@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Palavras com Múltiplos Sentidos",
+      "tema": "Elementos ou seções de objetos e conceitos",
       "palavras": [
-        "Manga",
-        "Lima",
-        "Cobra",
-        "Bateria"
+        "Mão",
+        "Boca",
+        "Olho",
+        "Cabo"
       ]
     },
     {
-      "tema": "Acessórios de Costura",
+      "tema": "Termos relacionados à produção audiovisual",
       "palavras": [
-        "Linha",
-        "Agulha",
-        "Tecido",
-        "Alfinete"
+        "Corte",
+        "Plano",
+        "Roteiro",
+        "Câmera"
       ]
     },
     {
-      "tema": "Expressões e Objetos que Incluem 'Pé'",
+      "tema": "Unidades de medida históricas ou informais",
       "palavras": [
-        "Pé de moleque",
-        "Pé de galinha",
-        "Pé-direito",
-        "Pé de pato"
+        "Palmo",
+        "Légua",
+        "Jarda",
+        "Pé"
       ]
     },
     {
-      "tema": "Ferramentas Manuais Comuns",
+      "tema": "Tipos de ruído ou som específicos",
       "palavras": [
-        "Martelo",
-        "Chave",
-        "Serrote",
-        "Alicate"
+        "Canto",
+        "Estouro",
+        "Silvo",
+        "Chiado"
       ]
     }
   ],
-  "data": "2026-06-27"
+  "data": "2026-06-28"
 }
