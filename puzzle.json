@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos ou seções de objetos e conceitos",
+      "tema": "Coisas que se 'abrem' (figurado)",
       "palavras": [
-        "Mão",
-        "Boca",
-        "Olho",
+        "Exceção",
+        "Precedente",
+        "Crédito",
+        "Caminho"
+      ]
+    },
+    {
+      "tema": "Expressões com 'quebrar' (figurado)",
+      "palavras": [
+        "Silêncio",
+        "Gelo",
+        "Galho",
+        "Costas"
+      ]
+    },
+    {
+      "tema": "Termos de som/voz com outro sentido",
+      "palavras": [
+        "Tom",
+        "Coro",
+        "Eco",
+        "Timbre"
+      ]
+    },
+    {
+      "tema": "Estruturas/locais com múltiplos sentidos",
+      "palavras": [
+        "Fonte",
+        "Ponte",
+        "Coroa",
         "Cabo"
-      ]
-    },
-    {
-      "tema": "Termos relacionados à produção audiovisual",
-      "palavras": [
-        "Corte",
-        "Plano",
-        "Roteiro",
-        "Câmera"
-      ]
-    },
-    {
-      "tema": "Unidades de medida históricas ou informais",
-      "palavras": [
-        "Palmo",
-        "Légua",
-        "Jarda",
-        "Pé"
-      ]
-    },
-    {
-      "tema": "Tipos de ruído ou som específicos",
-      "palavras": [
-        "Canto",
-        "Estouro",
-        "Silvo",
-        "Chiado"
       ]
     }
   ],
-  "data": "2026-06-28"
+  "data": "2026-06-29"
 }
