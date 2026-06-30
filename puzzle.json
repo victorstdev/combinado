@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Coisas que se 'abrem' (figurado)",
+      "tema": "QUEBRAM-SE (LITERAL OU FIGURATIVAMENTE)",
       "palavras": [
-        "Exceção",
-        "Precedente",
-        "Crédito",
-        "Caminho"
+        "ESPELHO",
+        "RECORDES",
+        "GELO",
+        "GALHO"
       ]
     },
     {
-      "tema": "Expressões com 'quebrar' (figurado)",
+      "tema": "PARTES DA ROUPA COM SENTIDOS MÚLTIPLOS",
       "palavras": [
-        "Silêncio",
-        "Gelo",
-        "Galho",
-        "Costas"
+        "MANGA",
+        "SAIA",
+        "PUNHO",
+        "BARRA"
       ]
     },
     {
-      "tema": "Termos de som/voz com outro sentido",
+      "tema": "LUGARES OU OBJETOS DE CONTENÇÃO",
       "palavras": [
-        "Tom",
-        "Coro",
-        "Eco",
-        "Timbre"
+        "AQUÁRIO",
+        "CÁRCERE",
+        "BAÚ",
+        "COFRE"
       ]
     },
     {
-      "tema": "Estruturas/locais com múltiplos sentidos",
+      "tema": "ELEMENTOS DO BARALHO OU JOGO DE CARTAS",
       "palavras": [
-        "Fonte",
-        "Ponte",
-        "Coroa",
-        "Cabo"
+        "BLEFE",
+        "CORINGA",
+        "MÃO",
+        "CARTA"
       ]
     }
   ],
-  "data": "2026-06-29"
+  "data": "2026-06-30"
 }
