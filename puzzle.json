@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "QUEBRAM-SE (LITERAL OU FIGURATIVAMENTE)",
+      "tema": "PALAVRAS POLISSÊMICAS",
       "palavras": [
-        "ESPELHO",
-        "RECORDES",
-        "GELO",
-        "GALHO"
+        "Manga",
+        "Serra",
+        "Banco",
+        "Canto"
       ]
     },
     {
-      "tema": "PARTES DA ROUPA COM SENTIDOS MÚLTIPLOS",
+      "tema": "ANFÍBIOS",
       "palavras": [
-        "MANGA",
-        "SAIA",
-        "PUNHO",
-        "BARRA"
+        "Sapo",
+        "Rã",
+        "Salamandra",
+        "Tritão"
       ]
     },
     {
-      "tema": "LUGARES OU OBJETOS DE CONTENÇÃO",
+      "tema": "ELEMENTOS ARQUITETÔNICOS CLÁSSICOS",
       "palavras": [
-        "AQUÁRIO",
-        "CÁRCERE",
-        "BAÚ",
-        "COFRE"
+        "Pórtico",
+        "Arcada",
+        "Colunata",
+        "Cúpula"
       ]
     },
     {
-      "tema": "ELEMENTOS DO BARALHO OU JOGO DE CARTAS",
+      "tema": "UNIDADES DE MEDIDA TRADICIONAIS",
       "palavras": [
-        "BLEFE",
-        "CORINGA",
-        "MÃO",
-        "CARTA"
+        "Braça",
+        "Légua",
+        "Libra",
+        "Acre"
       ]
     }
   ],
-  "data": "2026-06-30"
+  "data": "2026-07-01"
 }
