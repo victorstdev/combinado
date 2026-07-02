@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PALAVRAS POLISSÊMICAS",
+      "tema": "EXPRESSÕES COM O VERBO \"QUEBRAR\"",
       "palavras": [
-        "Manga",
-        "Serra",
-        "Banco",
-        "Canto"
+        "GELO",
+        "SILÊNCIO",
+        "RECORDE",
+        "LEI"
       ]
     },
     {
-      "tema": "ANFÍBIOS",
+      "tema": "ELEMENTOS ESTRUTURAIS (LITERAL E FIGURADO)",
       "palavras": [
-        "Sapo",
-        "Rã",
-        "Salamandra",
-        "Tritão"
+        "VIGA",
+        "PILAR",
+        "ALICERCE",
+        "FUNDAÇÃO"
       ]
     },
     {
-      "tema": "ELEMENTOS ARQUITETÔNICOS CLÁSSICOS",
+      "tema": "FENÔMENOS OU FLUXOS LIGADOS À ÁGUA",
       "palavras": [
-        "Pórtico",
-        "Arcada",
-        "Colunata",
-        "Cúpula"
+        "CORRENTE",
+        "MARÉ",
+        "ONDAS",
+        "RIO"
       ]
     },
     {
-      "tema": "UNIDADES DE MEDIDA TRADICIONAIS",
+      "tema": "PARTES DO CORPO COM OUTROS SIGNIFICADOS",
       "palavras": [
-        "Braça",
-        "Légua",
-        "Libra",
-        "Acre"
+        "LÍNGUA",
+        "ORELHA",
+        "COTOVELO",
+        "JOELHO"
       ]
     }
   ],
-  "data": "2026-07-01"
+  "data": "2026-07-02"
 }
