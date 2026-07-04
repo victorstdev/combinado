@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Sustentação Estrutural",
+      "tema": "Períodos de Tempo Específicos",
       "palavras": [
-        "Pilar",
-        "Viga",
-        "Alicerce",
-        "Estaca"
+        "LUSTRO",
+        "BIÊNIO",
+        "DECÊNIO",
+        "QUINQUÊNIO"
       ]
     },
     {
-      "tema": "Acabamentos do Vestuário",
+      "tema": "Partes de um Corpo Principal ou Central",
       "palavras": [
-        "Gola",
-        "Punho",
-        "Barra",
-        "Manga"
+        "TRONCO",
+        "HASTE",
+        "TÓRAX",
+        "BOJO"
       ]
     },
     {
-      "tema": "Sistemas e Estruturas",
+      "tema": "Sons Contínuos ou de Baixo Volume",
       "palavras": [
-        "Padrão",
-        "Ordem",
-        "Esquema",
-        "Malha"
+        "ZUMZUM",
+        "MURMÚRIO",
+        "RUMOR",
+        "CHIADO"
       ]
     },
     {
-      "tema": "Elementos com Dupla Face",
+      "tema": "Ramos de Estudo da Linguística",
       "palavras": [
-        "Página",
-        "Folha",
-        "Verso",
-        "Face"
+        "SINTAXE",
+        "SEMÂNTICA",
+        "MORFOLOGIA",
+        "PROSÓDIA"
       ]
     }
   ],
-  "data": "2026-07-03"
+  "data": "2026-07-04"
 }
