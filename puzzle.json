@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Períodos de Tempo Específicos",
+      "tema": "Cores cujos nomes são de Plantas, Frutas ou Especiarias",
       "palavras": [
-        "LUSTRO",
-        "BIÊNIO",
-        "DECÊNIO",
-        "QUINQUÊNIO"
+        "Laranja",
+        "Lima",
+        "Violeta",
+        "Açafrão"
       ]
     },
     {
-      "tema": "Partes de um Corpo Principal ou Central",
+      "tema": "Partes de um Livro (com sentidos duplos)",
       "palavras": [
-        "TRONCO",
-        "HASTE",
-        "TÓRAX",
-        "BOJO"
+        "Capa",
+        "Lombada",
+        "Orelha",
+        "Miolo"
       ]
     },
     {
-      "tema": "Sons Contínuos ou de Baixo Volume",
+      "tema": "Verbos de Ação Relacionados a Fogo ou Calor",
       "palavras": [
-        "ZUMZUM",
-        "MURMÚRIO",
-        "RUMOR",
-        "CHIADO"
+        "Brasear",
+        "Chamuscar",
+        "Defumar",
+        "Torrar"
       ]
     },
     {
-      "tema": "Ramos de Estudo da Linguística",
+      "tema": "Termos de Raciocínio, Lógica ou Argumentação",
       "palavras": [
-        "SINTAXE",
-        "SEMÂNTICA",
-        "MORFOLOGIA",
-        "PROSÓDIA"
+        "Silogismo",
+        "Sofisma",
+        "Falácia",
+        "Paradoxo"
       ]
     }
   ],
-  "data": "2026-07-04"
+  "data": "2026-07-05"
 }
