@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Cores cujos nomes são de Plantas, Frutas ou Especiarias",
+      "tema": "Peças de Xadrez",
       "palavras": [
-        "Laranja",
-        "Lima",
-        "Violeta",
-        "Açafrão"
+        "Peão",
+        "Torre",
+        "Bispo",
+        "Rei"
       ]
     },
     {
-      "tema": "Partes de um Livro (com sentidos duplos)",
+      "tema": "Títulos e Posições Hierárquicas",
       "palavras": [
-        "Capa",
-        "Lombada",
-        "Orelha",
-        "Miolo"
+        "Cardeal",
+        "Marechal",
+        "Monarca",
+        "Vassalo"
       ]
     },
     {
-      "tema": "Verbos de Ação Relacionados a Fogo ou Calor",
+      "tema": "Verbos de Culinária",
       "palavras": [
-        "Brasear",
-        "Chamuscar",
-        "Defumar",
-        "Torrar"
+        "Assar",
+        "Grelhar",
+        "Fritar",
+        "Refogar"
       ]
     },
     {
-      "tema": "Termos de Raciocínio, Lógica ou Argumentação",
+      "tema": "Fenômenos Naturais (Manhã/Entardecer)",
       "palavras": [
-        "Silogismo",
-        "Sofisma",
-        "Falácia",
-        "Paradoxo"
+        "Aurora",
+        "Crepúsculo",
+        "Brisas",
+        "Orvalho"
       ]
     }
   ],
-  "data": "2026-07-05"
+  "data": "2026-07-06"
 }
