@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Peças de Xadrez",
+      "tema": "Componentes de Instrumentos Musicais",
       "palavras": [
-        "Peão",
-        "Torre",
-        "Bispo",
-        "Rei"
+        "Traste",
+        "Ponte",
+        "Boquilha",
+        "Cravelha"
       ]
     },
     {
-      "tema": "Títulos e Posições Hierárquicas",
+      "tema": "Conceitos Fundamentais em Lógica",
       "palavras": [
-        "Cardeal",
-        "Marechal",
-        "Monarca",
-        "Vassalo"
+        "Falácia",
+        "Silogismo",
+        "Axioma",
+        "Dedução"
       ]
     },
     {
-      "tema": "Verbos de Culinária",
+      "tema": "Partes Estruturais de Embarcações",
       "palavras": [
-        "Assar",
-        "Grelhar",
-        "Fritar",
-        "Refogar"
+        "Quilha",
+        "Adriça",
+        "Travessa",
+        "Amurada"
       ]
     },
     {
-      "tema": "Fenômenos Naturais (Manhã/Entardecer)",
+      "tema": "Gírias para Conversa Vazia ou Enganosa",
       "palavras": [
-        "Aurora",
-        "Crepúsculo",
-        "Brisas",
-        "Orvalho"
+        "Xaveco",
+        "Lero-lero",
+        "Papinho",
+        "Enrolação"
       ]
     }
   ],
-  "data": "2026-07-06"
+  "data": "2026-07-07"
 }
