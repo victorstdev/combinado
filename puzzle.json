@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes de Instrumentos Musicais",
+      "tema": "Ventos Regionais Famosos",
       "palavras": [
-        "Traste",
-        "Ponte",
-        "Boquilha",
-        "Cravelha"
+        "Mistral",
+        "Siroco",
+        "Zéfiro",
+        "Harmatã"
       ]
     },
     {
-      "tema": "Conceitos Fundamentais em Lógica",
+      "tema": "Frutas com Nomes Polissêmicos ou Associativos",
       "palavras": [
-        "Falácia",
-        "Silogismo",
-        "Axioma",
-        "Dedução"
+        "Tangerina",
+        "Carambola",
+        "Goiaba",
+        "Romã"
       ]
     },
     {
-      "tema": "Partes Estruturais de Embarcações",
+      "tema": "Utensílios de Escrita Históricos ou Pouco Comuns",
+      "palavras": [
+        "Cálamo",
+        "Estilete",
+        "Pena",
+        "Grafite"
+      ]
+    },
+    {
+      "tema": "Termos Marítimos/Náuticos Específicos",
       "palavras": [
         "Quilha",
         "Adriça",
-        "Travessa",
-        "Amurada"
-      ]
-    },
-    {
-      "tema": "Gírias para Conversa Vazia ou Enganosa",
-      "palavras": [
-        "Xaveco",
-        "Lero-lero",
-        "Papinho",
-        "Enrolação"
+        "Sota-vento",
+        "Boça"
       ]
     }
   ],
-  "data": "2026-07-07"
+  "data": "2026-07-08"
 }
