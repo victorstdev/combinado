@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Ventos Regionais Famosos",
+      "tema": "Unidades de Medida Antigas ou Específicas",
       "palavras": [
-        "Mistral",
-        "Siroco",
-        "Zéfiro",
-        "Harmatã"
+        "Braça",
+        "Légua",
+        "Arrátel",
+        "Quarteirão"
       ]
     },
     {
-      "tema": "Frutas com Nomes Polissêmicos ou Associativos",
+      "tema": "Elementos Arquitetônicos Menos Óbvios",
       "palavras": [
-        "Tangerina",
-        "Carambola",
-        "Goiaba",
-        "Romã"
+        "Pilar",
+        "Verga",
+        "Rondel",
+        "Mísula"
       ]
     },
     {
-      "tema": "Utensílios de Escrita Históricos ou Pouco Comuns",
+      "tema": "Conceitos de Posição ou Trajetória",
       "palavras": [
-        "Cálamo",
-        "Estilete",
-        "Pena",
-        "Grafite"
+        "Contramão",
+        "Transversal",
+        "Meridiano",
+        "Zenital"
       ]
     },
     {
-      "tema": "Termos Marítimos/Náuticos Específicos",
+      "tema": "Verbos de Processo ou Alteração Gradual",
       "palavras": [
-        "Quilha",
-        "Adriça",
-        "Sota-vento",
-        "Boça"
+        "Decantar",
+        "Fermentar",
+        "Esgotar",
+        "Dissolver"
       ]
     }
   ],
-  "data": "2026-07-08"
+  "data": "2026-07-09"
 }
