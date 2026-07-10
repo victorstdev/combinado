@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Unidades de Medida Antigas ou Específicas",
+      "tema": "Atributos de superfícies ou formas sem relevo",
       "palavras": [
-        "Braça",
-        "Légua",
-        "Arrátel",
-        "Quarteirão"
+        "Polido",
+        "Plano",
+        "Raso",
+        "Esguio"
       ]
     },
     {
-      "tema": "Elementos Arquitetônicos Menos Óbvios",
+      "tema": "Estados de inexistência ou insuficiência",
       "palavras": [
-        "Pilar",
-        "Verga",
-        "Rondel",
-        "Mísula"
+        "Lacuna",
+        "Vácuo",
+        "Oco",
+        "Brecha"
       ]
     },
     {
-      "tema": "Conceitos de Posição ou Trajetória",
+      "tema": "Verbos que significam cortar ou interromper",
       "palavras": [
-        "Contramão",
-        "Transversal",
-        "Meridiano",
-        "Zenital"
+        "Ceifar",
+        "Truncar",
+        "Rachar",
+        "Talhar"
       ]
     },
     {
-      "tema": "Verbos de Processo ou Alteração Gradual",
+      "tema": "Termos para porções ou divisões de um todo",
       "palavras": [
-        "Decantar",
-        "Fermentar",
-        "Esgotar",
-        "Dissolver"
+        "Filamento",
+        "Segmento",
+        "Quinhão",
+        "Feixe"
       ]
     }
   ],
-  "data": "2026-07-09"
+  "data": "2026-07-10"
 }
