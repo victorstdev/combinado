@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Atributos de superfícies ou formas sem relevo",
+      "tema": "Expressões Populares com 'Pé'",
       "palavras": [
-        "Polido",
-        "Plano",
-        "Raso",
-        "Esguio"
+        "Pé-de-moleque",
+        "Pé-quente",
+        "Pé-grande",
+        "Pé-rapado"
       ]
     },
     {
-      "tema": "Estados de inexistência ou insuficiência",
+      "tema": "Instrumentos Musicais de Corda",
       "palavras": [
-        "Lacuna",
-        "Vácuo",
-        "Oco",
-        "Brecha"
+        "Harpa",
+        "Viola",
+        "Cavaquinho",
+        "Bandolim"
       ]
     },
     {
-      "tema": "Verbos que significam cortar ou interromper",
+      "tema": "Coisas que 'Correm' (em sentido figurado)",
       "palavras": [
-        "Ceifar",
-        "Truncar",
-        "Rachar",
-        "Talhar"
+        "Sangue",
+        "Rio",
+        "Prazo",
+        "Boato"
       ]
     },
     {
-      "tema": "Termos para porções ou divisões de um todo",
+      "tema": "Unidades de Medida Variadas",
       "palavras": [
-        "Filamento",
-        "Segmento",
-        "Quinhão",
-        "Feixe"
+        "Hectare",
+        "Nó",
+        "Quilate",
+        "Decibel"
       ]
     }
   ],
-  "data": "2026-07-10"
+  "data": "2026-07-11"
 }
