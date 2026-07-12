@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Expressões Populares com 'Pé'",
+      "tema": "Elementos Estruturais da Construção Civil",
       "palavras": [
-        "Pé-de-moleque",
-        "Pé-quente",
-        "Pé-grande",
-        "Pé-rapado"
+        "Viga",
+        "Baldrame",
+        "Verga",
+        "Caibro"
       ]
     },
     {
-      "tema": "Instrumentos Musicais de Corda",
+      "tema": "Gêneros Dramáticos no Teatro Clássico",
       "palavras": [
-        "Harpa",
-        "Viola",
-        "Cavaquinho",
-        "Bandolim"
+        "Farsa",
+        "Comédia",
+        "Tragédia",
+        "Melodrama"
       ]
     },
     {
-      "tema": "Coisas que 'Correm' (em sentido figurado)",
+      "tema": "Componentes do Sistema Veicular",
       "palavras": [
-        "Sangue",
-        "Rio",
-        "Prazo",
-        "Boato"
+        "Radiador",
+        "Amortecedor",
+        "Câmbio",
+        "Semieixo"
       ]
     },
     {
-      "tema": "Unidades de Medida Variadas",
+      "tema": "Verbos de Observação com Diferentes Nuances",
       "palavras": [
-        "Hectare",
-        "Nó",
-        "Quilate",
-        "Decibel"
+        "Espiar",
+        "Vislumbrar",
+        "Mirar",
+        "Contemplar"
       ]
     }
   ],
-  "data": "2026-07-11"
+  "data": "2026-07-12"
 }
