@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de Instrumentos Musicais",
+      "tema": "Tipos de Agrupamento ou Coleção",
       "palavras": [
-        "Traste",
-        "Boquilha",
-        "Tarraxa",
-        "Braço"
+        "BATERIA",
+        "SÉRIE",
+        "SEQUÊNCIA",
+        "CONJUNTO"
       ]
     },
     {
-      "tema": "Termos Culinários de Origem Francesa",
+      "tema": "Palavras com Múltiplos Sentidos (Homógrafos)",
       "palavras": [
-        "Bruniose",
-        "Julienne",
-        "Confit",
-        "Coulis"
+        "MANGA",
+        "PRATO",
+        "BANCO",
+        "CORTE"
       ]
     },
     {
-      "tema": "Sobrenomes Brasileiros de Origem Natural",
+      "tema": "Termos Náuticos",
       "palavras": [
-        "Silva",
-        "Rocha",
-        "Costa",
-        "Neves"
+        "PORTO",
+        "ÂNCORA",
+        "PROA",
+        "ESTIBORDO"
       ]
     },
     {
-      "tema": "Palavras que Iniciam Expressões Idiomáticas Comuns",
+      "tema": "Elementos de uma Orquestra",
       "palavras": [
-        "Mão",
-        "Pé",
-        "Boca",
-        "Olho"
+        "REGENTE",
+        "CORDAS",
+        "METAIS",
+        "PERCUSSÃO"
       ]
     }
   ],
-  "data": "2026-07-14"
+  "data": "2026-07-15"
 }
