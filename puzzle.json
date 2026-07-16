@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Tipos de Agrupamento ou Coleção",
+      "tema": "PARTES DE UMA FLOR",
       "palavras": [
-        "BATERIA",
-        "SÉRIE",
-        "SEQUÊNCIA",
-        "CONJUNTO"
+        "Pétala",
+        "Estame",
+        "Pistilo",
+        "Sépala"
       ]
     },
     {
-      "tema": "Palavras com Múltiplos Sentidos (Homógrafos)",
+      "tema": "TERMOS DO XADREZ",
       "palavras": [
-        "MANGA",
-        "PRATO",
-        "BANCO",
-        "CORTE"
+        "Xeque",
+        "Roque",
+        "Gambito",
+        "Peão"
       ]
     },
     {
-      "tema": "Termos Náuticos",
+      "tema": "TIPOS DE FEIJÃO COMUNS NO BRASIL",
       "palavras": [
-        "PORTO",
-        "ÂNCORA",
-        "PROA",
-        "ESTIBORDO"
+        "Carioca",
+        "Fradinho",
+        "Preto",
+        "Rajado"
       ]
     },
     {
-      "tema": "Elementos de uma Orquestra",
+      "tema": "SINÔNIMOS DE ILUSTRE OU DISTINTO",
       "palavras": [
-        "REGENTE",
-        "CORDAS",
-        "METAIS",
-        "PERCUSSÃO"
+        "Eminente",
+        "Notório",
+        "Insigne",
+        "Magnífico"
       ]
     }
   ],
-  "data": "2026-07-15"
+  "data": "2026-07-16"
 }
