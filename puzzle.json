@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Estruturas Naturais da Terra",
+      "tema": "PEÇAS COM MÚLTIPLOS USOS",
       "palavras": [
-        "Duna",
-        "Atol",
-        "Cânion",
-        "Geodo"
+        "PALHETA",
+        "CORDAS",
+        "TECLAS",
+        "BAQUETA"
       ]
     },
     {
-      "tema": "Verbos de Fragmentação ou Divisão",
+      "tema": "CORES COM NOMES DE ALIMENTOS",
       "palavras": [
-        "Cindir",
-        "Talhar",
-        "Retalhar",
-        "Lacerar"
+        "LARANJA",
+        "CEREJA",
+        "ABÓBORA",
+        "CAFÉ"
       ]
     },
     {
-      "tema": "Seções de Obras Escritas",
+      "tema": "VERBOS DE SONS ANIMAIS EM SENTIDO FIGURATIVO",
       "palavras": [
-        "Prefácio",
-        "Sumário",
-        "Apêndice",
-        "Epílogo"
+        "MIADO",
+        "LATIR",
+        "UIVAR",
+        "GRASNAR"
       ]
     },
     {
-      "tema": "Elementos de Entrelaçamento ou Trama",
+      "tema": "TERMOS QUE FORMAM EXPRESSÕES COM 'PONTO'",
       "palavras": [
-        "Enredo",
-        "Teia",
-        "Trama",
-        "Urdume"
+        "CRUZ",
+        "FINAL",
+        "VISTA",
+        "PARTIDA"
       ]
     }
   ],
-  "data": "2026-07-17"
+  "data": "2026-07-18"
 }
