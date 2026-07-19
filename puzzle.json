@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PEÇAS COM MÚLTIPLOS USOS",
+      "tema": "Peças do Xadrez",
       "palavras": [
-        "PALHETA",
-        "CORDAS",
-        "TECLAS",
-        "BAQUETA"
+        "Peão",
+        "Torre",
+        "Rei",
+        "Dama"
       ]
     },
     {
-      "tema": "CORES COM NOMES DE ALIMENTOS",
+      "tema": "Formas Musicais Clássicas",
       "palavras": [
-        "LARANJA",
-        "CEREJA",
-        "ABÓBORA",
-        "CAFÉ"
+        "Sonata",
+        "Cantata",
+        "Fuga",
+        "Ária"
       ]
     },
     {
-      "tema": "VERBOS DE SONS ANIMAIS EM SENTIDO FIGURATIVO",
+      "tema": "Itens de Vestuário",
       "palavras": [
-        "MIADO",
-        "LATIR",
-        "UIVAR",
-        "GRASNAR"
+        "Meia",
+        "Blusa",
+        "Cinto",
+        "Alça"
       ]
     },
     {
-      "tema": "TERMOS QUE FORMAM EXPRESSÕES COM 'PONTO'",
+      "tema": "Termos Associados a Cursos d'Água",
       "palavras": [
-        "CRUZ",
-        "FINAL",
-        "VISTA",
-        "PARTIDA"
+        "Corrente",
+        "Ponte",
+        "Vazante",
+        "Leito"
       ]
     }
   ],
-  "data": "2026-07-18"
+  "data": "2026-07-19"
 }
