@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Peças do Xadrez",
+      "tema": "CULINÁRIA: Ponto de Preparo / Elementos de Receita",
       "palavras": [
-        "Peão",
-        "Torre",
-        "Rei",
-        "Dama"
+        "Massa",
+        "Ponto",
+        "Calda",
+        "Recheio"
       ]
     },
     {
-      "tema": "Formas Musicais Clássicas",
+      "tema": "GEOMETRIA / MECÂNICA: Elementos de Estrutura e Movimento",
       "palavras": [
-        "Sonata",
-        "Cantata",
-        "Fuga",
-        "Ária"
+        "Eixo",
+        "Pivô",
+        "Vértice",
+        "Ângulo"
       ]
     },
     {
-      "tema": "Itens de Vestuário",
+      "tema": "FENÔMENOS NATURAIS / FÍSICOS: Conceitos com Duplos Sentidos",
       "palavras": [
-        "Meia",
-        "Blusa",
-        "Cinto",
-        "Alça"
+        "Onda",
+        "Campo",
+        "Núcleo",
+        "Raio"
       ]
     },
     {
-      "tema": "Termos Associados a Cursos d'Água",
+      "tema": "TERMOS LITERÁRIOS / NARRATIVOS",
       "palavras": [
-        "Corrente",
-        "Ponte",
-        "Vazante",
-        "Leito"
+        "Enredo",
+        "Clímax",
+        "Personagem",
+        "Roteiro"
       ]
     }
   ],
-  "data": "2026-07-19"
+  "data": "2026-07-20"
 }
