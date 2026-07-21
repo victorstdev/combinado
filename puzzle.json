@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "CULINÁRIA: Ponto de Preparo / Elementos de Receita",
+      "tema": "TERMINOLOGIA NÁUTICA",
       "palavras": [
-        "Massa",
-        "Ponto",
-        "Calda",
-        "Recheio"
+        "Proa",
+        "Popa",
+        "Lastro",
+        "Rumo"
       ]
     },
     {
-      "tema": "GEOMETRIA / MECÂNICA: Elementos de Estrutura e Movimento",
+      "tema": "EXPRESSÕES COM \"QUEBRAR\"",
       "palavras": [
-        "Eixo",
-        "Pivô",
-        "Vértice",
-        "Ângulo"
+        "Silêncio",
+        "Gelo",
+        "Recorde",
+        "Galho"
       ]
     },
     {
-      "tema": "FENÔMENOS NATURAIS / FÍSICOS: Conceitos com Duplos Sentidos",
+      "tema": "VERBOS DE FLUXO OU ESCAPE DE LÍQUIDOS",
       "palavras": [
-        "Onda",
-        "Campo",
-        "Núcleo",
-        "Raio"
+        "Vazar",
+        "Escoar",
+        "Verter",
+        "Infiltrar"
       ]
     },
     {
-      "tema": "TERMOS LITERÁRIOS / NARRATIVOS",
+      "tema": "PARTES ESPECÍFICAS DE UM LIVRO",
       "palavras": [
-        "Enredo",
-        "Clímax",
-        "Personagem",
-        "Roteiro"
+        "Miolo",
+        "Lombada",
+        "Orelha",
+        "Sumário"
       ]
     }
   ],
-  "data": "2026-07-20"
+  "data": "2026-07-21"
 }
