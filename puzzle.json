@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "TERMINOLOGIA NÁUTICA",
+      "tema": "Processos Culinários de Preparo",
       "palavras": [
-        "Proa",
-        "Popa",
-        "Lastro",
-        "Rumo"
+        "Refogar",
+        "Marinar",
+        "Gratinar",
+        "Emulsificar"
       ]
     },
     {
-      "tema": "EXPRESSÕES COM \"QUEBRAR\"",
+      "tema": "Elementos Estruturais da Construção Civil",
       "palavras": [
-        "Silêncio",
-        "Gelo",
-        "Recorde",
-        "Galho"
+        "Viga",
+        "Pilar",
+        "Alicerce",
+        "Fundação"
       ]
     },
     {
-      "tema": "VERBOS DE FLUXO OU ESCAPE DE LÍQUIDOS",
+      "tema": "Tipos de Movimento Irregular ou Indeciso",
       "palavras": [
-        "Vazar",
-        "Escoar",
-        "Verter",
-        "Infiltrar"
+        "Serpentear",
+        "Vaguear",
+        "Ziguezaguear",
+        "Cambalear"
       ]
     },
     {
-      "tema": "PARTES ESPECÍFICAS DE UM LIVRO",
+      "tema": "Subdivisões Hierárquicas em Textos Legais/Formais",
       "palavras": [
-        "Miolo",
-        "Lombada",
-        "Orelha",
-        "Sumário"
+        "Cláusula",
+        "Parágrafo",
+        "Inciso",
+        "Alínea"
       ]
     }
   ],
-  "data": "2026-07-21"
+  "data": "2026-07-22"
 }
