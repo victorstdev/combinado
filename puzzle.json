@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Processos Culinários de Preparo",
+      "tema": "Associados a Aumento ou Elevação",
       "palavras": [
-        "Refogar",
-        "Marinar",
-        "Gratinar",
-        "Emulsificar"
+        "Maré",
+        "Preço",
+        "Nível",
+        "Febre"
       ]
     },
     {
-      "tema": "Elementos Estruturais da Construção Civil",
+      "tema": "Partes Fundamentais de Sistemas/Estruturas",
       "palavras": [
-        "Viga",
-        "Pilar",
-        "Alicerce",
-        "Fundação"
+        "Célula",
+        "Núcleo",
+        "Membrana",
+        "Rede"
       ]
     },
     {
-      "tema": "Tipos de Movimento Irregular ou Indeciso",
+      "tema": "Termos de Limite ou Extremidade",
       "palavras": [
-        "Serpentear",
-        "Vaguear",
-        "Ziguezaguear",
-        "Cambalear"
+        "Beira",
+        "Canto",
+        "Ponta",
+        "Margem"
       ]
     },
     {
-      "tema": "Subdivisões Hierárquicas em Textos Legais/Formais",
+      "tema": "Verbos de Interrupção ou Separação",
       "palavras": [
-        "Cláusula",
-        "Parágrafo",
-        "Inciso",
-        "Alínea"
+        "Quebrar",
+        "Cortar",
+        "Romper",
+        "Fissurar"
       ]
     }
   ],
-  "data": "2026-07-22"
+  "data": "2026-07-23"
 }
