@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Associados a Aumento ou Elevação",
+      "tema": "Expressões Idiomáticas com Anatomia",
       "palavras": [
-        "Maré",
-        "Preço",
-        "Nível",
-        "Febre"
+        "Mão-de-vaca",
+        "Pé-de-moleque",
+        "Olho gordo",
+        "Cabeça-dura"
       ]
     },
     {
-      "tema": "Partes Fundamentais de Sistemas/Estruturas",
+      "tema": "Fenômenos Atmosféricos Variados",
       "palavras": [
-        "Célula",
-        "Núcleo",
-        "Membrana",
-        "Rede"
+        "Ciclone",
+        "Tufão",
+        "Vendaval",
+        "Bruma"
       ]
     },
     {
-      "tema": "Termos de Limite ou Extremidade",
+      "tema": "Técnicas Têxteis e Artesanato de Fio",
       "palavras": [
-        "Beira",
-        "Canto",
-        "Ponta",
-        "Margem"
+        "Renda",
+        "Bordado",
+        "Tricô",
+        "Filé"
       ]
     },
     {
-      "tema": "Verbos de Interrupção ou Separação",
+      "tema": "Adjetivos para Clima/Tempo",
       "palavras": [
-        "Quebrar",
-        "Cortar",
-        "Romper",
-        "Fissurar"
+        "Garoento",
+        "Serrano",
+        "Ameno",
+        "Enevoado"
       ]
     }
   ],
-  "data": "2026-07-23"
+  "data": "2026-07-24"
 }
