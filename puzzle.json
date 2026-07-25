@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Expressões Idiomáticas com Anatomia",
+      "tema": "Expressões com 'Quebrar'",
       "palavras": [
-        "Mão-de-vaca",
-        "Pé-de-moleque",
-        "Olho gordo",
-        "Cabeça-dura"
+        "GALHO",
+        "JEJUM",
+        "SILÊNCIO",
+        "BRAÇO"
       ]
     },
     {
-      "tema": "Fenômenos Atmosféricos Variados",
+      "tema": "Palavras Polissêmicas Comuns",
       "palavras": [
-        "Ciclone",
-        "Tufão",
-        "Vendaval",
-        "Bruma"
+        "CABO",
+        "COROA",
+        "FIO",
+        "PONTO"
       ]
     },
     {
-      "tema": "Técnicas Têxteis e Artesanato de Fio",
+      "tema": "Elementos Presentes em Jogos",
       "palavras": [
-        "Renda",
-        "Bordado",
-        "Tricô",
-        "Filé"
+        "CARTA",
+        "DADO",
+        "LANCE",
+        "TRUNFO"
       ]
     },
     {
-      "tema": "Adjetivos para Clima/Tempo",
+      "tema": "Adjetivos Aplicados a 'Massa' (comida ou pessoas)",
       "palavras": [
-        "Garoento",
-        "Serrano",
-        "Ameno",
-        "Enevoado"
+        "FINA",
+        "GROSSA",
+        "PODRE",
+        "SECA"
       ]
     }
   ],
-  "data": "2026-07-24"
+  "data": "2026-07-25"
 }
