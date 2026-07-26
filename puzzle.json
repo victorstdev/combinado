@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Expressões com 'Quebrar'",
+      "tema": "Palavras Idênticas com Classes Gramaticais Diferentes",
       "palavras": [
-        "GALHO",
-        "JEJUM",
-        "SILÊNCIO",
-        "BRAÇO"
+        "Canto",
+        "Conto",
+        "Assento",
+        "Porto"
       ]
     },
     {
-      "tema": "Palavras Polissêmicas Comuns",
+      "tema": "Formações Geográficas e Aquáticas Singulares",
       "palavras": [
-        "CABO",
-        "COROA",
-        "FIO",
-        "PONTO"
+        "Duna",
+        "Atol",
+        "Delta",
+        "Fiorde"
       ]
     },
     {
-      "tema": "Elementos Presentes em Jogos",
+      "tema": "Ações Fundamentais no Preparo de Alimentos",
       "palavras": [
-        "CARTA",
-        "DADO",
-        "LANCE",
-        "TRUNFO"
+        "Reduzir",
+        "Emulsionar",
+        "Branquear",
+        "Gratinar"
       ]
     },
     {
-      "tema": "Adjetivos Aplicados a 'Massa' (comida ou pessoas)",
+      "tema": "Termos Relacionados a Sons e Acústica",
       "palavras": [
-        "FINA",
-        "GROSSA",
-        "PODRE",
-        "SECA"
+        "Cacofonia",
+        "Ressonância",
+        "Harmonia",
+        "Dissonância"
       ]
     }
   ],
-  "data": "2026-07-25"
+  "data": "2026-07-26"
 }
