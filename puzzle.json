@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Verbos de Ruptura ou Separação",
+      "tema": "Fenômenos Efêmeros",
       "palavras": [
-        "Rachar",
-        "Quebrar",
-        "Partir",
-        "Romper"
+        "Vento",
+        "Moda",
+        "Férias",
+        "Tempo"
       ]
     },
     {
-      "tema": "Palavras Polissêmicas (com um dos sentidos ligado a parte de objeto/ser vivo)",
+      "tema": "Duplo Sentido Corporal",
       "palavras": [
-        "Manga",
-        "Dedo",
-        "Bico",
-        "Pena"
+        "Pé",
+        "Boca",
+        "Olho",
+        "Língua"
       ]
     },
     {
-      "tema": "Elementos de Conexão ou Elo",
+      "tema": "Elementos do Baralho",
       "palavras": [
-        "Linha",
-        "Fio",
-        "Nó",
-        "Elo"
+        "Naipe",
+        "Coringa",
+        "Truco",
+        "Manilha"
       ]
     },
     {
-      "tema": "Termos de Orientação ou Ponto de Parada",
+      "tema": "Que Podem Ser Armadas",
       "palavras": [
-        "Âncora",
-        "Rumo",
-        "Escala",
-        "Bússola"
+        "Cilada",
+        "Barraca",
+        "Esquema",
+        "Rede"
       ]
     }
   ],
-  "data": "2026-07-27"
+  "data": "2026-07-28"
 }
