@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Fenômenos Efêmeros",
+      "tema": "Instrumentos de Percussão Brasileiros",
       "palavras": [
-        "Vento",
-        "Moda",
-        "Férias",
-        "Tempo"
+        "Ganzá",
+        "Agogô",
+        "Cuíca",
+        "Pandeiro"
       ]
     },
     {
-      "tema": "Duplo Sentido Corporal",
+      "tema": "Termos de Costura ou Tecelagem",
       "palavras": [
-        "Pé",
-        "Boca",
-        "Olho",
-        "Língua"
+        "Ponto",
+        "Trama",
+        "Fio",
+        "Avesso"
       ]
     },
     {
-      "tema": "Elementos do Baralho",
+      "tema": "Elementos de Avaliação Formal",
       "palavras": [
-        "Naipe",
-        "Coringa",
-        "Truco",
-        "Manilha"
+        "Gabarito",
+        "Questão",
+        "Enunciado",
+        "Candidato"
       ]
     },
     {
-      "tema": "Que Podem Ser Armadas",
+      "tema": "Fenômenos Atmosféricos e Termos Relacionados",
       "palavras": [
-        "Cilada",
-        "Barraca",
-        "Esquema",
-        "Rede"
+        "Precipitação",
+        "Frente",
+        "Umidade",
+        "Massas"
       ]
     }
   ],
-  "data": "2026-07-28"
+  "data": "2026-07-29"
 }
