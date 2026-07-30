@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Instrumentos de Percussão Brasileiros",
+      "tema": "MÉTODOS CULINÁRIOS ESPECÍFICOS",
       "palavras": [
-        "Ganzá",
-        "Agogô",
-        "Cuíca",
-        "Pandeiro"
+        "Decantar",
+        "Emulsão",
+        "Infusão",
+        "Brasear"
       ]
     },
     {
-      "tema": "Termos de Costura ou Tecelagem",
+      "tema": "COMPONENTES MECÂNICOS OU ESTRUTURAIS",
       "palavras": [
-        "Ponto",
-        "Trama",
-        "Fio",
-        "Avesso"
+        "Biela",
+        "Pinhão",
+        "Manivela",
+        "Válvula"
       ]
     },
     {
-      "tema": "Elementos de Avaliação Formal",
+      "tema": "TERMOS DA IMPRENSA E GRÁFICA (CLÁSSICA)",
       "palavras": [
-        "Gabarito",
-        "Questão",
-        "Enunciado",
-        "Candidato"
+        "Tipografia",
+        "Editorial",
+        "Linotipo",
+        "Manchete"
       ]
     },
     {
-      "tema": "Fenômenos Atmosféricos e Termos Relacionados",
+      "tema": "UNIDADES DE MEDIDA NÃO-MÉTRICAS OU HISTÓRICAS",
       "palavras": [
-        "Precipitação",
-        "Frente",
-        "Umidade",
-        "Massas"
+        "Jarda",
+        "Alqueire",
+        "Légua",
+        "Quilate"
       ]
     }
   ],
-  "data": "2026-07-29"
+  "data": "2026-07-30"
 }
