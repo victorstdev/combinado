@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "MÉTODOS CULINÁRIOS ESPECÍFICOS",
+      "tema": "FRUTAS QUE TAMBÉM SÃO CORES",
       "palavras": [
-        "Decantar",
-        "Emulsão",
-        "Infusão",
-        "Brasear"
+        "Laranja",
+        "Pêssego",
+        "Cereja",
+        "Uva"
       ]
     },
     {
-      "tema": "COMPONENTES MECÂNICOS OU ESTRUTURAIS",
+      "tema": "CORTES DE CARNE BOVINA",
       "palavras": [
-        "Biela",
-        "Pinhão",
-        "Manivela",
-        "Válvula"
+        "Alcatra",
+        "Picanha",
+        "Fraldinha",
+        "Filé"
       ]
     },
     {
-      "tema": "TERMOS DA IMPRENSA E GRÁFICA (CLÁSSICA)",
+      "tema": "PARTES DE UM TELHADO OU COBERTURA",
       "palavras": [
-        "Tipografia",
-        "Editorial",
-        "Linotipo",
-        "Manchete"
+        "Telhado",
+        "Calha",
+        "Cumeeira",
+        "Beiral"
       ]
     },
     {
-      "tema": "UNIDADES DE MEDIDA NÃO-MÉTRICAS OU HISTÓRICAS",
+      "tema": "UNIDADES DE MEDIDA ANTIGAS OU NÃO-MÉTRICAS",
       "palavras": [
-        "Jarda",
-        "Alqueire",
         "Légua",
-        "Quilate"
+        "Braça",
+        "Alqueire",
+        "Arrátel"
       ]
     }
   ],
-  "data": "2026-07-30"
+  "data": "2026-07-31"
 }
