@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "FRUTAS QUE TAMBÉM SÃO CORES",
+      "tema": "Objetos Voadores Manufaturados",
       "palavras": [
-        "Laranja",
-        "Pêssego",
-        "Cereja",
-        "Uva"
+        "Pipa",
+        "Zepelim",
+        "Foguete",
+        "Bumerangue"
       ]
     },
     {
-      "tema": "CORTES DE CARNE BOVINA",
+      "tema": "Elementos Naturais em Expressões Idiomáticas",
       "palavras": [
-        "Alcatra",
-        "Picanha",
-        "Fraldinha",
-        "Filé"
+        "Pedra",
+        "Vento",
+        "Terra",
+        "Céu"
       ]
     },
     {
-      "tema": "PARTES DE UM TELHADO OU COBERTURA",
+      "tema": "Termos com Aplicação Geométrica e Outros Sentidos",
       "palavras": [
-        "Telhado",
-        "Calha",
-        "Cumeeira",
-        "Beiral"
+        "Raiz",
+        "Ângulo",
+        "Vértice",
+        "Plano"
       ]
     },
     {
-      "tema": "UNIDADES DE MEDIDA ANTIGAS OU NÃO-MÉTRICAS",
+      "tema": "Variedades de Feijão Comuns no Brasil",
       "palavras": [
-        "Légua",
-        "Braça",
-        "Alqueire",
-        "Arrátel"
+        "Carioca",
+        "Fradinho",
+        "Rajado",
+        "De corda"
       ]
     }
   ],
-  "data": "2026-07-31"
+  "data": "2026-08-01"
 }
