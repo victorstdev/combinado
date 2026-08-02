@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Objetos Voadores Manufaturados",
+      "tema": "Conceitos Musicais",
       "palavras": [
-        "Pipa",
-        "Zepelim",
-        "Foguete",
-        "Bumerangue"
+        "Contraponto",
+        "Andamento",
+        "Timbre",
+        "Harmonia"
       ]
     },
     {
-      "tema": "Elementos Naturais em Expressões Idiomáticas",
+      "tema": "Ossos dos Membros",
       "palavras": [
-        "Pedra",
-        "Vento",
-        "Terra",
-        "Céu"
+        "Fêmur",
+        "Rádio",
+        "Tíbia",
+        "Cúbito"
       ]
     },
     {
-      "tema": "Termos com Aplicação Geométrica e Outros Sentidos",
+      "tema": "Ferramentas e Materiais de Marcenaria",
       "palavras": [
-        "Raiz",
-        "Ângulo",
-        "Vértice",
-        "Plano"
+        "Sarrafo",
+        "Serra",
+        "Plaina",
+        "Torno"
       ]
     },
     {
-      "tema": "Variedades de Feijão Comuns no Brasil",
+      "tema": "Palavras iniciadas por \"CONTRA-\"",
       "palavras": [
-        "Carioca",
-        "Fradinho",
-        "Rajado",
-        "De corda"
+        "Contratempo",
+        "Contrapartida",
+        "Contracapa",
+        "Contraste"
       ]
     }
   ],
-  "data": "2026-08-01"
+  "data": "2026-08-02"
 }
