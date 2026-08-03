@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Conceitos Musicais",
+      "tema": "ELEMENTOS QUÍMICOS COMUNS",
       "palavras": [
-        "Contraponto",
-        "Andamento",
-        "Timbre",
-        "Harmonia"
+        "Ouro",
+        "Prata",
+        "Cobre",
+        "Ferro"
       ]
     },
     {
-      "tema": "Ossos dos Membros",
+      "tema": "FIGURAS DO BARALHO",
       "palavras": [
-        "Fêmur",
-        "Rádio",
-        "Tíbia",
-        "Cúbito"
+        "Rei",
+        "Dama",
+        "Valete",
+        "Coringa"
       ]
     },
     {
-      "tema": "Ferramentas e Materiais de Marcenaria",
+      "tema": "PARTES DE UMA AVE",
       "palavras": [
-        "Sarrafo",
-        "Serra",
-        "Plaina",
-        "Torno"
+        "Pena",
+        "Asa",
+        "Bico",
+        "Pluma"
       ]
     },
     {
-      "tema": "Palavras iniciadas por \"CONTRA-\"",
+      "tema": "PALAVRAS COM SIGNIFICADOS ABSTRATOS E CONCRETOS",
       "palavras": [
-        "Contratempo",
-        "Contrapartida",
-        "Contracapa",
-        "Contraste"
+        "Ponto",
+        "Graça",
+        "Sentido",
+        "Valor"
       ]
     }
   ],
-  "data": "2026-08-02"
+  "data": "2026-08-03"
 }
