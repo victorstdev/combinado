@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "ELEMENTOS QUÍMICOS COMUNS",
+      "tema": "Elementos da Capoeira",
       "palavras": [
-        "Ouro",
-        "Prata",
-        "Cobre",
-        "Ferro"
+        "BERIMBAU",
+        "GINGA",
+        "AÚ",
+        "RODA"
       ]
     },
     {
-      "tema": "FIGURAS DO BARALHO",
+      "tema": "Expressões Populares com \"PÉ\"",
       "palavras": [
-        "Rei",
-        "Dama",
-        "Valete",
-        "Coringa"
+        "PÉ DE VENTO",
+        "PÉ DE CABRA",
+        "PÉ DE MOLEQUE",
+        "PÉ NA COVA"
       ]
     },
     {
-      "tema": "PARTES DE UMA AVE",
+      "tema": "Conceitos de Codificação e Criptografia",
       "palavras": [
-        "Pena",
-        "Asa",
-        "Bico",
-        "Pluma"
+        "CIFRA",
+        "CHAVE",
+        "ALGORITMO",
+        "DECODER"
       ]
     },
     {
-      "tema": "PALAVRAS COM SIGNIFICADOS ABSTRATOS E CONCRETOS",
+      "tema": "Componentes e Formatos de Imagem Digital",
       "palavras": [
-        "Ponto",
-        "Graça",
-        "Sentido",
-        "Valor"
+        "VETOR",
+        "PIXEL",
+        "JPG",
+        "PNG"
       ]
     }
   ],
-  "data": "2026-08-03"
+  "data": "2026-08-04"
 }
