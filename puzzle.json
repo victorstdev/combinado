@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos da Capoeira",
+      "tema": "Instrumentos Musicais de Percussão (Brasil)",
       "palavras": [
-        "BERIMBAU",
-        "GINGA",
-        "AÚ",
-        "RODA"
+        "CUÍCA",
+        "PANDEIRO",
+        "TAMBORIM",
+        "AGOGÔ"
       ]
     },
     {
-      "tema": "Expressões Populares com \"PÉ\"",
+      "tema": "Unidades de Medida Históricas ou Regionais",
       "palavras": [
-        "PÉ DE VENTO",
-        "PÉ DE CABRA",
-        "PÉ DE MOLEQUE",
-        "PÉ NA COVA"
+        "LÉGUA",
+        "ALQUEIRE",
+        "ARROBA",
+        "BRAÇA"
       ]
     },
     {
-      "tema": "Conceitos de Codificação e Criptografia",
+      "tema": "Componentes de Correspondência Formal",
       "palavras": [
-        "CIFRA",
-        "CHAVE",
-        "ALGORITMO",
-        "DECODER"
+        "VOCATIVO",
+        "REMETENTE",
+        "FECHO",
+        "ASSUNTO"
       ]
     },
     {
-      "tema": "Componentes e Formatos de Imagem Digital",
+      "tema": "Processos Químico-Físicos de Separação/Transformação",
       "palavras": [
-        "VETOR",
-        "PIXEL",
-        "JPG",
-        "PNG"
+        "DECANTAÇÃO",
+        "DESTILAÇÃO",
+        "FERMENTAÇÃO",
+        "MACERAÇÃO"
       ]
     }
   ],
-  "data": "2026-08-04"
+  "data": "2026-08-05"
 }
