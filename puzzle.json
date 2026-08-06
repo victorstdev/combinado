@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Instrumentos Musicais de Percussão (Brasil)",
+      "tema": "Partes de Instrumentos Musicais de Corda",
       "palavras": [
-        "CUÍCA",
-        "PANDEIRO",
-        "TAMBORIM",
-        "AGOGÔ"
+        "Traste",
+        "Cavalete",
+        "Braço",
+        "Alma"
       ]
     },
     {
-      "tema": "Unidades de Medida Históricas ou Regionais",
+      "tema": "Alimentos Fermentados",
       "palavras": [
-        "LÉGUA",
-        "ALQUEIRE",
-        "ARROBA",
-        "BRAÇA"
+        "Kefir",
+        "Chucrute",
+        "Missô",
+        "Tempeh"
       ]
     },
     {
-      "tema": "Componentes de Correspondência Formal",
+      "tema": "Figuras de Linguagem",
       "palavras": [
-        "VOCATIVO",
-        "REMETENTE",
-        "FECHO",
-        "ASSUNTO"
+        "Prosopopeia",
+        "Hipérbole",
+        "Paradoxo",
+        "Metonímia"
       ]
     },
     {
-      "tema": "Processos Químico-Físicos de Separação/Transformação",
+      "tema": "Termos Relacionados a Fluxo de Água Natural",
       "palavras": [
-        "DECANTAÇÃO",
-        "DESTILAÇÃO",
-        "FERMENTAÇÃO",
-        "MACERAÇÃO"
+        "Vazante",
+        "Corredeira",
+        "Córrego",
+        "Vertente"
       ]
     }
   ],
-  "data": "2026-08-05"
+  "data": "2026-08-06"
 }
