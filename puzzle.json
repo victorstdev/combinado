@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de Instrumentos Musicais de Corda",
+      "tema": "ELEMENTOS DA ORAÇÃO",
       "palavras": [
-        "Traste",
-        "Cavalete",
-        "Braço",
-        "Alma"
+        "Sujeito",
+        "Predicado",
+        "Objeto",
+        "Adjunto"
       ]
     },
     {
-      "tema": "Alimentos Fermentados",
+      "tema": "PALAVRAS COM MÚLTIPLOS SIGNIFICADOS",
       "palavras": [
-        "Kefir",
-        "Chucrute",
-        "Missô",
-        "Tempeh"
+        "Manga",
+        "Banco",
+        "Serra",
+        "Porta"
       ]
     },
     {
-      "tema": "Figuras de Linguagem",
+      "tema": "SENSAÇÕES ORAIS / SABORES",
       "palavras": [
-        "Prosopopeia",
-        "Hipérbole",
-        "Paradoxo",
-        "Metonímia"
+        "Adstringente",
+        "Amargo",
+        "Picante",
+        "Ácido"
       ]
     },
     {
-      "tema": "Termos Relacionados a Fluxo de Água Natural",
+      "tema": "TONALIDADES DE CORES QUE NOMEIAM OUTRAS COISAS",
       "palavras": [
-        "Vazante",
-        "Corredeira",
-        "Córrego",
-        "Vertente"
+        "Canário",
+        "Oliva",
+        "Lacre",
+        "Terracota"
       ]
     }
   ],
-  "data": "2026-08-06"
+  "data": "2026-08-07"
 }
