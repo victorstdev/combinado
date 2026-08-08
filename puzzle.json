@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "ELEMENTOS DA ORAÇÃO",
+      "tema": "PALAVRAS HOMÓGRAFAS (SUBSTANTIVO E VERBO)",
       "palavras": [
-        "Sujeito",
-        "Predicado",
-        "Objeto",
-        "Adjunto"
-      ]
-    },
-    {
-      "tema": "PALAVRAS COM MÚLTIPLOS SIGNIFICADOS",
-      "palavras": [
-        "Manga",
-        "Banco",
+        "Canto",
+        "Vela",
         "Serra",
-        "Porta"
+        "Raia"
       ]
     },
     {
-      "tema": "SENSAÇÕES ORAIS / SABORES",
+      "tema": "ITENS DE FIAÇÃO E ENROLAMENTO",
       "palavras": [
-        "Adstringente",
-        "Amargo",
-        "Picante",
-        "Ácido"
+        "Linha",
+        "Fio",
+        "Novelo",
+        "Carretel"
       ]
     },
     {
-      "tema": "TONALIDADES DE CORES QUE NOMEIAM OUTRAS COISAS",
+      "tema": "COMPONENTES DE UM SISTEMA DE FREIO",
       "palavras": [
-        "Canário",
-        "Oliva",
-        "Lacre",
-        "Terracota"
+        "Cabo",
+        "Disco",
+        "Pastilha",
+        "Lona"
+      ]
+    },
+    {
+      "tema": "FORMAS DE UNIÃO OU LIGAÇÃO",
+      "palavras": [
+        "Nó",
+        "Laço",
+        "Corrente",
+        "Elo"
       ]
     }
   ],
-  "data": "2026-08-07"
+  "data": "2026-08-08"
 }
