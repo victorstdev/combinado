@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PALAVRAS HOMÓGRAFAS (SUBSTANTIVO E VERBO)",
+      "tema": "FIGURAS DE LINGUAGEM E SINTAXE",
       "palavras": [
-        "Canto",
-        "Vela",
-        "Serra",
-        "Raia"
+        "Apóstrofe",
+        "Elipse",
+        "Paradoxo",
+        "Onomatopeia"
       ]
     },
     {
-      "tema": "ITENS DE FIAÇÃO E ENROLAMENTO",
+      "tema": "MODELOS DE CALÇADOS",
       "palavras": [
-        "Linha",
-        "Fio",
-        "Novelo",
-        "Carretel"
+        "Mule",
+        "Oxford",
+        "Mocassim",
+        "Scarpin"
       ]
     },
     {
-      "tema": "COMPONENTES DE UM SISTEMA DE FREIO",
+      "tema": "TERMOS FINANCEIROS E BANCÁRIOS",
       "palavras": [
-        "Cabo",
-        "Disco",
-        "Pastilha",
-        "Lona"
+        "Câmbio",
+        "Ágio",
+        "Saque",
+        "Aporte"
       ]
     },
     {
-      "tema": "FORMAS DE UNIÃO OU LIGAÇÃO",
+      "tema": "CIDADES BRASILEIRAS COM NOME DE SANTO(A)",
       "palavras": [
-        "Nó",
-        "Laço",
-        "Corrente",
-        "Elo"
+        "São Luís",
+        "Santa Cruz",
+        "Santo André",
+        "Santana"
       ]
     }
   ],
-  "data": "2026-08-08"
+  "data": "2026-08-09"
 }
