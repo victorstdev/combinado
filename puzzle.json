@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "VERBOS QUE PODEM ACOMPANHAR 'QUEBRAR'",
+      "tema": "Termos de Pontuação",
       "palavras": [
-        "Gelo",
-        "Recordes",
-        "Cadeia",
-        "Galho"
+        "Ponto",
+        "Vírgula",
+        "Crase",
+        "Parênteses"
       ]
     },
     {
-      "tema": "NOMES COMPOSTOS INICIADOS COM 'ÁGUA'",
+      "tema": "Partes de uma Embarcação",
       "palavras": [
-        "Água Viva",
-        "Água Benta",
-        "Água-marinha",
-        "Água de Coco"
+        "Âncora",
+        "Leme",
+        "Quilha",
+        "Mastreação"
       ]
     },
     {
-      "tema": "EXPRESSÕES IDIOMÁTICAS COM A PALAVRA 'BOCA'",
+      "tema": "Componentes de Vestuário",
       "palavras": [
-        "Boca Livre",
-        "Boca de Lobo",
-        "Boca Quente",
-        "Boca Miúda"
+        "Manga",
+        "Punho",
+        "Gola",
+        "Bainha"
       ]
     },
     {
-      "tema": "TIPOS DE DOCUMENTOS OU TEXTOS QUE PODEM SER ASSINADOS",
+      "tema": "Palavras com Múltiplos Sentidos",
       "palavras": [
-        "Carta",
-        "Contrato",
-        "Atas",
-        "Artigo"
+        "Cabo",
+        "Vela",
+        "Linha",
+        "Canto"
       ]
     }
   ],
-  "data": "2026-08-10"
+  "data": "2026-08-11"
 }
