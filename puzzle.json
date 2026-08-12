@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Pontuação",
+      "tema": "Fenômenos ou Termos Hídricos",
       "palavras": [
-        "Ponto",
-        "Vírgula",
-        "Crase",
-        "Parênteses"
+        "Maresia",
+        "Correnteza",
+        "Aguaceiro",
+        "Hidra"
       ]
     },
     {
-      "tema": "Partes de uma Embarcação",
+      "tema": "Processos de Desenvolvimento ou Elevação",
       "palavras": [
-        "Âncora",
-        "Leme",
-        "Quilha",
-        "Mastreação"
+        "Ascensão",
+        "Eclosão",
+        "Surto",
+        "Planalto"
       ]
     },
     {
-      "tema": "Componentes de Vestuário",
+      "tema": "Elementos do Universo Musical",
       "palavras": [
-        "Manga",
-        "Punho",
-        "Gola",
-        "Bainha"
+        "Cravo",
+        "Pistão",
+        "Diapasão",
+        "Cordofone"
       ]
     },
     {
-      "tema": "Palavras com Múltiplos Sentidos",
+      "tema": "Seções de uma Obra Escrita",
       "palavras": [
-        "Cabo",
-        "Vela",
-        "Linha",
-        "Canto"
+        "Prefácio",
+        "Epígrafe",
+        "Colofão",
+        "Sumário"
       ]
     }
   ],
-  "data": "2026-08-11"
+  "data": "2026-08-12"
 }
