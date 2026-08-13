@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Fenômenos ou Termos Hídricos",
+      "tema": "Peças do Jogo de Xadrez",
       "palavras": [
-        "Maresia",
-        "Correnteza",
-        "Aguaceiro",
-        "Hidra"
+        "Torre",
+        "Bispo",
+        "Cavalo",
+        "Peão"
       ]
     },
     {
-      "tema": "Processos de Desenvolvimento ou Elevação",
+      "tema": "Fenômenos ou Estados da Mente",
       "palavras": [
-        "Ascensão",
-        "Eclosão",
-        "Surto",
-        "Planalto"
+        "Devaneio",
+        "Lapsos",
+        "Intuição",
+        "Precognição"
       ]
     },
     {
-      "tema": "Elementos do Universo Musical",
+      "tema": "Termos do Mercado Financeiro",
       "palavras": [
-        "Cravo",
-        "Pistão",
-        "Diapasão",
-        "Cordofone"
+        "Lastro",
+        "Dividendos",
+        "Câmbio",
+        "Capital"
       ]
     },
     {
-      "tema": "Seções de uma Obra Escrita",
+      "tema": "Tipos ou Nomes de Ventos",
       "palavras": [
-        "Prefácio",
-        "Epígrafe",
-        "Colofão",
-        "Sumário"
+        "Brisa",
+        "Monção",
+        "Ciclone",
+        "Minuano"
       ]
     }
   ],
-  "data": "2026-08-12"
+  "data": "2026-08-13"
 }
