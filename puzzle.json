@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "FENÔMENOS E PROPRIEDADES DA LUZ",
+      "tema": "Momentos de Parada ou Transição",
       "palavras": [
-        "Cintilância",
-        "Miragem",
-        "Espectro",
-        "Reflexo"
+        "PAUSA",
+        "INTERVALO",
+        "RESPIRO",
+        "ENTREATO"
       ]
     },
     {
-      "tema": "PARTES DO CORPO EM EXPRESSÕES IDIOMÁTICAS",
+      "tema": "Coisas que Correm ou Fluem",
       "palavras": [
-        "Braço",
-        "Coração",
-        "Pé",
-        "Mão"
+        "RIO",
+        "SANGUE",
+        "TEMPO",
+        "LÁGRIMA"
       ]
     },
     {
-      "tema": "PEQUENAS EMBARCAÇÕES A REMO OU VELA",
+      "tema": "Elementos Mágicos de Contos de Fadas",
       "palavras": [
-        "Canoa",
-        "Caiaque",
-        "Bote",
-        "Gôndola"
+        "VARINHA",
+        "ESPELHO",
+        "SAPATO",
+        "FEIJÃO"
       ]
     },
     {
-      "tema": "COMPLEXOS DE VESTUÁRIO OU ACESSÓRIOS PARA MEMBROS SUPERIORES",
+      "tema": "Termos que Precedem 'do Dia' ou 'da Noite'",
       "palavras": [
-        "Punho",
-        "Luva",
-        "Manopla",
-        "Manguito"
+        "MEIO",
+        "ALTO",
+        "FUNDO",
+        "AUGE"
       ]
     }
   ],
-  "data": "2026-08-14"
+  "data": "2026-08-15"
 }
