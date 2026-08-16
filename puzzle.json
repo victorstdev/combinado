@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Momentos de Parada ou Transição",
+      "tema": "VERBOS (1ª PESSOA PRESENTE) E SEUS SUBSTANTIVOS CORRESPONDENTES",
       "palavras": [
-        "PAUSA",
-        "INTERVALO",
-        "RESPIRO",
-        "ENTREATO"
+        "Canto",
+        "Corte",
+        "Traço",
+        "Fumo"
       ]
     },
     {
-      "tema": "Coisas que Correm ou Fluem",
+      "tema": "ELEMENTOS ARQUITETÔNICOS MENOS ÓBVIOS",
       "palavras": [
-        "RIO",
-        "SANGUE",
-        "TEMPO",
-        "LÁGRIMA"
+        "Alicerce",
+        "Cumeeira",
+        "Frontão",
+        "Rodapé"
       ]
     },
     {
-      "tema": "Elementos Mágicos de Contos de Fadas",
+      "tema": "PREDADORES OU ANIMAIS SELVAGENS (COM SEGUNDOS SENTIDOS)",
       "palavras": [
-        "VARINHA",
-        "ESPELHO",
-        "SAPATO",
-        "FEIJÃO"
+        "Javali",
+        "Lontra",
+        "Jaguar",
+        "Puma"
       ]
     },
     {
-      "tema": "Termos que Precedem 'do Dia' ou 'da Noite'",
+      "tema": "ADJETIVOS DE POUCA QUANTIDADE OU INTENSIDADE",
       "palavras": [
-        "MEIO",
-        "ALTO",
-        "FUNDO",
-        "AUGE"
+        "Escasso",
+        "Minguado",
+        "Exíguo",
+        "Ralo"
       ]
     }
   ],
-  "data": "2026-08-15"
+  "data": "2026-08-16"
 }
