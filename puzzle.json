@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "VERBOS (1ª PESSOA PRESENTE) E SEUS SUBSTANTIVOS CORRESPONDENTES",
+      "tema": "Utensílios de Cozinha Específicos",
       "palavras": [
-        "Canto",
-        "Corte",
-        "Traço",
-        "Fumo"
+        "Batedor",
+        "Ralador",
+        "Mandoline",
+        "Sifão"
       ]
     },
     {
-      "tema": "ELEMENTOS ARQUITETÔNICOS MENOS ÓBVIOS",
+      "tema": "Fenômenos Ópticos Atmosféricos",
       "palavras": [
-        "Alicerce",
-        "Cumeeira",
-        "Frontão",
-        "Rodapé"
+        "Miragem",
+        "Halo",
+        "Coroa",
+        "Parélio"
       ]
     },
     {
-      "tema": "PREDADORES OU ANIMAIS SELVAGENS (COM SEGUNDOS SENTIDOS)",
+      "tema": "Termos Financeiros/Comerciais Específicos",
       "palavras": [
-        "Javali",
-        "Lontra",
-        "Jaguar",
-        "Puma"
+        "Caução",
+        "Ágio",
+        "Penhor",
+        "Escambo"
       ]
     },
     {
-      "tema": "ADJETIVOS DE POUCA QUANTIDADE OU INTENSIDADE",
+      "tema": "Componentes ou Características Náuticas",
       "palavras": [
-        "Escasso",
-        "Minguado",
-        "Exíguo",
-        "Ralo"
+        "Lastro",
+        "Amurada",
+        "Sonda",
+        "Esteira"
       ]
     }
   ],
-  "data": "2026-08-16"
+  "data": "2026-08-17"
 }
