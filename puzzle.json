@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Utensílios de Cozinha Específicos",
+      "tema": "Acessórios ou componentes rústicos/de trabalho",
       "palavras": [
-        "Batedor",
-        "Ralador",
-        "Mandoline",
-        "Sifão"
+        "Canga",
+        "Estribo",
+        "Fuste",
+        "Chibata"
       ]
     },
     {
-      "tema": "Fenômenos Ópticos Atmosféricos",
+      "tema": "Formações geográficas ou tipos de terreno",
       "palavras": [
-        "Miragem",
-        "Halo",
-        "Coroa",
-        "Parélio"
+        "Serra",
+        "Pântano",
+        "Charneca",
+        "Vereda"
       ]
     },
     {
-      "tema": "Termos Financeiros/Comerciais Específicos",
+      "tema": "Sentimentos ou condições de adversidade",
       "palavras": [
-        "Caução",
-        "Ágio",
-        "Penhor",
-        "Escambo"
+        "Apego",
+        "Infortúnio",
+        "Melancolia",
+        "Desdita"
       ]
     },
     {
-      "tema": "Componentes ou Características Náuticas",
+      "tema": "Vestimentas ou acessórios específicos",
       "palavras": [
-        "Lastro",
-        "Amurada",
-        "Sonda",
-        "Esteira"
+        "Alpercatas",
+        "Canelito",
+        "Manguito",
+        "Jaleco"
       ]
     }
   ],
-  "data": "2026-08-17"
+  "data": "2026-08-18"
 }
