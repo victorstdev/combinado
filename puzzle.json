@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Acessórios ou componentes rústicos/de trabalho",
+      "tema": "Elementos de Instrumentos Musicais",
       "palavras": [
-        "Canga",
-        "Estribo",
-        "Fuste",
-        "Chibata"
+        "Sopro",
+        "Cordas",
+        "Palheta",
+        "Vibração"
       ]
     },
     {
-      "tema": "Formações geográficas ou tipos de terreno",
+      "tema": "Conceitos Fundamentais da Física",
       "palavras": [
-        "Serra",
-        "Pântano",
-        "Charneca",
-        "Vereda"
+        "Inércia",
+        "Fricção",
+        "Gravidade",
+        "Impulso"
       ]
     },
     {
-      "tema": "Sentimentos ou condições de adversidade",
+      "tema": "Importantes Rios Brasileiros",
       "palavras": [
-        "Apego",
-        "Infortúnio",
-        "Melancolia",
-        "Desdita"
+        "Capibaribe",
+        "Tietê",
+        "Jequitinhonha",
+        "São Francisco"
       ]
     },
     {
-      "tema": "Vestimentas ou acessórios específicos",
+      "tema": "Corpos Celestes que Nomeiam Marcas/Produtos",
       "palavras": [
-        "Alpercatas",
-        "Canelito",
-        "Manguito",
-        "Jaleco"
+        "Estrela",
+        "Cometa",
+        "Vênus",
+        "Mercúrio"
       ]
     }
   ],
-  "data": "2026-08-18"
+  "data": "2026-08-19"
 }
