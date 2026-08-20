@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos de Instrumentos Musicais",
+      "tema": "TÉCNICAS DE CONFEITARIA",
       "palavras": [
-        "Sopro",
-        "Cordas",
-        "Palheta",
-        "Vibração"
+        "Glaçar",
+        "Peneirar",
+        "Temperar",
+        "Bolear"
       ]
     },
     {
-      "tema": "Conceitos Fundamentais da Física",
+      "tema": "ESPÉCIES DE AVES (COMUNS NO BRASIL)",
       "palavras": [
-        "Inércia",
-        "Fricção",
-        "Gravidade",
-        "Impulso"
+        "Garça",
+        "Coruja",
+        "Andorinha",
+        "Beija-flor"
       ]
     },
     {
-      "tema": "Importantes Rios Brasileiros",
+      "tema": "ELEMENTOS ARQUITETÔNICOS DE TEMPLOS",
       "palavras": [
-        "Capibaribe",
-        "Tietê",
-        "Jequitinhonha",
-        "São Francisco"
+        "Nave",
+        "Sacristia",
+        "Coro",
+        "Cúpula"
       ]
     },
     {
-      "tema": "Corpos Celestes que Nomeiam Marcas/Produtos",
+      "tema": "IRREGULARIDADES EM SUPERFÍCIES",
       "palavras": [
-        "Estrela",
-        "Cometa",
-        "Vênus",
-        "Mercúrio"
+        "Trinca",
+        "Rebarba",
+        "Emenda",
+        "Lasca"
       ]
     }
   ],
-  "data": "2026-08-19"
+  "data": "2026-08-20"
 }
