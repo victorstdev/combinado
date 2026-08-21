@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "TÉCNICAS DE CONFEITARIA",
+      "tema": "Processos e Técnicas Gastronômicas",
       "palavras": [
-        "Glaçar",
-        "Peneirar",
-        "Temperar",
-        "Bolear"
+        "Confit",
+        "Julienne",
+        "Souté",
+        "Bain-marie"
       ]
     },
     {
-      "tema": "ESPÉCIES DE AVES (COMUNS NO BRASIL)",
+      "tema": "Palavras com Múltiplos Sentidos (Homônimos/Polissêmicas)",
       "palavras": [
-        "Garça",
-        "Coruja",
-        "Andorinha",
-        "Beija-flor"
+        "Manga",
+        "Serra",
+        "Cabo",
+        "Lima"
       ]
     },
     {
-      "tema": "ELEMENTOS ARQUITETÔNICOS DE TEMPLOS",
+      "tema": "Termos de Tipografia e Impressão Antigos",
       "palavras": [
-        "Nave",
-        "Sacristia",
-        "Coro",
-        "Cúpula"
+        "Linotipo",
+        "Rotogravura",
+        "Cianotipia",
+        "Clichê"
       ]
     },
     {
-      "tema": "IRREGULARIDADES EM SUPERFÍCIES",
+      "tema": "Antigas Estruturas e Construções Monumentais",
       "palavras": [
-        "Trinca",
-        "Rebarba",
-        "Emenda",
-        "Lasca"
+        "Dólmen",
+        "Nurague",
+        "Zigurate",
+        "Megalito"
       ]
     }
   ],
-  "data": "2026-08-20"
+  "data": "2026-08-21"
 }
