@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Processos e Técnicas Gastronômicas",
+      "tema": "Conceitos de Delimitação e Medida",
       "palavras": [
-        "Confit",
-        "Julienne",
-        "Souté",
-        "Bain-marie"
+        "Régua",
+        "Baliza",
+        "Marco",
+        "Gradiente"
       ]
     },
     {
-      "tema": "Palavras com Múltiplos Sentidos (Homônimos/Polissêmicas)",
+      "tema": "Técnicas de Cocção ou Preparo de Alimentos",
       "palavras": [
-        "Manga",
-        "Serra",
-        "Cabo",
-        "Lima"
+        "Brasear",
+        "Confitar",
+        "Saltear",
+        "Reduzir"
       ]
     },
     {
-      "tema": "Termos de Tipografia e Impressão Antigos",
+      "tema": "Componentes Estruturais de um Livro",
       "palavras": [
-        "Linotipo",
-        "Rotogravura",
-        "Cianotipia",
-        "Clichê"
+        "Lombada",
+        "Epígrafe",
+        "Caderno",
+        "Colofão"
       ]
     },
     {
-      "tema": "Antigas Estruturas e Construções Monumentais",
+      "tema": "Camadas, Invólucros ou Aspectos Externos",
       "palavras": [
-        "Dólmen",
-        "Nurague",
-        "Zigurate",
-        "Megalito"
+        "Face",
+        "Cútis",
+        "Película",
+        "Casca"
       ]
     }
   ],
-  "data": "2026-08-21"
+  "data": "2026-08-22"
 }
