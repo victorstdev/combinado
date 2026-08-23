@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Conceitos de Delimitação e Medida",
+      "tema": "Fenômenos de Propagação",
       "palavras": [
-        "Régua",
-        "Baliza",
-        "Marco",
-        "Gradiente"
+        "Rádio",
+        "Calor",
+        "Som",
+        "Choque"
       ]
     },
     {
-      "tema": "Técnicas de Cocção ou Preparo de Alimentos",
+      "tema": "Ações de Anulação ou Revogação",
       "palavras": [
-        "Brasear",
-        "Confitar",
-        "Saltear",
-        "Reduzir"
+        "Extirpar",
+        "Suprimir",
+        "Banir",
+        "Cassar"
       ]
     },
     {
-      "tema": "Componentes Estruturais de um Livro",
+      "tema": "Conceitos de Direção ou Referência",
       "palavras": [
-        "Lombada",
-        "Epígrafe",
-        "Caderno",
-        "Colofão"
+        "Norte",
+        "Rumo",
+        "Eixo",
+        "Trajetória"
       ]
     },
     {
-      "tema": "Camadas, Invólucros ou Aspectos Externos",
+      "tema": "Sons Breves e Característicos",
       "palavras": [
-        "Face",
-        "Cútis",
-        "Película",
-        "Casca"
+        "Estalo",
+        "Rangido",
+        "Sibilo",
+        "Murmúrio"
       ]
     }
   ],
-  "data": "2026-08-22"
+  "data": "2026-08-23"
 }
