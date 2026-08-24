@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Fenômenos de Propagação",
+      "tema": "Substantivos que se associam ao verbo 'correr'",
       "palavras": [
-        "Rádio",
-        "Calor",
-        "Som",
-        "Choque"
+        "Sorte",
+        "Risco",
+        "Perigo",
+        "Prazo"
       ]
     },
     {
-      "tema": "Ações de Anulação ou Revogação",
+      "tema": "Condições de pouca luz",
       "palavras": [
-        "Extirpar",
-        "Suprimir",
-        "Banir",
-        "Cassar"
+        "Penumbra",
+        "Crepúsculo",
+        "Lusco-fusco",
+        "Sombras"
       ]
     },
     {
-      "tema": "Conceitos de Direção ou Referência",
+      "tema": "Termos relacionados a vinho",
       "palavras": [
-        "Norte",
-        "Rumo",
-        "Eixo",
-        "Trajetória"
+        "Tanino",
+        "Corpo",
+        "Safra",
+        "Aroma"
       ]
     },
     {
-      "tema": "Sons Breves e Característicos",
+      "tema": "Instrumentos musicais de corda",
       "palavras": [
-        "Estalo",
-        "Rangido",
-        "Sibilo",
-        "Murmúrio"
+        "Cavaquinho",
+        "Bandolim",
+        "Harpa",
+        "Sitar"
       ]
     }
   ],
-  "data": "2026-08-23"
+  "data": "2026-08-24"
 }
