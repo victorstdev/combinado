@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "UNIDADES DE TEMPO (MENOS COMUNS)",
+      "tema": "Componentes de Equipamentos de Café",
       "palavras": [
-        "Lustro",
-        "Biênios",
-        "Século",
-        "Quinquênio"
+        "BORRA",
+        "COADOR",
+        "MOINHO",
+        "CAFETEIRA"
       ]
     },
     {
-      "tema": "VERBOS DE MOVIMENTO DE LÍQUIDOS",
+      "tema": "Processos na Preparação de Alimentos e Bebidas",
       "palavras": [
-        "Escorrer",
-        "Borbulhar",
-        "Jorrar",
-        "Transbordar"
+        "FERMENTAR",
+        "DECANTAÇÃO",
+        "MACERAR",
+        "EMULSIONAR"
       ]
     },
     {
-      "tema": "SERES E FIGURAS MITOLÓGICAS/FANTÁSTICAS",
+      "tema": "Partes de Instrumentos Musicais",
       "palavras": [
-        "Feiticeira",
-        "Gnomo",
-        "Sereia",
-        "Dragão"
+        "PONTE",
+        "CORDA",
+        "PEDAL",
+        "BOCA"
       ]
     },
     {
-      "tema": "COISAS QUE POSSUEM ANÉIS (ESTRUTURAS CIRCULARES)",
+      "tema": "Termos Matemáticos com Múltiplos Sentidos",
       "palavras": [
-        "Saturno",
-        "Cebola",
-        "Árvore",
-        "Cortina"
+        "PRISMA",
+        "RAIZ",
+        "VÉRTICE",
+        "POTÊNCIA"
       ]
     }
   ],
-  "data": "2026-08-26"
+  "data": "2026-08-27"
 }
