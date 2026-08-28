@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes de Equipamentos de Café",
+      "tema": "Elementos que 'correm' (em diferentes sentidos)",
       "palavras": [
-        "BORRA",
-        "COADOR",
-        "MOINHO",
-        "CAFETEIRA"
+        "Água",
+        "Sangue",
+        "Boato",
+        "Dinheiro"
       ]
     },
     {
-      "tema": "Processos na Preparação de Alimentos e Bebidas",
+      "tema": "Pratos típicos brasileiros com sufixo -ADA",
       "palavras": [
-        "FERMENTAR",
-        "DECANTAÇÃO",
-        "MACERAR",
-        "EMULSIONAR"
+        "Feijoada",
+        "Galinhada",
+        "Moquecada",
+        "Vatapada"
       ]
     },
     {
-      "tema": "Partes de Instrumentos Musicais",
+      "tema": "Verbos relacionados a voo ou elevação",
       "palavras": [
-        "PONTE",
-        "CORDA",
-        "PEDAL",
-        "BOCA"
+        "Planar",
+        "Pairar",
+        "Alçar",
+        "Decolar"
       ]
     },
     {
-      "tema": "Termos Matemáticos com Múltiplos Sentidos",
+      "tema": "Cores com conotações simbólicas ou expressões fixas",
       "palavras": [
-        "PRISMA",
-        "RAIZ",
-        "VÉRTICE",
-        "POTÊNCIA"
+        "Amarelo",
+        "Verde",
+        "Branco",
+        "Preto"
       ]
     }
   ],
-  "data": "2026-08-27"
+  "data": "2026-08-28"
 }
