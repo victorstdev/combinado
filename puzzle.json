@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos que 'correm' (em diferentes sentidos)",
+      "tema": "Períodos de Tempo Específicos",
       "palavras": [
-        "Água",
-        "Sangue",
-        "Boato",
-        "Dinheiro"
+        "SÉCULO",
+        "LUSTRO",
+        "BIÊNIO",
+        "QUINZENA"
       ]
     },
     {
-      "tema": "Pratos típicos brasileiros com sufixo -ADA",
+      "tema": "Aspectos ou Resquícios do Fogo",
       "palavras": [
-        "Feijoada",
-        "Galinhada",
-        "Moquecada",
-        "Vatapada"
+        "BRASA",
+        "CINZA",
+        "FUMAÇA",
+        "FAÍSCA"
       ]
     },
     {
-      "tema": "Verbos relacionados a voo ou elevação",
+      "tema": "Palavras Compostas Iniciadas com 'PÉ-'",
       "palavras": [
-        "Planar",
-        "Pairar",
-        "Alçar",
-        "Decolar"
+        "PÉ-DE-MOLEQUE",
+        "PÉ-DE-GALINHA",
+        "PÉ-GRANDE",
+        "PÉ-DE-CABRA"
       ]
     },
     {
-      "tema": "Cores com conotações simbólicas ou expressões fixas",
+      "tema": "Termos da Tecelagem/Costura (com polissemia)",
       "palavras": [
-        "Amarelo",
-        "Verde",
-        "Branco",
-        "Preto"
+        "TRAMA",
+        "PONTO",
+        "CORTE",
+        "FIO"
       ]
     }
   ],
-  "data": "2026-08-28"
+  "data": "2026-08-29"
 }
