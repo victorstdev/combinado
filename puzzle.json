@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Períodos de Tempo Específicos",
+      "tema": "Peças de Xadrez",
       "palavras": [
-        "SÉCULO",
-        "LUSTRO",
-        "BIÊNIO",
-        "QUINZENA"
+        "PEÃO",
+        "CAVALO",
+        "TORRE",
+        "BISPO"
       ]
     },
     {
-      "tema": "Aspectos ou Resquícios do Fogo",
+      "tema": "Partes de uma Árvore",
       "palavras": [
-        "BRASA",
-        "CINZA",
-        "FUMAÇA",
-        "FAÍSCA"
+        "TRONCO",
+        "GALHO",
+        "RAIZ",
+        "COROA"
       ]
     },
     {
-      "tema": "Palavras Compostas Iniciadas com 'PÉ-'",
+      "tema": "Tipos de Assento",
       "palavras": [
-        "PÉ-DE-MOLEQUE",
-        "PÉ-DE-GALINHA",
-        "PÉ-GRANDE",
-        "PÉ-DE-CABRA"
+        "BANCO",
+        "CADEIRA",
+        "POLTRONA",
+        "MOCHO"
       ]
     },
     {
-      "tema": "Termos da Tecelagem/Costura (com polissemia)",
+      "tema": "Verbos de Contato Manual",
       "palavras": [
-        "TRAMA",
-        "PONTO",
-        "CORTE",
-        "FIO"
+        "PINÇAR",
+        "APALPAR",
+        "ABRAÇAR",
+        "ESPALMAR"
       ]
     }
   ],
-  "data": "2026-08-29"
+  "data": "2026-08-30"
 }
