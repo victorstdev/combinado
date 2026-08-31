@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Peças de Xadrez",
+      "tema": "Termos da Hidrografia",
       "palavras": [
-        "PEÃO",
-        "CAVALO",
-        "TORRE",
-        "BISPO"
+        "Foz",
+        "Estuário",
+        "Afluente",
+        "Catarata"
       ]
     },
     {
-      "tema": "Partes de uma Árvore",
+      "tema": "Expressões Comuns com o Verbo 'Dar'",
       "palavras": [
-        "TRONCO",
-        "GALHO",
-        "RAIZ",
-        "COROA"
+        "Zebra",
+        "Bandeira",
+        "Sopa",
+        "Mole"
       ]
     },
     {
-      "tema": "Tipos de Assento",
+      "tema": "Elementos Estruturais de Construções",
       "palavras": [
-        "BANCO",
-        "CADEIRA",
-        "POLTRONA",
-        "MOCHO"
+        "Alicerce",
+        "Viga",
+        "Pilar",
+        "Platibanda"
       ]
     },
     {
-      "tema": "Verbos de Contato Manual",
+      "tema": "Quantidades/Coletivos Indefinidos",
       "palavras": [
-        "PINÇAR",
-        "APALPAR",
-        "ABRAÇAR",
-        "ESPALMAR"
+        "Punhado",
+        "Montão",
+        "Penca",
+        "Tufos"
       ]
     }
   ],
-  "data": "2026-08-30"
+  "data": "2026-08-31"
 }
