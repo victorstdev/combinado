@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos da Hidrografia",
+      "tema": "Fenômenos que aumentam ou se elevam",
       "palavras": [
-        "Foz",
-        "Estuário",
-        "Afluente",
-        "Catarata"
+        "MARÉ",
+        "FEBRE",
+        "AUDIÊNCIA",
+        "CÂMBIO"
       ]
     },
     {
-      "tema": "Expressões Comuns com o Verbo 'Dar'",
+      "tema": "Estar em situação complicada",
       "palavras": [
-        "Zebra",
-        "Bandeira",
-        "Sopa",
-        "Mole"
+        "SINUCA",
+        "ROUBADA",
+        "APURO",
+        "LENÇÓIS"
       ]
     },
     {
-      "tema": "Elementos Estruturais de Construções",
+      "tema": "Estruturas de vegetais (com sentidos figurados)",
       "palavras": [
-        "Alicerce",
-        "Viga",
-        "Pilar",
-        "Platibanda"
+        "TRONCO",
+        "RAIZ",
+        "COROA",
+        "RAMA"
       ]
     },
     {
-      "tema": "Quantidades/Coletivos Indefinidos",
+      "tema": "O que se pode 'PASSAR'",
       "palavras": [
-        "Punhado",
-        "Montão",
-        "Penca",
-        "Tufos"
+        "BOLA",
+        "PERNA",
+        "ASSUNTO",
+        "TEMPO"
       ]
     }
   ],
-  "data": "2026-08-31"
+  "data": "2026-09-01"
 }
