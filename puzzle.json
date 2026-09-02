@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Fenômenos que aumentam ou se elevam",
+      "tema": "O Que 'Corre' ou Flui",
       "palavras": [
-        "MARÉ",
-        "FEBRE",
-        "AUDIÊNCIA",
-        "CÂMBIO"
+        "Rio",
+        "Linha",
+        "Tempo",
+        "Boato"
       ]
     },
     {
-      "tema": "Estar em situação complicada",
+      "tema": "Partes do Corpo com Outros Sentidos",
       "palavras": [
-        "SINUCA",
-        "ROUBADA",
-        "APURO",
-        "LENÇÓIS"
+        "Braço",
+        "Pé",
+        "Boca",
+        "Mão"
       ]
     },
     {
-      "tema": "Estruturas de vegetais (com sentidos figurados)",
+      "tema": "Unidades de Medida Coletiva ou Informal",
       "palavras": [
-        "TRONCO",
-        "RAIZ",
-        "COROA",
-        "RAMA"
+        "Molho",
+        "Tira",
+        "Penca",
+        "Resma"
       ]
     },
     {
-      "tema": "O que se pode 'PASSAR'",
+      "tema": "Termos Musicais com Múltiplos Contextos",
       "palavras": [
-        "BOLA",
-        "PERNA",
-        "ASSUNTO",
-        "TEMPO"
+        "Tom",
+        "Nota",
+        "Pauta",
+        "Acorde"
       ]
     }
   ],
-  "data": "2026-09-01"
+  "data": "2026-09-02"
 }
