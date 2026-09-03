@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "O Que 'Corre' ou Flui",
+      "tema": "Partes de uma Composição Musical",
       "palavras": [
-        "Rio",
-        "Linha",
-        "Tempo",
-        "Boato"
+        "Refrão",
+        "Estrofe",
+        "Ponte",
+        "Coda"
       ]
     },
     {
-      "tema": "Partes do Corpo com Outros Sentidos",
+      "tema": "Fenômenos ou Estados da Água e do Ar",
       "palavras": [
-        "Braço",
-        "Pé",
-        "Boca",
-        "Mão"
+        "Orvalho",
+        "Névoa",
+        "Garoa",
+        "Sereno"
       ]
     },
     {
-      "tema": "Unidades de Medida Coletiva ou Informal",
+      "tema": "Elementos de Suporte ou Estrutura",
       "palavras": [
-        "Molho",
-        "Tira",
-        "Penca",
-        "Resma"
+        "Pilar",
+        "Viga",
+        "Fundação",
+        "Laje"
       ]
     },
     {
-      "tema": "Termos Musicais com Múltiplos Contextos",
+      "tema": "Conceitos Abstratos da Mente",
       "palavras": [
-        "Tom",
-        "Nota",
-        "Pauta",
-        "Acorde"
+        "Epifania",
+        "Subliminar",
+        "Inconsciente",
+        "Cognição"
       ]
     }
   ],
-  "data": "2026-09-02"
+  "data": "2026-09-03"
 }
