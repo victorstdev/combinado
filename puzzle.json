@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de uma Composição Musical",
+      "tema": "Fenômenos e Termos Meteorológicos",
       "palavras": [
-        "Refrão",
-        "Estrofe",
-        "Ponte",
-        "Coda"
+        "Isóbara",
+        "Monção",
+        "Barômetro",
+        "Frente Fria"
       ]
     },
     {
-      "tema": "Fenômenos ou Estados da Água e do Ar",
+      "tema": "Partes do Corpo Humano (ossos e estruturas)",
       "palavras": [
-        "Orvalho",
-        "Névoa",
-        "Garoa",
-        "Sereno"
+        "Menisco",
+        "Clavícula",
+        "Retina",
+        "Fíbula"
       ]
     },
     {
-      "tema": "Elementos de Suporte ou Estrutura",
+      "tema": "Aspectos da Fala e Pronúncia",
       "palavras": [
-        "Pilar",
-        "Viga",
-        "Fundação",
-        "Laje"
+        "Sotaque",
+        "Dicção",
+        "Silabada",
+        "Trava-língua"
       ]
     },
     {
-      "tema": "Conceitos Abstratos da Mente",
+      "tema": "Verbos de Movimento ou Manipulação de Líquidos",
       "palavras": [
-        "Epifania",
-        "Subliminar",
-        "Inconsciente",
-        "Cognição"
+        "Escorrer",
+        "Coar",
+        "Percolar",
+        "Gotejar"
       ]
     }
   ],
-  "data": "2026-09-03"
+  "data": "2026-09-04"
 }
