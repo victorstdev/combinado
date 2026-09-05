@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Fenômenos e Termos Meteorológicos",
+      "tema": "Unidades de Medida de Capacidade",
       "palavras": [
-        "Isóbara",
-        "Monção",
-        "Barômetro",
-        "Frente Fria"
+        "Litro",
+        "Galão",
+        "Barril",
+        "Copo"
       ]
     },
     {
-      "tema": "Partes do Corpo Humano (ossos e estruturas)",
+      "tema": "Ações ou Dispositivos de Interrupção",
       "palavras": [
-        "Menisco",
-        "Clavícula",
-        "Retina",
-        "Fíbula"
+        "Travar",
+        "Corte",
+        "Pausa",
+        "Freio"
       ]
     },
     {
-      "tema": "Aspectos da Fala e Pronúncia",
+      "tema": "Extremidades ou Limites",
       "palavras": [
-        "Sotaque",
-        "Dicção",
-        "Silabada",
-        "Trava-língua"
+        "Beira",
+        "Orla",
+        "Margem",
+        "Cume"
       ]
     },
     {
-      "tema": "Verbos de Movimento ou Manipulação de Líquidos",
+      "tema": "Termos de Jogos de Cartas",
       "palavras": [
-        "Escorrer",
-        "Coar",
-        "Percolar",
-        "Gotejar"
+        "Naipe",
+        "Trunfo",
+        "Rodada",
+        "Vaza"
       ]
     }
   ],
-  "data": "2026-09-04"
+  "data": "2026-09-05"
 }
