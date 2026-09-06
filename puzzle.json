@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Unidades de Medida de Capacidade",
+      "tema": "Elementos Gráficos e de Representação",
       "palavras": [
-        "Litro",
-        "Galão",
-        "Barril",
-        "Copo"
+        "Ponto",
+        "Linha",
+        "Planta",
+        "Quadro"
       ]
     },
     {
-      "tema": "Ações ou Dispositivos de Interrupção",
+      "tema": "Componentes ou Peças Rígidas",
       "palavras": [
-        "Travar",
+        "Bloco",
+        "Lâmina",
+        "Barra",
+        "Cabo"
+      ]
+    },
+    {
+      "tema": "Termos de Valor, Decisão ou Mudança",
+      "palavras": [
+        "Nota",
         "Corte",
-        "Pausa",
-        "Freio"
+        "Sede",
+        "Salto"
       ]
     },
     {
-      "tema": "Extremidades ou Limites",
+      "tema": "Objetos Cotidianos com Múltiplos Usos",
       "palavras": [
-        "Beira",
-        "Orla",
-        "Margem",
-        "Cume"
-      ]
-    },
-    {
-      "tema": "Termos de Jogos de Cartas",
-      "palavras": [
-        "Naipe",
-        "Trunfo",
-        "Rodada",
-        "Vaza"
+        "Vela",
+        "Serra",
+        "Manga",
+        "Prato"
       ]
     }
   ],
-  "data": "2026-09-05"
+  "data": "2026-09-06"
 }
