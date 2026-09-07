@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos Gráficos e de Representação",
+      "tema": "EXPRESSÕES COM O VERBO \"DAR\"",
       "palavras": [
-        "Ponto",
-        "Linha",
-        "Planta",
-        "Quadro"
+        "Mão",
+        "Sinal",
+        "Trabalho",
+        "Jeito"
       ]
     },
     {
-      "tema": "Componentes ou Peças Rígidas",
+      "tema": "ELEMENTOS LIGADOS A FLUXO E DESLOCAMENTO",
       "palavras": [
-        "Bloco",
-        "Lâmina",
-        "Barra",
-        "Cabo"
+        "Vento",
+        "Onda",
+        "Corrente",
+        "Rio"
       ]
     },
     {
-      "tema": "Termos de Valor, Decisão ou Mudança",
+      "tema": "LOCAIS DE GUARDA OU ARMAZENAMENTO ESPECÍFICO",
       "palavras": [
-        "Nota",
-        "Corte",
-        "Sede",
-        "Salto"
+        "Biblioteca",
+        "Arquivo",
+        "Despensa",
+        "Cofre"
       ]
     },
     {
-      "tema": "Objetos Cotidianos com Múltiplos Usos",
+      "tema": "SUBSTANTIVOS QUE SE PODEM \"QUEBRAR\"",
       "palavras": [
-        "Vela",
-        "Serra",
-        "Manga",
-        "Prato"
+        "Recorde",
+        "Silêncio",
+        "Promessa",
+        "Gelo"
       ]
     }
   ],
-  "data": "2026-09-06"
+  "data": "2026-09-07"
 }
