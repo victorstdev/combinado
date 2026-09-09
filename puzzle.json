@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes de uma Caneta Esferográfica",
+      "tema": "PARTES E LADOS DE EMBARCAÇÕES",
       "palavras": [
-        "Carga",
-        "Ponta",
-        "Corpo",
-        "Tubo"
+        "PROA",
+        "POPA",
+        "ESTIBORDO",
+        "BOMBORDO"
       ]
     },
     {
-      "tema": "Termos e Ações da Costura",
+      "tema": "CORES QUE TAMBÉM SÃO SUBSTANTIVOS",
       "palavras": [
-        "Ponto",
-        "Fio",
-        "Dobra",
-        "Corte"
+        "LARANJA",
+        "ROSA",
+        "ÍNDIGO",
+        "CARMIM"
       ]
     },
     {
-      "tema": "Componentes de um Livro",
+      "tema": "PEÇAS DO XADREZ",
       "palavras": [
-        "Capa",
-        "Miolo",
-        "Lombada",
-        "Orelha"
+        "PEÃO",
+        "TORRE",
+        "BISPO",
+        "RAINHA"
       ]
     },
     {
-      "tema": "Componentes de Instrumentos Musicais",
+      "tema": "PARTES DO CORPO COM OUTROS SIGNIFICADOS COMUNS",
       "palavras": [
-        "Cordas",
-        "Tecla",
-        "Vareta",
-        "Pé"
+        "DEDO",
+        "MÃO",
+        "BOCA",
+        "PÉ"
       ]
     }
   ],
-  "data": "2026-09-08"
+  "data": "2026-09-09"
 }
