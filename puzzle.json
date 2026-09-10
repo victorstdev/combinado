@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PARTES E LADOS DE EMBARCAÇÕES",
+      "tema": "Corpos Celestes (com significados ampliados)",
       "palavras": [
-        "PROA",
-        "POPA",
-        "ESTIBORDO",
-        "BOMBORDO"
+        "Cometa",
+        "Estrela",
+        "Órbita",
+        "Satélite"
       ]
     },
     {
-      "tema": "CORES QUE TAMBÉM SÃO SUBSTANTIVOS",
+      "tema": "Elementos de Fixação ou Ligação",
       "palavras": [
-        "LARANJA",
-        "ROSA",
-        "ÍNDIGO",
-        "CARMIM"
+        "Nó",
+        "Laço",
+        "Presilha",
+        "Trava"
       ]
     },
     {
-      "tema": "PEÇAS DO XADREZ",
+      "tema": "Conceitos ou Medidas de Tempo",
       "palavras": [
-        "PEÃO",
-        "TORRE",
-        "BISPO",
-        "RAINHA"
+        "Época",
+        "Instante",
+        "Secular",
+        "Crono"
       ]
     },
     {
-      "tema": "PARTES DO CORPO COM OUTROS SIGNIFICADOS COMUNS",
+      "tema": "Partes e Elementos de Publicações",
       "palavras": [
-        "DEDO",
-        "MÃO",
-        "BOCA",
-        "PÉ"
+        "Capa",
+        "Caderno",
+        "Manchete",
+        "Margem"
       ]
     }
   ],
-  "data": "2026-09-09"
+  "data": "2026-09-10"
 }
