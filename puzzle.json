@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Corpos Celestes (com significados ampliados)",
+      "tema": "Termos de Escola de Samba",
       "palavras": [
+        "Ala",
+        "Mestre-sala",
+        "Porta-bandeira",
+        "Bateria"
+      ]
+    },
+    {
+      "tema": "Utensílios de Cozinha (-dor)",
+      "palavras": [
+        "Batedor",
+        "Ralador",
+        "Escorredor",
+        "Amassador"
+      ]
+    },
+    {
+      "tema": "Verbos de Movimento Circular/Revolução",
+      "palavras": [
+        "Girar",
+        "Rodar",
+        "Circundar",
+        "Revolver"
+      ]
+    },
+    {
+      "tema": "Coisas que Se Movem no Ar/Espaço",
+      "palavras": [
+        "Pipa",
         "Cometa",
-        "Estrela",
-        "Órbita",
-        "Satélite"
-      ]
-    },
-    {
-      "tema": "Elementos de Fixação ou Ligação",
-      "palavras": [
-        "Nó",
-        "Laço",
-        "Presilha",
-        "Trava"
-      ]
-    },
-    {
-      "tema": "Conceitos ou Medidas de Tempo",
-      "palavras": [
-        "Época",
-        "Instante",
-        "Secular",
-        "Crono"
-      ]
-    },
-    {
-      "tema": "Partes e Elementos de Publicações",
-      "palavras": [
-        "Capa",
-        "Caderno",
-        "Manchete",
-        "Margem"
+        "Boato",
+        "Pássaro"
       ]
     }
   ],
-  "data": "2026-09-10"
+  "data": "2026-09-11"
 }
