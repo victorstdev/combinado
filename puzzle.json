@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Escola de Samba",
+      "tema": "TERMOS DE NAVEGAÇÃO",
       "palavras": [
-        "Ala",
-        "Mestre-sala",
-        "Porta-bandeira",
-        "Bateria"
+        "Estibordo",
+        "Bombordo",
+        "Leme",
+        "Calado"
       ]
     },
     {
-      "tema": "Utensílios de Cozinha (-dor)",
+      "tema": "FACILITADORES DE DESLIZAMENTO",
       "palavras": [
-        "Batedor",
-        "Ralador",
-        "Escorredor",
-        "Amassador"
+        "Graxa",
+        "Gelo",
+        "Óleo",
+        "Deslize"
       ]
     },
     {
-      "tema": "Verbos de Movimento Circular/Revolução",
+      "tema": "PARTES DE INSTRUMENTOS DE CORDA",
       "palavras": [
-        "Girar",
-        "Rodar",
-        "Circundar",
-        "Revolver"
+        "Traste",
+        "Cavalete",
+        "Ponte",
+        "Tarraxa"
       ]
     },
     {
-      "tema": "Coisas que Se Movem no Ar/Espaço",
+      "tema": "TIPOS DE NÓS",
       "palavras": [
-        "Pipa",
-        "Cometa",
-        "Boato",
-        "Pássaro"
+        "Oito",
+        "Cego",
+        "Direito",
+        "Volta"
       ]
     }
   ],
-  "data": "2026-09-11"
+  "data": "2026-09-12"
 }
