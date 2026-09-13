@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "TERMOS DE NAVEGAÇÃO",
+      "tema": "Cores que também são nomes de frutas",
       "palavras": [
-        "Estibordo",
-        "Bombordo",
-        "Leme",
-        "Calado"
+        "Laranja",
+        "Lima",
+        "Ameixa",
+        "Cereja"
       ]
     },
     {
-      "tema": "FACILITADORES DE DESLIZAMENTO",
+      "tema": "Situações ou coisas que representam problema",
       "palavras": [
-        "Graxa",
-        "Gelo",
-        "Óleo",
-        "Deslize"
+        "Abacaxi",
+        "Pepino",
+        "B.O.",
+        "Perrengue"
       ]
     },
     {
-      "tema": "PARTES DE INSTRUMENTOS DE CORDA",
+      "tema": "Partes do corpo com outros significados",
       "palavras": [
-        "Traste",
-        "Cavalete",
-        "Ponte",
-        "Tarraxa"
+        "Mão",
+        "Pé",
+        "Língua",
+        "Olho"
       ]
     },
     {
-      "tema": "TIPOS DE NÓS",
+      "tema": "Animais que também são gírias ou objetos",
       "palavras": [
-        "Oito",
-        "Cego",
-        "Direito",
-        "Volta"
+        "Cobra",
+        "Rato",
+        "Gato",
+        "Macaco"
       ]
     }
   ],
-  "data": "2026-09-12"
+  "data": "2026-09-13"
 }
