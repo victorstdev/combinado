@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Cores que também são nomes de frutas",
+      "tema": "TERMOS DE NAVEGAÇÃO MARÍTIMA",
       "palavras": [
-        "Laranja",
-        "Lima",
-        "Ameixa",
-        "Cereja"
+        "Âncora",
+        "Estibordo",
+        "Abrolhos",
+        "Sonda"
       ]
     },
     {
-      "tema": "Situações ou coisas que representam problema",
+      "tema": "CRIATURAS DE CONTOS DE FADAS",
       "palavras": [
-        "Abacaxi",
-        "Pepino",
-        "B.O.",
-        "Perrengue"
+        "Gnomo",
+        "Sereia",
+        "Fada",
+        "Grifo"
       ]
     },
     {
-      "tema": "Partes do corpo com outros significados",
+      "tema": "PARTES DE UMA ARMA DE FOGO",
       "palavras": [
-        "Mão",
-        "Pé",
-        "Língua",
-        "Olho"
+        "Gatilho",
+        "Coronha",
+        "Cano",
+        "Mira"
       ]
     },
     {
-      "tema": "Animais que também são gírias ou objetos",
+      "tema": "TÉCNICAS CULINÁRIAS (VERBOS)",
       "palavras": [
-        "Cobra",
-        "Rato",
-        "Gato",
-        "Macaco"
+        "Branquear",
+        "Saltear",
+        "Reduzir",
+        "Pincelar"
       ]
     }
   ],
-  "data": "2026-09-13"
+  "data": "2026-09-14"
 }
