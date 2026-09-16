@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de Peças de Vestuário com Homônimos",
+      "tema": "PARTES DO CORPO COM USOS FIGURADOS",
       "palavras": [
-        "Manga",
-        "Gola",
-        "Bolso",
-        "Punho"
+        "MÃO",
+        "PÉ",
+        "BRAÇO",
+        "BOCA"
       ]
     },
     {
-      "tema": "Formações Geográficas que Também São Outras Coisas",
+      "tema": "TERMOS DE ALFAIATARIA OU COSTURA",
       "palavras": [
-        "Serra",
-        "Vale",
-        "Cabo",
-        "Ponta"
+        "PONTO",
+        "CORTE",
+        "BARRA",
+        "LINHA"
       ]
     },
     {
-      "tema": "Termos Jurídicos com Outros Significados",
+      "tema": "CONCEITOS TEATRAIS E DE ATUAÇÃO",
       "palavras": [
-        "Processo",
-        "Código",
-        "Cadeia",
-        "Foro"
+        "PAPEL",
+        "MÁSCARA",
+        "PERFORMANCE",
+        "INTERPRETAÇÃO"
       ]
     },
     {
-      "tema": "Animais Cujos Nomes Têm Outros Sentidos",
+      "tema": "ANIMAIS EM EXPRESSÕES POPULARES",
       "palavras": [
-        "Pena",
-        "Burro",
-        "Gato",
-        "Rato"
+        "GATO",
+        "COBRA",
+        "LEÃO",
+        "PATO"
       ]
     }
   ],
-  "data": "2026-09-15"
+  "data": "2026-09-16"
 }
