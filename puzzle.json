@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PARTES DO CORPO COM USOS FIGURADOS",
+      "tema": "Termos de Criptografia",
       "palavras": [
-        "MÃO",
-        "PÉ",
-        "BRAÇO",
-        "BOCA"
+        "Chave",
+        "Cifra",
+        "Hash",
+        "Algoritmo"
       ]
     },
     {
-      "tema": "TERMOS DE ALFAIATARIA OU COSTURA",
+      "tema": "Unidades de Tempo Extensas",
       "palavras": [
-        "PONTO",
-        "CORTE",
-        "BARRA",
-        "LINHA"
+        "Lustro",
+        "Século",
+        "Milênio",
+        "Era"
       ]
     },
     {
-      "tema": "CONCEITOS TEATRAIS E DE ATUAÇÃO",
+      "tema": "Componentes de Instrumentos de Sopro",
       "palavras": [
-        "PAPEL",
-        "MÁSCARA",
-        "PERFORMANCE",
-        "INTERPRETAÇÃO"
+        "Palheta",
+        "Êmbolo",
+        "Bocal",
+        "Campana"
       ]
     },
     {
-      "tema": "ANIMAIS EM EXPRESSÕES POPULARES",
+      "tema": "Verbos de Sono Leve/Cochilo",
       "palavras": [
-        "GATO",
-        "COBRA",
-        "LEÃO",
-        "PATO"
+        "Cochilar",
+        "Pestanejar",
+        "Dormitar",
+        "Sonecar"
       ]
     }
   ],
-  "data": "2026-09-16"
+  "data": "2026-09-17"
 }
