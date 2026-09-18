@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Criptografia",
+      "tema": "Coisas que 'correm'",
       "palavras": [
-        "Chave",
-        "Cifra",
-        "Hash",
-        "Algoritmo"
+        "Correio",
+        "Rio",
+        "Nariz",
+        "Boato"
       ]
     },
     {
-      "tema": "Unidades de Tempo Extensas",
+      "tema": "Termos de Culinária Oriental",
       "palavras": [
-        "Lustro",
-        "Século",
-        "Milênio",
-        "Era"
+        "Wasabi",
+        "Udon",
+        "Kimchi",
+        "Sake"
       ]
     },
     {
-      "tema": "Componentes de Instrumentos de Sopro",
+      "tema": "Fenômenos Ópticos ou Meteorológicos",
       "palavras": [
-        "Palheta",
-        "Êmbolo",
-        "Bocal",
-        "Campana"
+        "Miragem",
+        "Halo",
+        "Arco-íris",
+        "Fata Morgana"
       ]
     },
     {
-      "tema": "Verbos de Sono Leve/Cochilo",
+      "tema": "Termos relacionados à Água Salgada",
       "palavras": [
-        "Cochilar",
-        "Pestanejar",
-        "Dormitar",
-        "Sonecar"
+        "Maré",
+        "Recife",
+        "Salgema",
+        "Ressaca"
       ]
     }
   ],
-  "data": "2026-09-17"
+  "data": "2026-09-18"
 }
