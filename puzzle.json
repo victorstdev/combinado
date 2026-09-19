@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Coisas que 'correm'",
+      "tema": "PONTOS DE ALTURA OU EXTREMIDADE",
       "palavras": [
-        "Correio",
-        "Rio",
-        "Nariz",
-        "Boato"
+        "Ponta",
+        "Cume",
+        "Vértice",
+        "Ápice"
       ]
     },
     {
-      "tema": "Termos de Culinária Oriental",
+      "tema": "EXPRESSÕES COM O VERBO \"DAR\"",
       "palavras": [
-        "Wasabi",
-        "Udon",
-        "Kimchi",
-        "Sake"
+        "Mão",
+        "Carta",
+        "Corda",
+        "Bola"
       ]
     },
     {
-      "tema": "Fenômenos Ópticos ou Meteorológicos",
+      "tema": "ELEMENTOS DE UMA PEÇA TEATRAL",
       "palavras": [
-        "Miragem",
-        "Halo",
-        "Arco-íris",
-        "Fata Morgana"
+        "Cenário",
+        "Palco",
+        "Enredo",
+        "Figurino"
       ]
     },
     {
-      "tema": "Termos relacionados à Água Salgada",
+      "tema": "SINÔNIMOS DE CAMINHO OU TRAJETO",
       "palavras": [
-        "Maré",
-        "Recife",
-        "Salgema",
-        "Ressaca"
+        "Percurso",
+        "Trajeto",
+        "Rota",
+        "Rumos"
       ]
     }
   ],
-  "data": "2026-09-18"
+  "data": "2026-09-19"
 }
