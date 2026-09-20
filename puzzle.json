@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "PONTOS DE ALTURA OU EXTREMIDADE",
+      "tema": "Unidades de Medida Antigas ou Não-Métricas",
       "palavras": [
-        "Ponta",
-        "Cume",
-        "Vértice",
-        "Ápice"
+        "Libra",
+        "Pé",
+        "Polegada",
+        "Jarda"
       ]
     },
     {
-      "tema": "EXPRESSÕES COM O VERBO \"DAR\"",
+      "tema": "Elementos de Conexão ou Ligação",
       "palavras": [
-        "Mão",
-        "Carta",
-        "Corda",
-        "Bola"
+        "Ponte",
+        "Nó",
+        "Elo",
+        "Vínculo"
       ]
     },
     {
-      "tema": "ELEMENTOS DE UMA PEÇA TEATRAL",
+      "tema": "Conceitos ou Fontes de Luz",
       "palavras": [
-        "Cenário",
-        "Palco",
-        "Enredo",
-        "Figurino"
+        "Facho",
+        "Brilho",
+        "Clareira",
+        "Farol"
       ]
     },
     {
-      "tema": "SINÔNIMOS DE CAMINHO OU TRAJETO",
+      "tema": "Tipos de Sons ou Ruídos",
       "palavras": [
-        "Percurso",
-        "Trajeto",
-        "Rota",
-        "Rumos"
+        "Sibilo",
+        "Estrondo",
+        "Murmúrio",
+        "Canto"
       ]
     }
   ],
-  "data": "2026-09-19"
+  "data": "2026-09-20"
 }
