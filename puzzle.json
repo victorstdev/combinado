@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Unidades de Medida Antigas ou Não-Métricas",
+      "tema": "Técnicas de Impressão e Gravura",
       "palavras": [
-        "Libra",
-        "Pé",
-        "Polegada",
-        "Jarda"
+        "Serigrafia",
+        "Litografia",
+        "Xilogravura",
+        "Clichê"
       ]
     },
     {
-      "tema": "Elementos de Conexão ou Ligação",
+      "tema": "Animais Com Nome de Cor no Composto",
       "palavras": [
-        "Ponte",
-        "Nó",
-        "Elo",
-        "Vínculo"
+        "Urso-pardo",
+        "Garça-branca",
+        "Cisne-negro",
+        "Raposa-vermelha"
       ]
     },
     {
-      "tema": "Conceitos ou Fontes de Luz",
+      "tema": "Expressões e Compostos com a Palavra 'Pão'",
       "palavras": [
-        "Facho",
-        "Brilho",
-        "Clareira",
-        "Farol"
+        "Pão-duro",
+        "Pão-de-ló",
+        "Pão-de-queijo",
+        "Pão-e-circo"
       ]
     },
     {
-      "tema": "Tipos de Sons ou Ruídos",
+      "tema": "Sentimentos de Desassossego e Preocupação",
       "palavras": [
-        "Sibilo",
-        "Estrondo",
-        "Murmúrio",
-        "Canto"
+        "Inquietação",
+        "Ansiedade",
+        "Desassossego",
+        "Afliação"
       ]
     }
   ],
-  "data": "2026-09-20"
+  "data": "2026-09-21"
 }
