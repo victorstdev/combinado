@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Técnicas de Impressão e Gravura",
+      "tema": "Parâmetros de Exposição Fotográfica",
       "palavras": [
-        "Serigrafia",
-        "Litografia",
-        "Xilogravura",
-        "Clichê"
+        "Abertura",
+        "Obturador",
+        "ISO",
+        "Flash"
       ]
     },
     {
-      "tema": "Animais Com Nome de Cor no Composto",
+      "tema": "Expressões Idiomáticas com 'Quebrar'",
       "palavras": [
-        "Urso-pardo",
-        "Garça-branca",
-        "Cisne-negro",
-        "Raposa-vermelha"
+        "Gelo",
+        "Silêncio",
+        "Galho",
+        "Promessa"
       ]
     },
     {
-      "tema": "Expressões e Compostos com a Palavra 'Pão'",
+      "tema": "Palavras com Múltiplos Significados",
       "palavras": [
-        "Pão-duro",
-        "Pão-de-ló",
-        "Pão-de-queijo",
-        "Pão-e-circo"
+        "Manga",
+        "Banco",
+        "Serra",
+        "Cabo"
       ]
     },
     {
-      "tema": "Sentimentos de Desassossego e Preocupação",
+      "tema": "Verbos com Irregularidade na 1ª Pessoa do Singular (Presente do Indicativo)",
       "palavras": [
-        "Inquietação",
-        "Ansiedade",
-        "Desassossego",
-        "Afliação"
+        "Fazer",
+        "Dizer",
+        "Trazer",
+        "Valer"
       ]
     }
   ],
-  "data": "2026-09-21"
+  "data": "2026-09-22"
 }
