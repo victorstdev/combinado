@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Parâmetros de Exposição Fotográfica",
+      "tema": "Termos relacionados a toca-discos de vinil",
       "palavras": [
-        "Abertura",
-        "Obturador",
-        "ISO",
-        "Flash"
+        "Agulha",
+        "Bolacha",
+        "Rotação",
+        "Sulco"
       ]
     },
     {
-      "tema": "Expressões Idiomáticas com 'Quebrar'",
+      "tema": "Verbos de técnicas culinárias",
       "palavras": [
-        "Gelo",
-        "Silêncio",
-        "Galho",
-        "Promessa"
+        "Branquear",
+        "Marinar",
+        "Reduzir",
+        "Saltear"
       ]
     },
     {
-      "tema": "Palavras com Múltiplos Significados",
+      "tema": "Termos matemáticos com outros significados comuns",
       "palavras": [
-        "Manga",
-        "Banco",
-        "Serra",
-        "Cabo"
+        "Área",
+        "Volume",
+        "Raiz",
+        "Reta"
       ]
     },
     {
-      "tema": "Verbos com Irregularidade na 1ª Pessoa do Singular (Presente do Indicativo)",
+      "tema": "Objetos que planam ou voam (não seres vivos ou aviões)",
       "palavras": [
-        "Fazer",
-        "Dizer",
-        "Trazer",
-        "Valer"
+        "Pipas",
+        "Balão",
+        "Cometa",
+        "Drones"
       ]
     }
   ],
-  "data": "2026-09-22"
+  "data": "2026-09-23"
 }
