@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos relacionados a toca-discos de vinil",
+      "tema": "Medidas Informais de Quantidade",
       "palavras": [
-        "Agulha",
-        "Bolacha",
-        "Rotação",
-        "Sulco"
+        "Copo",
+        "Xícara",
+        "Gota",
+        "Dedo"
       ]
     },
     {
-      "tema": "Verbos de técnicas culinárias",
+      "tema": "Expressões e Termos Iniciados por 'Pé de'",
       "palavras": [
-        "Branquear",
-        "Marinar",
-        "Reduzir",
-        "Saltear"
+        "Pé-de-moleque",
+        "Pé-de-galinha",
+        "Pé-de-vento",
+        "Pé-de-cabra"
       ]
     },
     {
-      "tema": "Termos matemáticos com outros significados comuns",
+      "tema": "Palavras que Podem Ser Substantivo ou Verbo (Homônimos)",
       "palavras": [
-        "Área",
-        "Volume",
-        "Raiz",
-        "Reta"
+        "Canto",
+        "Selo",
+        "Causa",
+        "Pega"
       ]
     },
     {
-      "tema": "Objetos que planam ou voam (não seres vivos ou aviões)",
+      "tema": "Termos Comuns Iniciados por 'Bola de'",
       "palavras": [
-        "Pipas",
-        "Balão",
-        "Cometa",
-        "Drones"
+        "Bola-de-neve",
+        "Bola-de-cristal",
+        "Bola-de-gude",
+        "Bola-de-futebol"
       ]
     }
   ],
-  "data": "2026-09-23"
+  "data": "2026-09-24"
 }
