@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Medidas Informais de Quantidade",
+      "tema": "ETAPAS OU FASES",
       "palavras": [
-        "Copo",
-        "Xícara",
-        "Gota",
-        "Dedo"
+        "Degrau",
+        "Ciclo",
+        "Marco",
+        "Fase"
       ]
     },
     {
-      "tema": "Expressões e Termos Iniciados por 'Pé de'",
+      "tema": "TERMOS JURÍDICOS",
       "palavras": [
-        "Pé-de-moleque",
-        "Pé-de-galinha",
-        "Pé-de-vento",
-        "Pé-de-cabra"
+        "Rito",
+        "Foro",
+        "Pena",
+        "Vara"
       ]
     },
     {
-      "tema": "Palavras que Podem Ser Substantivo ou Verbo (Homônimos)",
+      "tema": "PEÇAS DE FIXAÇÃO",
       "palavras": [
-        "Canto",
-        "Selo",
-        "Causa",
-        "Pega"
+        "Morsa",
+        "Braçadeira",
+        "Presilha",
+        "Garras"
       ]
     },
     {
-      "tema": "Termos Comuns Iniciados por 'Bola de'",
+      "tema": "CONCEITOS QUE SE ROMPEM",
       "palavras": [
-        "Bola-de-neve",
-        "Bola-de-cristal",
-        "Bola-de-gude",
-        "Bola-de-futebol"
+        "Silêncio",
+        "Gelo",
+        "Onda",
+        "Recorde"
       ]
     }
   ],
-  "data": "2026-09-24"
+  "data": "2026-09-25"
 }
