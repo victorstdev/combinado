@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "ETAPAS OU FASES",
+      "tema": "Ações Culinárias em Sentido Figurado",
       "palavras": [
-        "Degrau",
-        "Ciclo",
-        "Marco",
-        "Fase"
+        "Cozinhar",
+        "Fritar",
+        "Temperar",
+        "Marinar"
       ]
     },
     {
-      "tema": "TERMOS JURÍDICOS",
+      "tema": "Medidas de Quantidade Informal",
       "palavras": [
-        "Rito",
-        "Foro",
-        "Pena",
-        "Vara"
+        "Gole",
+        "Pitada",
+        "Punhado",
+        "Fio"
       ]
     },
     {
-      "tema": "PEÇAS DE FIXAÇÃO",
+      "tema": "Verbos de Vocalização Animal",
       "palavras": [
-        "Morsa",
-        "Braçadeira",
-        "Presilha",
-        "Garras"
+        "Balir",
+        "Cacarejar",
+        "Zurrar",
+        "Coaxar"
       ]
     },
     {
-      "tema": "CONCEITOS QUE SE ROMPEM",
+      "tema": "Partes do Corpo com Uso Figurativo",
       "palavras": [
-        "Silêncio",
-        "Gelo",
-        "Onda",
-        "Recorde"
+        "Língua",
+        "Cabeça",
+        "Braço",
+        "Mão"
       ]
     }
   ],
-  "data": "2026-09-25"
+  "data": "2026-09-26"
 }
