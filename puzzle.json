@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Ações Culinárias em Sentido Figurado",
+      "tema": "Elementos de Sistemas Mecânicos ou Elétricos",
       "palavras": [
-        "Cozinhar",
-        "Fritar",
-        "Temperar",
-        "Marinar"
+        "Mola",
+        "Fio",
+        "Coroa",
+        "Caixa"
       ]
     },
     {
-      "tema": "Medidas de Quantidade Informal",
+      "tema": "Termos de Geologia ou Acidentes Geográficos",
       "palavras": [
-        "Gole",
-        "Pitada",
-        "Punhado",
-        "Fio"
+        "Planta",
+        "Barra",
+        "Manga",
+        "Canto"
       ]
     },
     {
-      "tema": "Verbos de Vocalização Animal",
+      "tema": "Conceitos da Física e suas Medidas",
       "palavras": [
-        "Balir",
-        "Cacarejar",
-        "Zurrar",
-        "Coaxar"
+        "Força",
+        "Escala",
+        "Ponto",
+        "Linha"
       ]
     },
     {
-      "tema": "Partes do Corpo com Uso Figurativo",
+      "tema": "Termos para 'Destaque' ou 'O Ponto Principal'",
       "palavras": [
-        "Língua",
-        "Cabeça",
-        "Braço",
-        "Mão"
+        "Ataque",
+        "Bico",
+        "Naipe",
+        "Prato"
       ]
     }
   ],
-  "data": "2026-09-26"
+  "data": "2026-09-27"
 }
