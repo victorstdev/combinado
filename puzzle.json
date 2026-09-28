@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos de Sistemas Mecânicos ou Elétricos",
+      "tema": "Ferramentas com nomes de animais ou mitológicos",
       "palavras": [
-        "Mola",
-        "Fio",
+        "Macaco",
+        "Grifo",
+        "Jacaré",
+        "Burro"
+      ]
+    },
+    {
+      "tema": "Tipos de Ligações ou Conexões",
+      "palavras": [
+        "Nó",
+        "Gato",
+        "Solda",
+        "Engate"
+      ]
+    },
+    {
+      "tema": "Palavras com múltiplos sentidos comuns",
+      "palavras": [
         "Coroa",
-        "Caixa"
-      ]
-    },
-    {
-      "tema": "Termos de Geologia ou Acidentes Geográficos",
-      "palavras": [
-        "Planta",
-        "Barra",
         "Manga",
-        "Canto"
+        "Pipa",
+        "Serra"
       ]
     },
     {
-      "tema": "Conceitos da Física e suas Medidas",
+      "tema": "Situações de Engano ou Armadilhas",
       "palavras": [
-        "Força",
-        "Escala",
-        "Ponto",
-        "Linha"
-      ]
-    },
-    {
-      "tema": "Termos para 'Destaque' ou 'O Ponto Principal'",
-      "palavras": [
-        "Ataque",
-        "Bico",
-        "Naipe",
-        "Prato"
+        "Armadilha",
+        "Labirinto",
+        "Cilada",
+        "Teia"
       ]
     }
   ],
-  "data": "2026-09-27"
+  "data": "2026-09-28"
 }
