@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Ferramentas com nomes de animais ou mitológicos",
+      "tema": "Conceitos Fundamentais da Lógica",
       "palavras": [
-        "Macaco",
-        "Grifo",
-        "Jacaré",
-        "Burro"
+        "Premissa",
+        "Conclusão",
+        "Silogismo",
+        "Axioma"
       ]
     },
     {
-      "tema": "Tipos de Ligações ou Conexões",
+      "tema": "Estratégias e Figuras da Retórica",
       "palavras": [
-        "Nó",
-        "Gato",
-        "Solda",
-        "Engate"
+        "Metáfora",
+        "Eufemismo",
+        "Hipérbole",
+        "Ironia"
       ]
     },
     {
-      "tema": "Palavras com múltiplos sentidos comuns",
+      "tema": "Etapas ou Elementos do Processo Judicial",
       "palavras": [
-        "Coroa",
-        "Manga",
-        "Pipa",
-        "Serra"
+        "Inquérito",
+        "Denúncia",
+        "Recurso",
+        "Sentença"
       ]
     },
     {
-      "tema": "Situações de Engano ou Armadilhas",
+      "tema": "Conceitos de Oposição ou Duplicidade",
       "palavras": [
-        "Armadilha",
-        "Labirinto",
-        "Cilada",
-        "Teia"
+        "Paradoxo",
+        "Dilema",
+        "Ambivalência",
+        "Oxímoro"
       ]
     }
   ],
-  "data": "2026-09-28"
+  "data": "2026-09-29"
 }
