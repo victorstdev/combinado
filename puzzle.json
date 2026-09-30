@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Conceitos Fundamentais da Lógica",
+      "tema": "Partes do corpo com outros usos comuns",
       "palavras": [
-        "Premissa",
-        "Conclusão",
-        "Silogismo",
-        "Axioma"
+        "MÃO",
+        "PÉ",
+        "LÍNGUA",
+        "OLHO"
       ]
     },
     {
-      "tema": "Estratégias e Figuras da Retórica",
+      "tema": "Conceitos de movimento e propagação",
       "palavras": [
-        "Metáfora",
-        "Eufemismo",
-        "Hipérbole",
-        "Ironia"
+        "CORRENTE",
+        "ONDA",
+        "MARÉ",
+        "FLUXO"
       ]
     },
     {
-      "tema": "Etapas ou Elementos do Processo Judicial",
+      "tema": "Figuras e termos do baralho",
       "palavras": [
-        "Inquérito",
-        "Denúncia",
-        "Recurso",
-        "Sentença"
+        "ÁS",
+        "REI",
+        "DAMA",
+        "CORINGA"
       ]
     },
     {
-      "tema": "Conceitos de Oposição ou Duplicidade",
+      "tema": "Sinais de pontuação que indicam pausa ou inserção",
       "palavras": [
-        "Paradoxo",
-        "Dilema",
-        "Ambivalência",
-        "Oxímoro"
+        "PONTO",
+        "VÍRGULA",
+        "PARÊNTESES",
+        "TRAVESSÃO"
       ]
     }
   ],
-  "data": "2026-09-29"
+  "data": "2026-09-30"
 }
