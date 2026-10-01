@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes do corpo com outros usos comuns",
+      "tema": "Comidas Típicas Brasileiras",
       "palavras": [
-        "MÃO",
-        "PÉ",
-        "LÍNGUA",
-        "OLHO"
+        "Cuscuz",
+        "Moqueca",
+        "Pamonha",
+        "Acarajé"
       ]
     },
     {
-      "tema": "Conceitos de movimento e propagação",
+      "tema": "Palavras Homógrafas Heterofônicas (escrita igual, som diferente)",
       "palavras": [
-        "CORRENTE",
-        "ONDA",
-        "MARÉ",
-        "FLUXO"
+        "Colher",
+        "Sede",
+        "Molho",
+        "Acerto"
       ]
     },
     {
-      "tema": "Figuras e termos do baralho",
+      "tema": "Unidades de Medida Antigas ou Específicas",
       "palavras": [
-        "ÁS",
-        "REI",
-        "DAMA",
-        "CORINGA"
+        "Légua",
+        "Braça",
+        "Alqueire",
+        "Quilate"
       ]
     },
     {
-      "tema": "Sinais de pontuação que indicam pausa ou inserção",
+      "tema": "Termos Náuticos e de Embarcações",
       "palavras": [
-        "PONTO",
-        "VÍRGULA",
-        "PARÊNTESES",
-        "TRAVESSÃO"
+        "Proa",
+        "Leme",
+        "Âncora",
+        "Convés"
       ]
     }
   ],
-  "data": "2026-09-30"
+  "data": "2026-10-01"
 }
