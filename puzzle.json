@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Comidas Típicas Brasileiras",
+      "tema": "Navegação e seus Duplos Sentidos",
       "palavras": [
-        "Cuscuz",
-        "Moqueca",
-        "Pamonha",
-        "Acarajé"
+        "ÂNCORA",
+        "BOIA",
+        "ROTA",
+        "LEME"
       ]
     },
     {
-      "tema": "Palavras Homógrafas Heterofônicas (escrita igual, som diferente)",
+      "tema": "O Que se Pode \"Quebrar\"",
       "palavras": [
-        "Colher",
-        "Sede",
-        "Molho",
-        "Acerto"
+        "SILÊNCIO",
+        "JEJUM",
+        "RECORDE",
+        "GALHO"
       ]
     },
     {
-      "tema": "Unidades de Medida Antigas ou Específicas",
+      "tema": "Peças de Xadrez com Outros Papéis",
       "palavras": [
-        "Légua",
-        "Braça",
-        "Alqueire",
-        "Quilate"
+        "TORRE",
+        "BISPO",
+        "CAVALO",
+        "REI"
       ]
     },
     {
-      "tema": "Termos Náuticos e de Embarcações",
+      "tema": "Variedades de \"Bola\"",
       "palavras": [
-        "Proa",
-        "Leme",
-        "Âncora",
-        "Convés"
+        "BOLA SETE",
+        "BOLA GATO",
+        "BOLA DE CRISTAL",
+        "BOLA CHEIA"
       ]
     }
   ],
-  "data": "2026-10-01"
+  "data": "2026-10-02"
 }
