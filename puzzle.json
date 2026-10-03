@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Navegação e seus Duplos Sentidos",
+      "tema": "Elementos da Construção Civil",
       "palavras": [
-        "ÂNCORA",
-        "BOIA",
-        "ROTA",
-        "LEME"
+        "Viga",
+        "Pilar",
+        "Caibro",
+        "Balancim"
       ]
     },
     {
-      "tema": "O Que se Pode \"Quebrar\"",
+      "tema": "Principais Impostos no Brasil (Siglas)",
       "palavras": [
-        "SILÊNCIO",
-        "JEJUM",
-        "RECORDE",
-        "GALHO"
+        "IPI",
+        "ICMS",
+        "IPTU",
+        "IOF"
       ]
     },
     {
-      "tema": "Peças de Xadrez com Outros Papéis",
+      "tema": "Peças do Jogo de Xadrez",
       "palavras": [
-        "TORRE",
-        "BISPO",
-        "CAVALO",
-        "REI"
+        "Bispo",
+        "Cavalo",
+        "Torre",
+        "Peão"
       ]
     },
     {
-      "tema": "Variedades de \"Bola\"",
+      "tema": "Substantivos Coletivos",
       "palavras": [
-        "BOLA SETE",
-        "BOLA GATO",
-        "BOLA DE CRISTAL",
-        "BOLA CHEIA"
+        "Bando",
+        "Nuvem",
+        "Tropa",
+        "Cardume"
       ]
     }
   ],
-  "data": "2026-10-02"
+  "data": "2026-10-03"
 }
