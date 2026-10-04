@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Elementos da Construção Civil",
+      "tema": "Componentes de Uma Peça de Roupa",
       "palavras": [
-        "Viga",
-        "Pilar",
-        "Caibro",
-        "Balancim"
+        "Manga",
+        "Punho",
+        "Gola",
+        "Barra"
       ]
     },
     {
-      "tema": "Principais Impostos no Brasil (Siglas)",
+      "tema": "Vocabulário do Mercado Financeiro",
       "palavras": [
-        "IPI",
-        "ICMS",
-        "IPTU",
-        "IOF"
+        "Câmbio",
+        "Lucro",
+        "Juro",
+        "Caixa"
       ]
     },
     {
-      "tema": "Peças do Jogo de Xadrez",
+      "tema": "Cores Originadas de Nomes Botânicos",
       "palavras": [
-        "Bispo",
-        "Cavalo",
-        "Torre",
-        "Peão"
+        "Rosa",
+        "Laranja",
+        "Violeta",
+        "Pêssego"
       ]
     },
     {
-      "tema": "Substantivos Coletivos",
+      "tema": "Animais Usados como Metáfora para Esperteza",
       "palavras": [
-        "Bando",
-        "Nuvem",
-        "Tropa",
-        "Cardume"
+        "Cobra",
+        "Raposa",
+        "Lince",
+        "Águia"
       ]
     }
   ],
-  "data": "2026-10-03"
+  "data": "2026-10-04"
 }
