@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Substantivos que Complementam o Verbo 'Quebrar'",
+      "tema": "Estados que Podem Ser Rompidos",
       "palavras": [
+        "Paz",
         "Silêncio",
-        "Galho",
-        "Gelo",
-        "Recorde"
+        "Calma",
+        "Rotina"
       ]
     },
     {
-      "tema": "Instrumentos de Medição",
+      "tema": "Termos de Baralho e Jogo",
       "palavras": [
-        "Esquadro",
-        "Transferidor",
-        "Balança",
-        "Trena"
+        "Blefe",
+        "Curinga",
+        "Par",
+        "Naipe"
       ]
     },
     {
-      "tema": "Ferramentas de Navegação Antiga",
+      "tema": "Partes Centrais / Miolos",
       "palavras": [
-        "Bússola",
-        "Sextante",
-        "Astrolábio",
-        "Carta"
+        "Caroço",
+        "Miolo",
+        "Gema",
+        "Cerne"
       ]
     },
     {
-      "tema": "Aves com Outras Associações Populares",
+      "tema": "Verbos de Vozes de Animais",
       "palavras": [
-        "Andorinha",
-        "Beija-flor",
-        "Curió",
-        "Condor"
+        "Zurrar",
+        "Relinchar",
+        "Rosnar",
+        "Mugir"
       ]
     }
   ],
-  "data": "2026-10-05"
+  "data": "2026-10-06"
 }
