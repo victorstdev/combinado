@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Estados que Podem Ser Rompidos",
+      "tema": "Termos de Jogos de Cartas",
       "palavras": [
-        "Paz",
-        "Silêncio",
-        "Calma",
-        "Rotina"
+        "Trunfo",
+        "Naipe",
+        "Rodada",
+        "Blefe"
       ]
     },
     {
-      "tema": "Termos de Baralho e Jogo",
+      "tema": "Peças de Xadrez",
       "palavras": [
-        "Blefe",
-        "Curinga",
-        "Par",
-        "Naipe"
+        "Bispo",
+        "Cavalo",
+        "Torre",
+        "Peão"
       ]
     },
     {
-      "tema": "Partes Centrais / Miolos",
+      "tema": "Partes Mecânicas de Um Carro",
       "palavras": [
-        "Caroço",
-        "Miolo",
-        "Gema",
-        "Cerne"
+        "Câmbio",
+        "Volante",
+        "Para-brisa",
+        "Embreagem"
       ]
     },
     {
-      "tema": "Verbos de Vozes de Animais",
+      "tema": "Termos e Expressões com 'Pé'",
       "palavras": [
-        "Zurrar",
-        "Relinchar",
-        "Rosnar",
-        "Mugir"
+        "Pé-quente",
+        "Pé-frio",
+        "Pé-de-moleque",
+        "Pé-grande"
       ]
     }
   ],
-  "data": "2026-10-06"
+  "data": "2026-10-07"
 }
