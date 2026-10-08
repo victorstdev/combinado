@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Termos de Jogos de Cartas",
+      "tema": "EMISSÕES OU LIBERAÇÕES",
       "palavras": [
-        "Trunfo",
-        "Naipe",
-        "Rodada",
-        "Blefe"
+        "Vapor",
+        "Cheiro",
+        "Gás",
+        "Lágrima"
       ]
     },
     {
-      "tema": "Peças de Xadrez",
+      "tema": "ELEMENTOS DE MEDIÇÃO E PADRONIZAÇÃO",
       "palavras": [
-        "Bispo",
-        "Cavalo",
-        "Torre",
-        "Peão"
+        "Bitola",
+        "Diâmetro",
+        "Escala",
+        "Gabarito"
       ]
     },
     {
-      "tema": "Partes Mecânicas de Um Carro",
+      "tema": "ESTRUTURAS DE SUSTENTAÇÃO OU BÁSICAS",
       "palavras": [
-        "Câmbio",
-        "Volante",
-        "Para-brisa",
-        "Embreagem"
+        "Arcabouço",
+        "Esqueleto",
+        "Coluna",
+        "Armação"
       ]
     },
     {
-      "tema": "Termos e Expressões com 'Pé'",
+      "tema": "VERBOS DE FRAGMENTAÇÃO OU DIVISÃO",
       "palavras": [
-        "Pé-quente",
-        "Pé-frio",
-        "Pé-de-moleque",
-        "Pé-grande"
+        "Dissolver",
+        "Cindir",
+        "Fracionar",
+        "Fragmentar"
       ]
     }
   ],
-  "data": "2026-10-07"
+  "data": "2026-10-08"
 }
