@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "EMISSÕES OU LIBERAÇÕES",
+      "tema": "Componentes ou conceitos de instrumentos de corda",
       "palavras": [
-        "Vapor",
-        "Cheiro",
-        "Gás",
-        "Lágrima"
-      ]
-    },
-    {
-      "tema": "ELEMENTOS DE MEDIÇÃO E PADRONIZAÇÃO",
-      "palavras": [
-        "Bitola",
-        "Diâmetro",
+        "Traste",
+        "Pestana",
         "Escala",
-        "Gabarito"
+        "Cavalete"
       ]
     },
     {
-      "tema": "ESTRUTURAS DE SUSTENTAÇÃO OU BÁSICAS",
+      "tema": "Verbos com 'Re-' que sugerem repetição ou reforço",
       "palavras": [
-        "Arcabouço",
-        "Esqueleto",
-        "Coluna",
-        "Armação"
+        "Rebater",
+        "Remeter",
+        "Recarregar",
+        "Reverberar"
       ]
     },
     {
-      "tema": "VERBOS DE FRAGMENTAÇÃO OU DIVISÃO",
+      "tema": "Preparo culinário típico brasileiro",
       "palavras": [
-        "Dissolver",
-        "Cindir",
-        "Fracionar",
-        "Fragmentar"
+        "Moqueca",
+        "Mingau",
+        "Pirão",
+        "Paçoca"
+      ]
+    },
+    {
+      "tema": "Elementos naturais em nomes de cidades brasileiras",
+      "palavras": [
+        "Palmas",
+        "Sol",
+        "Pedra",
+        "Flor"
       ]
     }
   ],
-  "data": "2026-10-08"
+  "data": "2026-10-09"
 }
