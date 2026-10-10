@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes ou conceitos de instrumentos de corda",
+      "tema": "Estados Brasileiros com Outros Sentidos",
       "palavras": [
-        "Traste",
-        "Pestana",
-        "Escala",
-        "Cavalete"
+        "Goiás",
+        "Minas",
+        "Pará",
+        "Espírito Santo"
       ]
     },
     {
-      "tema": "Verbos com 'Re-' que sugerem repetição ou reforço",
+      "tema": "Adjetivos de Curta Duração",
       "palavras": [
-        "Rebater",
-        "Remeter",
-        "Recarregar",
-        "Reverberar"
+        "Efêmero",
+        "Fugaz",
+        "Breve",
+        "Transitório"
       ]
     },
     {
-      "tema": "Preparo culinário típico brasileiro",
+      "tema": "Partes da Roupa com Múltiplos Significados",
       "palavras": [
-        "Moqueca",
-        "Mingau",
-        "Pirão",
-        "Paçoca"
+        "Manga",
+        "Meia",
+        "Gola",
+        "Pala"
       ]
     },
     {
-      "tema": "Elementos naturais em nomes de cidades brasileiras",
+      "tema": "Conceitos de Percepção e Ilusão",
       "palavras": [
-        "Palmas",
-        "Sol",
-        "Pedra",
-        "Flor"
+        "Espelho",
+        "Miragem",
+        "Aparência",
+        "Fachada"
       ]
     }
   ],
-  "data": "2026-10-09"
+  "data": "2026-10-10"
 }
