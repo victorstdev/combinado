@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Estados Brasileiros com Outros Sentidos",
+      "tema": "Palavras de Origem Tupi-Guarani (ou relacionadas à cultura indígena brasileira)",
       "palavras": [
-        "Goiás",
-        "Minas",
-        "Pará",
-        "Espírito Santo"
+        "Guarani",
+        "Maraca",
+        "Caiçara",
+        "Xingu"
       ]
     },
     {
-      "tema": "Adjetivos de Curta Duração",
+      "tema": "Termos Ambientais e Geológicos",
       "palavras": [
-        "Efêmero",
-        "Fugaz",
-        "Breve",
-        "Transitório"
+        "Duna",
+        "Estiagem",
+        "Maresia",
+        "Furna"
       ]
     },
     {
-      "tema": "Partes da Roupa com Múltiplos Significados",
+      "tema": "Unidades de Medida Antigas",
       "palavras": [
-        "Manga",
-        "Meia",
-        "Gola",
-        "Pala"
+        "Braça",
+        "Légua",
+        "Alqueire",
+        "Arrátel"
       ]
     },
     {
-      "tema": "Conceitos de Percepção e Ilusão",
+      "tema": "Elementos da Cultura Brasileira com Outros Sentidos",
       "palavras": [
-        "Espelho",
-        "Miragem",
-        "Aparência",
-        "Fachada"
+        "Charque",
+        "Piaui",
+        "Sabiá",
+        "Capitânia"
       ]
     }
   ],
-  "data": "2026-10-10"
+  "data": "2026-10-11"
 }
