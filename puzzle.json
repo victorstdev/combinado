@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Palavras de Origem Tupi-Guarani (ou relacionadas à cultura indígena brasileira)",
+      "tema": "Expressões Populares Começadas por \"Pé\"",
       "palavras": [
-        "Guarani",
-        "Maraca",
-        "Caiçara",
-        "Xingu"
+        "Pé-de-moleque",
+        "Pé-direito",
+        "Pé-rapado",
+        "Pé-de-cabra"
       ]
     },
     {
-      "tema": "Termos Ambientais e Geológicos",
+      "tema": "Aves Cujas Carnes Mantêm o Nome do Animal",
       "palavras": [
-        "Duna",
-        "Estiagem",
-        "Maresia",
-        "Furna"
+        "Peru",
+        "Pato",
+        "Galinha",
+        "Codorna"
       ]
     },
     {
-      "tema": "Unidades de Medida Antigas",
+      "tema": "Componentes de uma Caneta Esferográfica",
       "palavras": [
-        "Braça",
-        "Légua",
-        "Alqueire",
-        "Arrátel"
+        "Carga",
+        "Ponta",
+        "Tinta",
+        "Corpo"
       ]
     },
     {
-      "tema": "Elementos da Cultura Brasileira com Outros Sentidos",
+      "tema": "Nomes de Rios Brasileiros que São Adjetivos Comuns",
       "palavras": [
-        "Charque",
-        "Piaui",
-        "Sabiá",
-        "Capitânia"
+        "Doce",
+        "Claro",
+        "Grande",
+        "Verde"
       ]
     }
   ],
-  "data": "2026-10-11"
+  "data": "2026-10-12"
 }
