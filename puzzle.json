@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Ações de 'Quebrar' (no sentido de romper ou interromper)",
+      "tema": "Palavras que podem ser seguidas por 'de mesa'",
       "palavras": [
-        "Gelo",
-        "Silêncio",
-        "Jejum",
-        "Recorde"
+        "Cadeira",
+        "Toalha",
+        "Tênis",
+        "Jogo"
       ]
     },
     {
-      "tema": "Partes de Árvores com Múltiplos Sentidos",
+      "tema": "Partes de instrumentos de cordas (violão/guitarra)",
       "palavras": [
-        "Manga",
-        "Copa",
-        "Folha",
-        "Tronco"
+        "Pestana",
+        "Braço",
+        "Traste",
+        "Cravelha"
       ]
     },
     {
-      "tema": "Conceitos da Matemática",
+      "tema": "Medidas informais de volume de líquido",
       "palavras": [
-        "Raiz",
-        "Média",
-        "Potência",
-        "Divisor"
+        "Gota",
+        "Gole",
+        "Fio",
+        "Pingo"
       ]
     },
     {
-      "tema": "Palavras Relacionadas a Conexão ou Ligação",
+      "tema": "Coisas que 'correm'",
       "palavras": [
-        "Gato",
-        "Nó",
-        "Ponte",
-        "Elo"
+        "Rio",
+        "Rua",
+        "Sangue",
+        "Tempo"
       ]
     }
   ],
-  "data": "2026-10-13"
+  "data": "2026-10-14"
 }
