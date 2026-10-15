@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Palavras que podem ser seguidas por 'de mesa'",
+      "tema": "TIPOS DE VOZ (CANTO)",
       "palavras": [
-        "Cadeira",
-        "Toalha",
-        "Tênis",
-        "Jogo"
+        "Soprano",
+        "Contralto",
+        "Tenor",
+        "Barítono"
       ]
     },
     {
-      "tema": "Partes de instrumentos de cordas (violão/guitarra)",
+      "tema": "TERMOS DE CONTABILIDADE",
       "palavras": [
-        "Pestana",
-        "Braço",
-        "Traste",
-        "Cravelha"
+        "Ativo",
+        "Passivo",
+        "Balanço",
+        "Débito"
       ]
     },
     {
-      "tema": "Medidas informais de volume de líquido",
+      "tema": "PALAVRAS RELACIONADAS A FONTES/ORIGEM",
       "palavras": [
-        "Gota",
-        "Gole",
-        "Fio",
-        "Pingo"
+        "Mina",
+        "Rocha",
+        "Corrente",
+        "Fonte"
       ]
     },
     {
-      "tema": "Coisas que 'correm'",
+      "tema": "GÊNEROS LITERÁRIOS",
       "palavras": [
-        "Rio",
-        "Rua",
-        "Sangue",
-        "Tempo"
+        "Épico",
+        "Lírico",
+        "Ensaio",
+        "Drama"
       ]
     }
   ],
-  "data": "2026-10-14"
+  "data": "2026-10-15"
 }
