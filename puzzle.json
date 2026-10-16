@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "TIPOS DE VOZ (CANTO)",
+      "tema": "Peças de Xadrez",
       "palavras": [
-        "Soprano",
-        "Contralto",
-        "Tenor",
-        "Barítono"
+        "Bispo",
+        "Torre",
+        "Cavalo",
+        "Peão"
       ]
     },
     {
-      "tema": "TERMOS DE CONTABILIDADE",
+      "tema": "Partes do Corpo com Outros Significados Geográficos",
       "palavras": [
-        "Ativo",
-        "Passivo",
-        "Balanço",
-        "Débito"
+        "Cabeça",
+        "Pé",
+        "Boca",
+        "Braço"
       ]
     },
     {
-      "tema": "PALAVRAS RELACIONADAS A FONTES/ORIGEM",
+      "tema": "Verbos de Escrita Formal ou Documentação",
       "palavras": [
-        "Mina",
-        "Rocha",
-        "Corrente",
-        "Fonte"
+        "Redigir",
+        "Lavrar",
+        "Pontuar",
+        "Transcrever"
       ]
     },
     {
-      "tema": "GÊNEROS LITERÁRIOS",
+      "tema": "Cores que Também Nomeiam Frutas, Plantas ou Temperos",
       "palavras": [
-        "Épico",
-        "Lírico",
-        "Ensaio",
-        "Drama"
+        "Laranja",
+        "Lima",
+        "Oliva",
+        "Açafrão"
       ]
     }
   ],
-  "data": "2026-10-15"
+  "data": "2026-10-16"
 }
