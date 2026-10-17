@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Peças de Xadrez",
+      "tema": "Expressões ou Objetos com a palavra 'Pé'",
       "palavras": [
+        "Pé de moleque",
+        "Pé de pato",
+        "Pé de cabra",
+        "Pé de galinha"
+      ]
+    },
+    {
+      "tema": "Termos do Xadrez",
+      "palavras": [
+        "Roque",
+        "Gambito",
         "Bispo",
-        "Torre",
-        "Cavalo",
-        "Peão"
+        "Afogado"
       ]
     },
     {
-      "tema": "Partes do Corpo com Outros Significados Geográficos",
+      "tema": "Expressões Idiomáticas com 'Mão'",
       "palavras": [
-        "Cabeça",
-        "Pé",
-        "Boca",
-        "Braço"
+        "Mão-boba",
+        "Mão-única",
+        "Mão-franca",
+        "Mão de obra"
       ]
     },
     {
-      "tema": "Verbos de Escrita Formal ou Documentação",
+      "tema": "Nomes de Frutas que Também São Cores",
       "palavras": [
-        "Redigir",
-        "Lavrar",
-        "Pontuar",
-        "Transcrever"
-      ]
-    },
-    {
-      "tema": "Cores que Também Nomeiam Frutas, Plantas ou Temperos",
-      "palavras": [
-        "Laranja",
-        "Lima",
+        "Romã",
         "Oliva",
-        "Açafrão"
+        "Pêssego",
+        "Cereja"
       ]
     }
   ],
-  "data": "2026-10-16"
+  "data": "2026-10-17"
 }
