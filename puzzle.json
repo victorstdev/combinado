@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Expressões ou Objetos com a palavra 'Pé'",
+      "tema": "Componentes de Instrumentos Musicais",
       "palavras": [
-        "Pé de moleque",
-        "Pé de pato",
-        "Pé de cabra",
-        "Pé de galinha"
+        "Corda",
+        "Braço",
+        "Palheta",
+        "Ponte"
       ]
     },
     {
-      "tema": "Termos do Xadrez",
+      "tema": "Figuras do Folclore Brasileiro",
       "palavras": [
-        "Roque",
-        "Gambito",
-        "Bispo",
-        "Afogado"
+        "Boto",
+        "Curupira",
+        "Mula",
+        "Saci"
       ]
     },
     {
-      "tema": "Expressões Idiomáticas com 'Mão'",
+      "tema": "Locais ou Características de Corpos D'água",
       "palavras": [
-        "Mão-boba",
-        "Mão-única",
-        "Mão-franca",
-        "Mão de obra"
+        "Vau",
+        "Corrente",
+        "Rasa",
+        "Boca"
       ]
     },
     {
-      "tema": "Nomes de Frutas que Também São Cores",
+      "tema": "Partes do Corpo em Expressões Idiomáticas",
       "palavras": [
-        "Romã",
-        "Oliva",
-        "Pêssego",
-        "Cereja"
+        "Barba",
+        "Pelo",
+        "Olho",
+        "Cabelo"
       ]
     }
   ],
-  "data": "2026-10-17"
+  "data": "2026-10-18"
 }
