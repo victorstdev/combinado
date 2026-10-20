@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Componentes de Instrumentos Musicais",
+      "tema": "Ações de Montagem e Edição",
+      "palavras": [
+        "Decupar",
+        "Cortar",
+        "Montar",
+        "Revisar"
+      ]
+    },
+    {
+      "tema": "Componentes de Instrumentos de Corda",
       "palavras": [
         "Braço",
-        "Embocadura",
-        "Tampo",
-        "Pele"
+        "Traste",
+        "Cavalete",
+        "Tarraxa"
       ]
     },
     {
-      "tema": "Termos com 'Pé' (em diferentes contextos)",
+      "tema": "Verbos de Início Súbito ou Ruptura",
       "palavras": [
-        "Pé-frio",
-        "Pé-de-moleque",
-        "Pé-direito",
-        "Pé-d'água"
+        "Disparar",
+        "Arrancar",
+        "Irromper",
+        "Estourar"
       ]
     },
     {
-      "tema": "Conceitos Gramaticais e Linguísticos",
+      "tema": "Termos de Organização Hierárquica/Vertical",
       "palavras": [
-        "Voz passiva",
-        "Pleonasmo",
-        "Regência",
-        "Concordância"
-      ]
-    },
-    {
-      "tema": "Elementos com Funções Determinantes",
-      "palavras": [
-        "Coringa",
-        "Figurante",
-        "Peça-chave",
-        "Elo"
+        "Escalão",
+        "Patamar",
+        "Gradiente",
+        "Hierarquia"
       ]
     }
   ],
-  "data": "2026-10-19"
+  "data": "2026-10-20"
 }
