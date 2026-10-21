@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Ações de Montagem e Edição",
+      "tema": "Instrumentos de Navegação Marítima",
       "palavras": [
-        "Decupar",
-        "Cortar",
-        "Montar",
-        "Revisar"
+        "Bússola",
+        "Sextante",
+        "Cronômetro",
+        "Ecosonda"
       ]
     },
     {
-      "tema": "Componentes de Instrumentos de Corda",
+      "tema": "Tipos de Massa Culinária",
       "palavras": [
-        "Braço",
-        "Traste",
-        "Cavalete",
-        "Tarraxa"
+        "Talharim",
+        "Lasanha",
+        "Nhoque",
+        "Pastel"
       ]
     },
     {
-      "tema": "Verbos de Início Súbito ou Ruptura",
+      "tema": "Componentes Internos de Computador",
       "palavras": [
+        "Placa",
+        "Processador",
+        "Memória",
+        "Chip"
+      ]
+    },
+    {
+      "tema": "Verbos de Movimento Acelerado ou Repentino",
+      "palavras": [
+        "Saltar",
         "Disparar",
-        "Arrancar",
-        "Irromper",
-        "Estourar"
-      ]
-    },
-    {
-      "tema": "Termos de Organização Hierárquica/Vertical",
-      "palavras": [
-        "Escalão",
-        "Patamar",
-        "Gradiente",
-        "Hierarquia"
+        "Deslizar",
+        "Esgueirar"
       ]
     }
   ],
-  "data": "2026-10-20"
+  "data": "2026-10-21"
 }
