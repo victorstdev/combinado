@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Instrumentos de Navegação Marítima",
+      "tema": "Peças do jogo de xadrez",
       "palavras": [
-        "Bússola",
-        "Sextante",
-        "Cronômetro",
-        "Ecosonda"
+        "Rainha",
+        "Torre",
+        "Peão",
+        "Bispo"
       ]
     },
     {
-      "tema": "Tipos de Massa Culinária",
+      "tema": "Objetos e fenômenos que voam ou flutuam",
       "palavras": [
-        "Talharim",
-        "Lasanha",
-        "Nhoque",
-        "Pastel"
+        "Pipa",
+        "Balão",
+        "Cometa",
+        "Ás"
       ]
     },
     {
-      "tema": "Componentes Internos de Computador",
+      "tema": "Componentes estruturais de uma casa",
       "palavras": [
-        "Placa",
-        "Processador",
-        "Memória",
-        "Chip"
+        "Pilar",
+        "Viga",
+        "Alicerce",
+        "Cumeeira"
       ]
     },
     {
-      "tema": "Verbos de Movimento Acelerado ou Repentino",
+      "tema": "Nomes de cores que são também substantivos comuns",
       "palavras": [
-        "Saltar",
-        "Disparar",
-        "Deslizar",
-        "Esgueirar"
+        "Laranja",
+        "Esmeralda",
+        "Índigo",
+        "Carmesim"
       ]
     }
   ],
-  "data": "2026-10-21"
+  "data": "2026-10-22"
 }
