@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Peças do jogo de xadrez",
+      "tema": "Expressões com 'Quebrar' (sentido figurado)",
       "palavras": [
-        "Rainha",
+        "Silêncio",
+        "Galho",
+        "Gelo",
+        "Cara"
+      ]
+    },
+    {
+      "tema": "Partes de Plantas (com múltiplos sentidos)",
+      "palavras": [
+        "Raiz",
+        "Folha",
+        "Tronco",
+        "Gomo"
+      ]
+    },
+    {
+      "tema": "Peças de Xadrez (com outros significados)",
+      "palavras": [
         "Torre",
-        "Peão",
+        "Rei",
+        "Cavalo",
         "Bispo"
       ]
     },
     {
-      "tema": "Objetos e fenômenos que voam ou flutuam",
+      "tema": "Expressões com o verbo 'Pegar'",
       "palavras": [
-        "Pipa",
-        "Balão",
-        "Cometa",
-        "Ás"
-      ]
-    },
-    {
-      "tema": "Componentes estruturais de uma casa",
-      "palavras": [
-        "Pilar",
-        "Viga",
-        "Alicerce",
-        "Cumeeira"
-      ]
-    },
-    {
-      "tema": "Nomes de cores que são também substantivos comuns",
-      "palavras": [
-        "Laranja",
-        "Esmeralda",
-        "Índigo",
-        "Carmesim"
+        "Pesado",
+        "No Ar",
+        "Fogo",
+        "Mal"
       ]
     }
   ],
-  "data": "2026-10-22"
+  "data": "2026-10-23"
 }
