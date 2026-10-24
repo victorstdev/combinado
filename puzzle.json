@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Expressões com 'Quebrar' (sentido figurado)",
+      "tema": "COMPONENTES DE UMA IMPRESSORA",
       "palavras": [
-        "Silêncio",
-        "Galho",
-        "Gelo",
-        "Cara"
+        "Tambor",
+        "Fusor",
+        "Cartucho",
+        "Cilindro"
       ]
     },
     {
-      "tema": "Partes de Plantas (com múltiplos sentidos)",
+      "tema": "FORMAÇÕES GEOLÓGICAS/GEOMORFOLÓGICAS",
       "palavras": [
-        "Raiz",
-        "Folha",
-        "Tronco",
-        "Gomo"
+        "Planalto",
+        "Falésia",
+        "Ria",
+        "Duna"
       ]
     },
     {
-      "tema": "Peças de Xadrez (com outros significados)",
+      "tema": "TERMOS DE COSTURA E ALFAIATARIA",
       "palavras": [
-        "Torre",
+        "Bainha",
+        "Caseado",
+        "Pesponto",
+        "Trama"
+      ]
+    },
+    {
+      "tema": "CARTAS DE BARALHO (FIGURAS E ESPECIAIS)",
+      "palavras": [
+        "Coringa",
+        "Ás",
         "Rei",
-        "Cavalo",
-        "Bispo"
-      ]
-    },
-    {
-      "tema": "Expressões com o verbo 'Pegar'",
-      "palavras": [
-        "Pesado",
-        "No Ar",
-        "Fogo",
-        "Mal"
+        "Valete"
       ]
     }
   ],
-  "data": "2026-10-23"
+  "data": "2026-10-24"
 }
