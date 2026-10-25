@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "COMPONENTES DE UMA IMPRESSORA",
+      "tema": "Expressões com Partes do Corpo",
       "palavras": [
-        "Tambor",
-        "Fusor",
-        "Cartucho",
-        "Cilindro"
+        "Pé",
+        "Mão",
+        "Cabeça",
+        "Olho"
       ]
     },
     {
-      "tema": "FORMAÇÕES GEOLÓGICAS/GEOMORFOLÓGICAS",
+      "tema": "Termos de Criptografia/Segurança",
       "palavras": [
-        "Planalto",
-        "Falésia",
-        "Ria",
-        "Duna"
+        "Chave",
+        "Sal",
+        "Hash",
+        "Cifra"
       ]
     },
     {
-      "tema": "TERMOS DE COSTURA E ALFAIATARIA",
+      "tema": "Sinônimos de 'Carga' ou 'Peso' (Figurado/Técnico)",
       "palavras": [
-        "Bainha",
-        "Caseado",
-        "Pesponto",
-        "Trama"
+        "Carga",
+        "Ônus",
+        "Gravame",
+        "Lastro"
       ]
     },
     {
-      "tema": "CARTAS DE BARALHO (FIGURAS E ESPECIAIS)",
+      "tema": "Elementos de uma Performance Musical",
       "palavras": [
-        "Coringa",
-        "Ás",
-        "Rei",
-        "Valete"
+        "Batuta",
+        "Partitura",
+        "Palco",
+        "Regente"
       ]
     }
   ],
-  "data": "2026-10-24"
+  "data": "2026-10-25"
 }
