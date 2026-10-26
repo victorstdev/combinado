@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Expressões com Partes do Corpo",
+      "tema": "Variedades e preparos de café",
       "palavras": [
-        "Pé",
-        "Mão",
-        "Cabeça",
-        "Olho"
+        "ARABICA",
+        "COADO",
+        "PINGADO",
+        "CAFÉ"
       ]
     },
     {
-      "tema": "Termos de Criptografia/Segurança",
+      "tema": "Pratos e ingredientes típicos do Brasil",
       "palavras": [
-        "Chave",
-        "Sal",
-        "Hash",
-        "Cifra"
+        "TUCUPI",
+        "FAROFA",
+        "ACARAJÉ",
+        "PIRÃO"
       ]
     },
     {
-      "tema": "Sinônimos de 'Carga' ou 'Peso' (Figurado/Técnico)",
+      "tema": "Componentes e acessórios de um livro",
       "palavras": [
-        "Carga",
-        "Ônus",
-        "Gravame",
-        "Lastro"
+        "LOMBADA",
+        "CAPA",
+        "PREFÁCIO",
+        "MARCADOR"
       ]
     },
     {
-      "tema": "Elementos de uma Performance Musical",
+      "tema": "Figuras de linguagem e termos gramaticais",
       "palavras": [
-        "Batuta",
-        "Partitura",
-        "Palco",
-        "Regente"
+        "METÁFORA",
+        "ELIPSE",
+        "CONJUNÇÃO",
+        "PLEONASMO"
       ]
     }
   ],
-  "data": "2026-10-25"
+  "data": "2026-10-26"
 }
