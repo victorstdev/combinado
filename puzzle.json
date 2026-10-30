@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Variedades e preparos de café",
+      "tema": "Gírias para problema ou situação complicada",
       "palavras": [
-        "ARABICA",
-        "COADO",
-        "PINGADO",
-        "CAFÉ"
+        "Abacaxi",
+        "Bucha",
+        "Pepino",
+        "Rojão"
       ]
     },
     {
-      "tema": "Pratos e ingredientes típicos do Brasil",
+      "tema": "Cortes de carne bovina",
       "palavras": [
-        "TUCUPI",
-        "FAROFA",
-        "ACARAJÉ",
-        "PIRÃO"
+        "Bananinha",
+        "Cupim",
+        "Lagarto",
+        "Paleta"
       ]
     },
     {
-      "tema": "Componentes e acessórios de um livro",
+      "tema": "Gírias brasileiras para dinheiro",
       "palavras": [
-        "LOMBADA",
-        "CAPA",
-        "PREFÁCIO",
-        "MARCADOR"
+        "Barão",
+        "Conto",
+        "Pau",
+        "Pila"
       ]
     },
     {
-      "tema": "Figuras de linguagem e termos gramaticais",
+      "tema": "Cidades brasileiras que são substantivos comuns ou adjetivos",
       "palavras": [
-        "METÁFORA",
-        "ELIPSE",
-        "CONJUNÇÃO",
-        "PLEONASMO"
+        "Bonito",
+        "Natal",
+        "Palmas",
+        "Tubarão"
       ]
     }
   ],
-  "data": "2026-10-26"
+  "data": "2026-10-30"
 }
