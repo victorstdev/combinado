@@ -16,7 +16,7 @@ def gerar_puzzle():
     print("🤖 Consultando o Gemini 2.5 Flash...")
 
     # ATUALIZAÇÃO: Usando o modelo disponível na sua lista
-    modelo_nome = 'models/gemini-2.5-flash'
+    modelo_nome = 'models/gemini-3.8-flash'
     
     try:
         # Configuração para garantir resposta em JSON
