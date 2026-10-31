@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Gírias para problema ou situação complicada",
+      "tema": "Cortes de carne bovina com nomes de animais",
       "palavras": [
-        "Abacaxi",
-        "Bucha",
-        "Pepino",
-        "Rojão"
-      ]
-    },
-    {
-      "tema": "Cortes de carne bovina",
-      "palavras": [
-        "Bananinha",
         "Cupim",
         "Lagarto",
-        "Paleta"
+        "Patinho",
+        "Peixinho"
       ]
     },
     {
-      "tema": "Gírias brasileiras para dinheiro",
+      "tema": "Animais estampados nas cédulas do Real",
       "palavras": [
-        "Barão",
-        "Conto",
-        "Pau",
-        "Pila"
+        "Arara",
+        "Garoupa",
+        "Mico",
+        "Tartaruga"
       ]
     },
     {
-      "tema": "Cidades brasileiras que são substantivos comuns ou adjetivos",
+      "tema": "Unidades de medida do sistema imperial",
       "palavras": [
-        "Bonito",
-        "Natal",
-        "Palmas",
-        "Tubarão"
+        "Libra",
+        "Onça",
+        "Pé",
+        "Polegada"
+      ]
+    },
+    {
+      "tema": "Palavras cujo significado muda conforme o gênero (o/a)",
+      "palavras": [
+        "Cabeça",
+        "Caixa",
+        "Capital",
+        "Grama"
       ]
     }
   ],
-  "data": "2026-10-30"
+  "data": "2026-10-31"
 }
