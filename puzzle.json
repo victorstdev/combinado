@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Cortes de carne bovina com nomes de animais",
+      "tema": "Cortes de carne bovina",
       "palavras": [
         "Cupim",
         "Lagarto",
-        "Patinho",
-        "Peixinho"
+        "Músculo",
+        "Patinho"
       ]
     },
     {
-      "tema": "Animais estampados nas cédulas do Real",
+      "tema": "Animais nas cédulas do Real",
       "palavras": [
         "Arara",
-        "Garoupa",
-        "Mico",
-        "Tartaruga"
+        "Garça",
+        "Lobo",
+        "Onça"
       ]
     },
     {
-      "tema": "Unidades de medida do sistema imperial",
+      "tema": "Tipos de feijão",
       "palavras": [
-        "Libra",
-        "Onça",
-        "Pé",
-        "Polegada"
+        "Carioca",
+        "Corda",
+        "Fradinho",
+        "Preto"
       ]
     },
     {
-      "tema": "Palavras cujo significado muda conforme o gênero (o/a)",
+      "tema": "Partes de um livro",
       "palavras": [
-        "Cabeça",
-        "Caixa",
-        "Capital",
-        "Grama"
+        "Folha",
+        "Índice",
+        "Lombada",
+        "Orelha"
       ]
     }
   ],
-  "data": "2026-10-31"
+  "data": "2026-11-02"
 }
