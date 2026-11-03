@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Cortes de carne bovina",
+      "tema": "Tipos de queijo",
       "palavras": [
-        "Cupim",
-        "Lagarto",
-        "Músculo",
-        "Patinho"
+        "Canastra",
+        "Minas",
+        "Padrão",
+        "Prato"
       ]
     },
     {
-      "tema": "Animais nas cédulas do Real",
+      "tema": "Pratos da culinária brasileira",
       "palavras": [
-        "Arara",
-        "Garça",
-        "Lobo",
-        "Onça"
+        "Cartola",
+        "Dobradinha",
+        "Escondidinho",
+        "Virado"
       ]
     },
     {
-      "tema": "Tipos de feijão",
+      "tema": "Gírias para dinheiro",
       "palavras": [
-        "Carioca",
-        "Corda",
-        "Fradinho",
-        "Preto"
+        "Cascalho",
+        "Conto",
+        "Galo",
+        "Tutu"
       ]
     },
     {
-      "tema": "Partes de um livro",
+      "tema": "Termos de jogos de cartas",
       "palavras": [
-        "Folha",
-        "Índice",
-        "Lombada",
-        "Orelha"
+        "Lixo",
+        "Mico",
+        "Morto",
+        "Trinca"
       ]
     }
   ],
-  "data": "2026-11-02"
+  "data": "2026-11-03"
 }
