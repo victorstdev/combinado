@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Tipos de queijo",
+      "tema": "Cortes de carne bovina",
       "palavras": [
-        "Canastra",
-        "Minas",
-        "Padrão",
-        "Prato"
+        "Cupim",
+        "Fraldinha",
+        "Lagarto",
+        "Patinho"
       ]
     },
     {
-      "tema": "Pratos da culinária brasileira",
+      "tema": "Cidades brasileiras",
       "palavras": [
-        "Cartola",
-        "Dobradinha",
-        "Escondidinho",
-        "Virado"
+        "Formiga",
+        "Natal",
+        "Palmas",
+        "Vitória"
       ]
     },
     {
-      "tema": "Gírias para dinheiro",
+      "tema": "Peixes da fauna brasileira",
       "palavras": [
-        "Cascalho",
-        "Conto",
-        "Galo",
-        "Tutu"
+        "Bonito",
+        "Dourado",
+        "Namorado",
+        "Pintado"
       ]
     },
     {
-      "tema": "Termos de jogos de cartas",
+      "tema": "Golpes e movimentos da capoeira",
       "palavras": [
-        "Lixo",
-        "Mico",
-        "Morto",
-        "Trinca"
+        "Martelo",
+        "Meia-lua",
+        "Rasteira",
+        "Tesoura"
       ]
     }
   ],
-  "data": "2026-11-03"
+  "data": "2026-11-06"
 }
