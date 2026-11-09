@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Cortes de carne bovina",
+      "tema": "Peixes de água doce do Brasil",
       "palavras": [
-        "Fraldinha",
-        "Lagarto",
-        "Maminha",
-        "Patinho"
+        "Cascudo",
+        "Dourado",
+        "Pintado",
+        "Traíra"
       ]
     },
     {
-      "tema": "Tipos de feijão",
+      "tema": "Municípios de Minas Gerais",
       "palavras": [
-        "Carioca",
-        "Corda",
-        "Fradinho",
-        "Manteiga"
+        "Arcos",
+        "Formiga",
+        "Machado",
+        "Passos"
       ]
     },
     {
-      "tema": "Jogos de cartas populares",
+      "tema": "Objetos que possuem dentes",
       "palavras": [
-        "Buraco",
-        "Sueca",
-        "Tranca",
-        "Truco"
-      ]
-    },
-    {
-      "tema": "Coisas que têm dentes",
-      "palavras": [
-        "Alho",
         "Engrenagem",
         "Pente",
-        "Serra"
+        "Serra",
+        "Zíper"
+      ]
+    },
+    {
+      "tema": "Formatos populares de macarrão",
+      "palavras": [
+        "Caracol",
+        "Conchinha",
+        "Gravatinha",
+        "Parafuso"
       ]
     }
   ],
-  "data": "2026-11-08"
+  "data": "2026-11-09"
 }
