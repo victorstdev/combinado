@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Peixes de água doce do Brasil",
+      "tema": "Partes da estrutura física de um livro",
       "palavras": [
-        "Cascudo",
-        "Dourado",
-        "Pintado",
-        "Traíra"
+        "Folha",
+        "Lombada",
+        "Miolo",
+        "Orelha"
       ]
     },
     {
-      "tema": "Municípios de Minas Gerais",
+      "tema": "Elementos de sinalização e vias de trânsito",
       "palavras": [
-        "Arcos",
-        "Formiga",
-        "Machado",
-        "Passos"
+        "Acostamento",
+        "Meio-fio",
+        "Tachão",
+        "Tartaruga"
       ]
     },
     {
-      "tema": "Objetos que possuem dentes",
+      "tema": "Peças de vestuário e acessórios",
       "palavras": [
-        "Engrenagem",
-        "Pente",
-        "Serra",
-        "Zíper"
+        "Capa",
+        "Cinto",
+        "Colete",
+        "Meia"
       ]
     },
     {
       "tema": "Formatos populares de macarrão",
       "palavras": [
         "Caracol",
-        "Conchinha",
-        "Gravatinha",
+        "Concha",
+        "Gravata",
         "Parafuso"
       ]
     }
   ],
-  "data": "2026-11-09"
+  "data": "2026-11-10"
 }
