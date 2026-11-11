@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes da estrutura física de um livro",
+      "tema": "Gírias para situação complicada ou problema",
       "palavras": [
-        "Folha",
-        "Lombada",
-        "Miolo",
-        "Orelha"
+        "Abacaxi",
+        "Bucha",
+        "Osso",
+        "Pepino"
       ]
     },
     {
-      "tema": "Elementos de sinalização e vias de trânsito",
+      "tema": "Partes de um calçado",
       "palavras": [
-        "Acostamento",
-        "Meio-fio",
-        "Tachão",
-        "Tartaruga"
+        "Bico",
+        "Língua",
+        "Salto",
+        "Sola"
       ]
     },
     {
-      "tema": "Peças de vestuário e acessórios",
+      "tema": "Cortes de carne bovina",
       "palavras": [
-        "Capa",
-        "Cinto",
-        "Colete",
-        "Meia"
+        "Acém",
+        "Alcatra",
+        "Cupim",
+        "Lagarto"
       ]
     },
     {
-      "tema": "Formatos populares de macarrão",
+      "tema": "Artefatos pirotécnicos",
       "palavras": [
-        "Caracol",
-        "Concha",
-        "Gravata",
-        "Parafuso"
+        "Buscapé",
+        "Morteiro",
+        "Rojão",
+        "Traque"
       ]
     }
   ],
-  "data": "2026-11-10"
+  "data": "2026-11-11"
 }
