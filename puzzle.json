@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Gírias para situação complicada ou problema",
-      "palavras": [
-        "Abacaxi",
-        "Bucha",
-        "Osso",
-        "Pepino"
-      ]
-    },
-    {
-      "tema": "Partes de um calçado",
-      "palavras": [
-        "Bico",
-        "Língua",
-        "Salto",
-        "Sola"
-      ]
-    },
-    {
       "tema": "Cortes de carne bovina",
       "palavras": [
-        "Acém",
-        "Alcatra",
         "Cupim",
-        "Lagarto"
+        "Fraldinha",
+        "Lagarto",
+        "Patinho"
       ]
     },
     {
-      "tema": "Artefatos pirotécnicos",
+      "tema": "Cidades brasileiras",
       "palavras": [
-        "Buscapé",
-        "Morteiro",
-        "Rojão",
-        "Traque"
+        "Cascavel",
+        "Formiga",
+        "Garça",
+        "Tubarão"
+      ]
+    },
+    {
+      "tema": "Dribles tradicionais do futebol",
+      "palavras": [
+        "Caneta",
+        "Chapéu",
+        "Elástico",
+        "Lençol"
+      ]
+    },
+    {
+      "tema": "Coisas que têm 'dentes'",
+      "palavras": [
+        "Alho",
+        "Engrenagem",
+        "Pente",
+        "Serra"
       ]
     }
   ],
-  "data": "2026-11-11"
+  "data": "2026-11-12"
 }
