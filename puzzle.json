@@ -1,6 +1,15 @@
 {
   "grupos": [
     {
+      "tema": "Partes de um livro impresso",
+      "palavras": [
+        "Capa",
+        "Folha",
+        "Lombada",
+        "Orelha"
+      ]
+    },
+    {
       "tema": "Cortes de carne bovina",
       "palavras": [
         "Cupim",
@@ -10,32 +19,23 @@
       ]
     },
     {
-      "tema": "Cidades brasileiras",
+      "tema": "Municípios de Minas Gerais",
       "palavras": [
-        "Cascavel",
         "Formiga",
-        "Garça",
-        "Tubarão"
+        "Lavras",
+        "Machado",
+        "Passos"
       ]
     },
     {
-      "tema": "Dribles tradicionais do futebol",
+      "tema": "Gírias brasileiras para dinheiro",
       "palavras": [
-        "Caneta",
-        "Chapéu",
-        "Elástico",
-        "Lençol"
-      ]
-    },
-    {
-      "tema": "Coisas que têm 'dentes'",
-      "palavras": [
-        "Alho",
-        "Engrenagem",
-        "Pente",
-        "Serra"
+        "Barão",
+        "Conto",
+        "Mango",
+        "Prata"
       ]
     }
   ],
-  "data": "2026-11-12"
+  "data": "2026-11-13"
 }
