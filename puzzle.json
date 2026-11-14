@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Partes de um livro impresso",
-      "palavras": [
-        "Capa",
-        "Folha",
-        "Lombada",
-        "Orelha"
-      ]
-    },
-    {
       "tema": "Cortes de carne bovina",
       "palavras": [
         "Cupim",
-        "Fraldinha",
         "Lagarto",
-        "Patinho"
+        "Patinho",
+        "Maminha"
       ]
     },
     {
-      "tema": "Municípios de Minas Gerais",
+      "tema": "Cidades mineiras que são substantivos comuns",
       "palavras": [
         "Formiga",
-        "Lavras",
-        "Machado",
-        "Passos"
+        "Passos",
+        "Campanha",
+        "Oliveira"
       ]
     },
     {
-      "tema": "Gírias brasileiras para dinheiro",
+      "tema": "Sobrenomes de autores canônicos da literatura brasileira",
       "palavras": [
-        "Barão",
-        "Conto",
-        "Mango",
-        "Prata"
+        "Machado",
+        "Rosa",
+        "Bandeira",
+        "Amado"
+      ]
+    },
+    {
+      "tema": "Termos do vocabulário eleitoral",
+      "palavras": [
+        "Chapa",
+        "Legenda",
+        "Urna",
+        "Pleito"
       ]
     }
   ],
-  "data": "2026-11-13"
+  "data": "2026-11-14"
 }
