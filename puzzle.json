@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Cortes de carne bovina",
+      "tema": "CORTES DE CARNE BOVINA",
       "palavras": [
+        "Acém",
         "Cupim",
         "Lagarto",
-        "Patinho",
-        "Maminha"
+        "Patinho"
       ]
     },
     {
-      "tema": "Cidades mineiras que são substantivos comuns",
+      "tema": "TÍTULOS DE NOBREZA",
       "palavras": [
-        "Formiga",
-        "Passos",
-        "Campanha",
-        "Oliveira"
+        "Conde",
+        "Duque",
+        "Marquês",
+        "Visconde"
       ]
     },
     {
-      "tema": "Sobrenomes de autores canônicos da literatura brasileira",
+      "tema": "GÊNEROS LITERÁRIOS",
       "palavras": [
-        "Machado",
-        "Rosa",
-        "Bandeira",
-        "Amado"
+        "Crônica",
+        "Ensaio",
+        "Novela",
+        "Romance"
       ]
     },
     {
-      "tema": "Termos do vocabulário eleitoral",
+      "tema": "GÍRIAS BRASILEIRAS PARA DINHEIRO",
       "palavras": [
-        "Chapa",
-        "Legenda",
-        "Urna",
-        "Pleito"
+        "Barão",
+        "Conto",
+        "Galo",
+        "Prata"
       ]
     }
   ],
-  "data": "2026-11-14"
+  "data": "2026-11-17"
 }
