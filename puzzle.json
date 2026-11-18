@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "CORTES DE CARNE BOVINA",
+      "tema": "Variedades de banana",
       "palavras": [
-        "Acém",
-        "Cupim",
-        "Lagarto",
-        "Patinho"
+        "Maçã",
+        "Ouro",
+        "Prata",
+        "Terra"
       ]
     },
     {
-      "tema": "TÍTULOS DE NOBREZA",
+      "tema": "Componentes de uma bateria musical",
       "palavras": [
-        "Conde",
-        "Duque",
-        "Marquês",
-        "Visconde"
+        "Bumbo",
+        "Caixa",
+        "Prato",
+        "Surdo"
       ]
     },
     {
-      "tema": "GÊNEROS LITERÁRIOS",
+      "tema": "Gírias brasileiras para cabeça",
       "palavras": [
-        "Crônica",
-        "Ensaio",
-        "Novela",
-        "Romance"
+        "Coco",
+        "Cuca",
+        "Miolo",
+        "Moringa"
       ]
     },
     {
-      "tema": "GÍRIAS BRASILEIRAS PARA DINHEIRO",
+      "tema": "Coisas que possuem coroa",
       "palavras": [
-        "Barão",
-        "Conto",
-        "Galo",
-        "Prata"
+        "Abacaxi",
+        "Dente",
+        "Rei",
+        "Relógio"
       ]
     }
   ],
-  "data": "2026-11-17"
+  "data": "2026-11-18"
 }
