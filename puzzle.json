@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Variedades de banana",
+      "tema": "Cortes de carne bovina",
       "palavras": [
-        "Maçã",
-        "Ouro",
-        "Prata",
-        "Terra"
+        "Cupim",
+        "Lagarto",
+        "Patinho",
+        "Maminha"
       ]
     },
     {
-      "tema": "Componentes de uma bateria musical",
+      "tema": "Coisas que têm dentes",
       "palavras": [
-        "Bumbo",
-        "Caixa",
-        "Prato",
-        "Surdo"
+        "Alho",
+        "Engrenagem",
+        "Pente",
+        "Serra"
       ]
     },
     {
-      "tema": "Gírias brasileiras para cabeça",
-      "palavras": [
-        "Coco",
-        "Cuca",
-        "Miolo",
-        "Moringa"
-      ]
-    },
-    {
-      "tema": "Coisas que possuem coroa",
+      "tema": "Gírias para problema ou enrascada",
       "palavras": [
         "Abacaxi",
-        "Dente",
-        "Rei",
-        "Relógio"
+        "Pepino",
+        "Bucha",
+        "Rojão"
+      ]
+    },
+    {
+      "tema": "Insetos",
+      "palavras": [
+        "Barata",
+        "Formiga",
+        "Grilo",
+        "Pulga"
       ]
     }
   ],
-  "data": "2026-11-18"
+  "data": "2026-11-19"
 }
