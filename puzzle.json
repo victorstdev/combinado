@@ -1,41 +1,41 @@
 {
   "grupos": [
     {
-      "tema": "Cortes de carne bovina",
+      "tema": "Ossos do corpo humano",
       "palavras": [
-        "Fraldinha",
-        "Lagarto",
-        "Maminha",
-        "Patinho"
+        "Bigorna",
+        "Estribo",
+        "Martelo",
+        "Rádio"
       ]
     },
     {
-      "tema": "Cidades do Paraná",
+      "tema": "Ferramentas manuais",
       "palavras": [
-        "Cascavel",
-        "Curitiba",
-        "Londrina",
-        "Maringá"
+        "Alicate",
+        "Plaina",
+        "Serrote",
+        "Trena"
       ]
     },
     {
-      "tema": "Répteis",
+      "tema": "Equipamentos de montaria",
       "palavras": [
-        "Jabuti",
-        "Jacaré",
-        "Jiboia",
-        "Sucuri"
+        "Chicote",
+        "Espora",
+        "Rédea",
+        "Sela"
       ]
     },
     {
-      "tema": "Palavras que completam a expressão 'Boca de ___'",
+      "tema": "Meios de comunicação em massa",
       "palavras": [
-        "Fumo",
-        "Lobo",
-        "Sino",
-        "Urna"
+        "Internet",
+        "Jornal",
+        "Revista",
+        "Televisão"
       ]
     }
   ],
-  "data": "2026-11-20"
+  "data": "2026-11-21"
 }
